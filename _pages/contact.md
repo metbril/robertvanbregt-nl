@@ -16,10 +16,11 @@ Wil je me iets vertrouwelijks toesturen, doe dat dan in een bericht met [Signal]
 
 <form action="https://formspree.io/contact@robertvanbregt.nl"
           method="POST">
-        <input type="text" name="name" placeholder="je naam" /><br />
-        <input type="email" name="_replyto" placeholder="je email" /><br />
-        <input type="text" name="_subject" placeholder="je onderwerp"><br /><br />
-        <textarea name="message" placeholder="je bericht"  rows="4" cols="50"></textarea><br />
+        <table>
+        <tr><td>Naam:</td><td><input type="text" name="name" placeholder="je naam" required /></td></tr>
+        <tr><td>Email: </td><td><input type="email" name="_replyto" placeholder="je email" required /></td></tr>
+        <tr><td>Onderwerp: </td><td><input type="text" name="_subject" placeholder="je onderwerp" required /></td></tr>
+        <tr><td>Bericht:</td><td><textarea name="message" placeholder="je bericht"  rows="4" cols="50"></textarea></td></tr></table>
         <button type="submit">Verzenden</button>
         <input type="hidden" name="_next" value="{{ "/bedankt" | prepend: site.baseurl | prepend: site.url }}" />
         <input type="hidden" name="_format" value="plain" />
