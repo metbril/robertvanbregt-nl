@@ -18,11 +18,11 @@ Wil je me iets vertrouwelijks toesturen, doe dat dan in een bericht met [Signal]
           method="POST">
         <input type="text" name="name" placeholder="je naam" /><br />
         <input type="email" name="_replyto" placeholder="je email" /><br />
+        <input type="text" name="_subject" placeholder="je onderwerp"><br /><br />
         <textarea name="message" placeholder="je bericht"  rows="4" cols="50"></textarea><br />
         <button type="submit">Verzenden</button>
-    
-        <input type="hidden" name="_subject" value="Contactformulier" />
         <input type="hidden" name="_next" value="{{ "/bedankt" | prepend: site.baseurl | prepend: site.url }}" />
         <input type="hidden" name="_format" value="plain" />
         <input type="text" name="_gotcha" style="display:none" />
+        <input type="hidden" name="_language" value="nl" />
 </form>
