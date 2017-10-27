@@ -1,0 +1,6 @@
+---
+sitemap: false
+---
+User-agent: *
+Disallow: /css/
+Disallow: /img/

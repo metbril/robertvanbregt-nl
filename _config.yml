@@ -1,0 +1,32 @@
+# Site settings
+# Some of this stuff is recognized and respected by the seo tag plugin
+# https://github.com/jekyll/jekyll-seo-tag
+title: Robert van Bregt
+description: > # ignore newlines until next variable
+  Laat de wereld een beetje mooier achter
+baseurl: "" # subpath, e.g. /blog
+url: "http://www.robertvanbregt.nl" #  base hostname & protocol
+
+github_username: metbril
+email: contact@robertvanbregt.nl
+twitter_username: metbril
+
+avatar: '/img/avatar.png'
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+permalink: '/:categories/:title'
+include:
+  - _pages
+exclude:
+  - Gemfile
+  - LICENSE
+  - README.md
+  - .sass-cache
+
+# Defaults
+
+# ff weg
