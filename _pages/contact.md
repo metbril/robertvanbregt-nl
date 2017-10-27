@@ -14,6 +14,7 @@ Gebruik onderstaand formulier wel met verstand. Wees je er, voordat je dit formu
 
 Wil je me iets vertrouwelijks toesturen, doe dat dan in een bericht met [Signal](https://www.signal.org/) of stuur me een email met [ProtonMail](https://www.protonmail.com). En alleen als dat echt niet lukt, [stuur me dan een prive-bericht met Twitter](https://twitter.com/metbril).
 
+<!-- form -->
     <form action="https://formspree.io/contact@robertvanbregt.nl"
           method="POST">
         <input type="text" name="name" placeholder="je naam" /><br />
@@ -26,3 +27,4 @@ Wil je me iets vertrouwelijks toesturen, doe dat dan in een bericht met [Signal]
         <input type="hidden" name="_format" value="plain" />
         <input type="text" name="_gotcha" style="display:none" />
     </form>
+<!-- form -->
