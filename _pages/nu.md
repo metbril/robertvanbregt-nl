@@ -17,4 +17,4 @@ Als mijn activiteiten of prioriteiten wijzigen, zal ik deze pagina bijwerken.
 
 Deze [Nu-pagina](http://nownownow.com/about) is gebaseerd op een [idee van Derek Sivers](http://sivers.org/nowff).
 
-*Deze pagina is voor het laatst bijgewerkt op 11 november 2017.*
+*Deze pagina is voor het laatst bijgewerkt op 21 december 2017.*
