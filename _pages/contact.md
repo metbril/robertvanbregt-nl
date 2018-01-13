@@ -10,7 +10,7 @@ Leuk dat je hier bent.
 
 Zoek je contact, dan kan dat eenvoudig en snel via deze pagina.
 
-Gebruik onderstaand formulier wel met verstand. Wees je er, voordat je dit formulier gebruikt, van bewust dat deze gegevens onversleuteld via een service van [Formspree](https://formspree.io) worden over het Internet worden verzonden.
+Gebruik onderstaand formulier wel met verstand. Wees je er van bewust, voordat je dit formulier gebruikt, dat deze gegevens onversleuteld via een service van [Formspree](https://formspree.io) over het Internet worden verzonden.
 
 Wil je me iets vertrouwelijks toesturen, doe dat dan in een bericht met [Signal](https://www.signal.org/) of stuur me een email met [ProtonMail](https://www.protonmail.com). En alleen als dat echt niet lukt, [stuur me dan een prive-bericht met Twitter](https://twitter.com/metbril).
 
