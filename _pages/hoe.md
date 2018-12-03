@@ -1,6 +1,7 @@
 ---
 title: Colofon
-permalink: /colofon
+permalink: /hoe
+redirect_from: "/colofon"
 sitemap: true
 layout: page
 ---
