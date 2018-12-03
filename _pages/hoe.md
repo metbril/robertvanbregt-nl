@@ -1,5 +1,5 @@
 ---
-title: Colofon
+title: Hoe
 permalink: /hoe
 redirect_from: "/colofon"
 sitemap: true
