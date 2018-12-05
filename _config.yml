@@ -11,7 +11,8 @@ github_username: metbril
 email: contact@robertvanbregt.nl
 twitter_username: metbril
 
-avatar: 'img/avatar.png'
+#avatar: 'img/avatar.png'
+avatar: 'https://s.gravatar.com/avatar/951332480630db814aa03e362f2eb5cb?s=150'
 
 # Build settings
 markdown: kramdown
