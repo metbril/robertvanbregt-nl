@@ -5,7 +5,7 @@ title: Robert van Bregt
 description: > # ignore newlines until next variable
   Laat de wereld een beetje mooier achter
 baseurl: "" # subpath, e.g. /blog
-url: "http://www.robertvanbregt.nl" #  base hostname & protocol
+url: "https://robertvanbregt.nl" #  base hostname & protocol
 
 github_username: metbril
 email: contact@robertvanbregt.nl
