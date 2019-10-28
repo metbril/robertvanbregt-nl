@@ -3,8 +3,10 @@ title: Biografie
 layout: page
 permalink: /bio
 #redirect_from: /bio/
-navigation_weight: 20
-navigation_title: Bio
+menu: 
+    main:
+        name: Bio
+        weight: 20
 ---
 Een belangrijk deel van de week besteed ik aan verbeteren en veranderen van organisaties. Tegenwoordig werk ik aan het [professionaliseren van projectmanagement en portfoliomanagement](http://ipma.nl/) bij [een groot ziekenhuis in Rotterdam](http://maasstadziekenhuis.nl/).
 

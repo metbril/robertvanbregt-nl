@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Welkom
-#title: Over deze website
-#navigation_weight: 10
-#navigation_title: Over
+# title: Welkom
+title: Over deze website
 permalink: /
 #permalink: /over
 #redirect_from: /over/
 draft: true
+menu: 
+    main:
+        name: Over
+        weight: 10
 ---
 Dit is de persoonlijke webpagina van Robert van Bregt. Op deze site publiceer ik tekst, foto en video die ik graag met de buitenwereld wil delen. Sommige mensen noemen dat een weblog. 😉
 

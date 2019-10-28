@@ -3,8 +3,10 @@ layout: page
 title: Wat ik nu aan het doen ben
 permalink: /nu
 #redirect_from: /nu/
-navigation_weight: 30
-navigation_title: Nu
+menu: 
+    main:
+        name: Nu
+        weight: 30
 ---
 Dit zijn de zaken (in volgorde van prioriteit/tijdsbesteding) waar ik nu mee bezig ben.
 

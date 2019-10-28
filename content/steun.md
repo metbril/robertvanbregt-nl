@@ -3,8 +3,10 @@ title: Ondersteun mij
 layout: page
 permalink: /steun
 sitemap: false
-navigation_weight: 80
-navigation_title: Steun
+menu: 
+    main:
+        name: "Steun"
+        weight: 80
 ---
 Als je de inhoud van mijn website waardevol vindt, kun je me op verschillende manieren ondersteunen:
 
