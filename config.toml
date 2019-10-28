@@ -12,6 +12,7 @@ copyright = "CC International"
 [params]
   favicon = "/favicon.ico"
   description = "Verbetert de wereld, maar begint bij zichzelf."
+  images = ["/img/avatar.png"]
   twitter = "https://twitter.com/robertvanbregt"
   instagram = "https://instagram.com/robertvanbregt"
   youtube = ""
@@ -20,7 +21,5 @@ copyright = "CC International"
   medium = ""
   linkedin = "https://linkedin.com/in/robertvanbregt"
   background_color_class = "bg-black"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
-  recent_posts_number = 2
-  # avatar = 'img/avatar.png'
-  # avatar = 'https://s.gravatar.com/avatar/951332480630db814aa03e362f2eb5cb?s=150'
+  # featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  recent_posts_number = 5
