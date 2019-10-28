@@ -2,6 +2,8 @@
 title: Hoe
 permalink: /hoe
 redirect_from: "/colofon"
+aliases:
+  - /colofon
 sitemap: true
 layout: page
 ---
