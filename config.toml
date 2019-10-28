@@ -4,6 +4,11 @@ title = "Robert van Bregt"
 theme = "ananke"
 copyright = "CC International"
 
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
 [params]
   favicon = "/favicon.ico"
   description = "Verbetert de wereld, maar begint bij zichzelf."
