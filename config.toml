@@ -38,3 +38,8 @@ SectionPagesMenu = "main"
   artikel = "/:year/:month/:day/:slug/"
   bladwijzer = "/:year/:month/:day/:slug/"
   notitie = "/:year/:month/:day/:slug/"
+
+[privacy]
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
