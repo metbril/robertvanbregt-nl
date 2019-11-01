@@ -4,6 +4,8 @@ title = "Robert van Bregt"
 theme = "ananke"
 copyright = "CC International"
 
+pluralizeListTitles = false
+
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "nl"
 SectionPagesMenu = "main"
