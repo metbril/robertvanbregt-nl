@@ -1,8 +1,8 @@
 baseURL = "http://www.robertvanbregt.nl/"
-languageCode = "nl-nl"
 title = "Robert van Bregt"
-theme = "ananke"
+languageCode = "nl-nl"
 copyright = "CC International"
+theme = "ananke"
 
 pluralizeListTitles = false
 
@@ -10,25 +10,29 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "nl"
 SectionPagesMenu = "main"
 
+[params]
+  description = "Verbetert de wereld, maar begint bij zichzelf."
+  recent_posts_number = 5
+  favicon = "/favicon.ico"
+  images = ["/img/avatar.png"]
+
+  # Social profiles
+  github = "https://github.com/metbril"
+  gitlab = "htps://gitlab.com/metbril"
+  instagram = "https://instagram.com/robertvanbregt"
+  linkedin = "https://linkedin.com/in/robertvanbregt"
+  medium = ""
+  twitter = "https://twitter.com/robertvanbregt"
+  youtube = ""
+  
+  # Ananke theme
+  background_color_class = "bg-black"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
-
-[params]
-  favicon = "/favicon.ico"
-  description = "Verbetert de wereld, maar begint bij zichzelf."
-  images = ["/img/avatar.png"]
-  twitter = "https://twitter.com/robertvanbregt"
-  instagram = "https://instagram.com/robertvanbregt"
-  youtube = ""
-  github = "https://github.com/metbril"
-  gitlab = "htps://gitlab.com/metbril"
-  medium = ""
-  linkedin = "https://linkedin.com/in/robertvanbregt"
-  background_color_class = "bg-black"
-  # featured_image = "/images/gohugo-default-sample-hero-image.jpg"
-  recent_posts_number = 5
 
 [permalinks]
   artikel = "/:year/:month/:day/:slug/"
