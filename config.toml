@@ -29,6 +29,9 @@ SectionPagesMenu = "main"
   background_color_class = "bg-black"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
 
+  # Grotius theme
+  localStyles = true
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
