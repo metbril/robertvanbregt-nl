@@ -1,15 +1,9 @@
 ---
-title: CorporateBloggingBlog: Six Types Of Business Blogs &#8211; A Classification
+title: CorporateBloggingBlog Six Types Of Business Blogs A Classification
 post_id: 795
 date: '2004-08-17T16:43:00+00:00'
 published: true
-taxonomy:
-    migration-status: review
-    category: [Ongecategoriseerd]
-    tag: []
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
+draft: true
 ---
 Er zijn [zes types business blogs](http://web.archive.org/web/20050207104934/http://www.corporateblogging.info/2004/08/six-types-of-business-blogs.asp):
 
