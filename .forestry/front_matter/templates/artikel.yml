@@ -7,3 +7,12 @@ fields:
   config:
     required: false
   label: Titel
+- name: date
+  type: datetime
+  label: Datum
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
