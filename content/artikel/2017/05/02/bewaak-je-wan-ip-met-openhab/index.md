@@ -1,12 +1,7 @@
 ---
 title: Bewaak je WAN IP met openHAB
-post_id: 69
 date: '2017-05-02T21:21:04+00:00'
-taxonomy:
-    tag: [computers,netwerk,openhab,huisautomatisering]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
+tags: [computers,netwerk,openhab,huisautomatisering]
 syndication:
     - https://community.openhab.org/t/how-to-monitor-a-dynamic-wan-ip-address/11368
     - https://github.com/openhab/openhab1-addons/wiki/Samples-Tricks#how-to-monitor-a-dynamic-wan-ip-address
