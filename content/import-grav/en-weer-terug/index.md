@@ -1,5 +1,5 @@
 ---
-title: &#8230; en weer terug
+title: "&#8230; en weer terug"
 post_id: 665
 date: '2004-05-04T08:23:00+00:00'
 published: true

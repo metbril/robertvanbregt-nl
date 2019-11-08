@@ -1,7 +1,7 @@
 ---
 title: 'Knooppuntenroute Haastrecht - Oudewater v.v.'
 post_id: 39
-date: '2017-09-26 07:07'
+date: '2017-09-26 07:07:00'
 taxonomy:
     tag:
         - buiten

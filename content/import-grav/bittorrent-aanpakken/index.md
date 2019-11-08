@@ -1,7 +1,7 @@
 ---
 title: 'BitTorrent aanpakken'
 published: true
-date: '2007-12-24 21:05'
+date: '2007-12-24 21:05:00'
 metadata:
     author: Robert van Bregt
 taxonomy:

@@ -1,7 +1,7 @@
 ---
 title: 'Snelheid ADSL wordt opnieuw verhoogd'
 published: true
-date: '2003-12-02 18:20'
+date: '2003-12-02 18:20:00'
 metadata:
     author: Robert van Bregt
 taxonomy:

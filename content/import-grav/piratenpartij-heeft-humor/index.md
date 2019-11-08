@@ -1,6 +1,6 @@
 ---
 title: 'Piratenpartij heeft humor'
-date: '2012-08-24 18:40'
+date: '2012-08-24 18:40:00'
 metadata:
     author: 'Robert van Bregt'
 taxonomy:

@@ -1,6 +1,6 @@
 ---
 title: 'Glaskaart Nederland'
-date: '2018-08-31 15:27'
+date: '2018-08-31 15:27:00'
 taxonomy:
     tag:
         - internet

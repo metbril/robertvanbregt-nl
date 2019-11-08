@@ -1,5 +1,5 @@
 ---
-title: Jesse Ruderman: Opera&#8217;s least popular feature comes to Firefox
+title: "Jesse Ruderman: Opera&#8217;s least popular feature comes to Firefox"
 post_id: 792
 date: '2004-08-18T12:31:00+00:00'
 published: true

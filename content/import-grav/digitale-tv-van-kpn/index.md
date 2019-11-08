@@ -1,6 +1,6 @@
 ---
 title: 'Digitale TV van KPN'
-date: '2004-10-05 15:29'
+date: '2004-10-05 15:29:00'
 metadata:
     author: 'Robert van Bregt'
 taxonomy:

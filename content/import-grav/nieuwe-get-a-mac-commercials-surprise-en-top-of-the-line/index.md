@@ -1,5 +1,5 @@
 ---
-title: Nieuwe Get a Mac commercials: &#8220;Surprise&#8221; en &#8220;Top of the Line&#8221;
+title: "Nieuwe Get a Mac commercials: &#8220;Surprise&#8221; en &#8220;Top of the Line&#8221;"
 post_id: 711
 date: '2009-08-25T11:04:38+00:00'
 published: true

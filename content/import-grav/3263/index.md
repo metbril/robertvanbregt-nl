@@ -1,6 +1,6 @@
 ---
 author: 'Robert van Bregt'
-date: '2018-12-26 07:30'
+date: '2018-12-26 07:30:00'
 link: 'https://quickthoughts.jgregorymcverry.com/2018/12/25/trying-to-write-redirects-in-htaccessany-ideas'
 in-reply-to: 'https://quickthoughts.jgregorymcverry.com/2018/12/25/trying-to-write-redirects-in-htaccessany-ideas'
 ---

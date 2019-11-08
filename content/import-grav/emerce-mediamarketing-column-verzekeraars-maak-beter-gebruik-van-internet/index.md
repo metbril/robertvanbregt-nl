@@ -1,5 +1,5 @@
 ---
-title: Emerce &#8211; Media/Marketing: Column: Verzekeraars, maak beter gebruik van internet!
+title: Emerce &#8211; Media/Marketing Column Verzekeraars, maak beter gebruik van internet!
 post_id: 791
 date: '2004-08-19T09:29:00+00:00'
 published: true

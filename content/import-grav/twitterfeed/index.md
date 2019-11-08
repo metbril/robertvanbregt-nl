@@ -1,7 +1,7 @@
 ---
 title: Twitterfeed
 published: true
-date: '2008-03-25 22:43'
+date: '2008-03-25 22:43:00'
 metadata:
     author: Robert van Bregt
 taxonomy:

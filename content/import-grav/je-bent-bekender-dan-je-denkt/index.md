@@ -1,7 +1,7 @@
 ---
 title: 'Je bent bekender dan je denkt'
 published: true
-date: '2009-08-16 08:56'
+date: '2009-08-16 08:56:00'
 metadata:
     author: Robert van Bregt
 taxonomy:

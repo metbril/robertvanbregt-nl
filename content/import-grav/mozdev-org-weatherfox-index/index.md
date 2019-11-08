@@ -1,5 +1,5 @@
 ---
-title: mozdev.org &#8211; weatherfox: index
+title: "mozdev.org &#8211; weatherfox: index"
 post_id: 786
 date: '2004-09-21T16:36:00+00:00'
 published: true

@@ -1,7 +1,7 @@
 ---
 title: 'Hoe vouw je een fietsband?'
 published: true
-date: '2012-01-07 11:45'
+date: '2012-01-07 11:45:00'
 metadata:
     author: 'Robert van Bregt'
 taxonomy:

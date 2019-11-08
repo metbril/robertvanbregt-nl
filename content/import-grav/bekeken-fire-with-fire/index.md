@@ -1,7 +1,7 @@
 ---
 title: 'Bekeken: Fire with Fire'
 media_order: fire-with-fire-cover.jpg
-date: '2018-12-30 23:59'
+date: '2018-12-30 23:59:00'
 header_image: '0'
 author: 'Robert van Bregt'
 ---

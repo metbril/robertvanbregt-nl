@@ -2,7 +2,7 @@
 title: '3 Onmisbare accessoires voor je iPad'
 media_order: 'original-ipad.jpg,apple-camera-connection-kit.jpeg,griffin-stylus-pen-for-apple.jpg'
 published: true
-date: '2010-12-22 14:07'
+date: '2010-12-22 14:07:00'
 metadata:
     author: 'Robert van Bregt'
 taxonomy:

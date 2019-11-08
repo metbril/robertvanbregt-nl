@@ -1,5 +1,5 @@
 ---
-title: Minimal Mac: precies genoeg
+title: "Minimal Mac: precies genoeg"
 post_id: 1348
 date: '2011-07-30T08:37:32+00:00'
 published: true

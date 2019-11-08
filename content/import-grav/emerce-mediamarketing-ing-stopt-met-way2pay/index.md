@@ -1,5 +1,5 @@
 ---
-title: Emerce &#8211; Media/Marketing: ING stopt met Way2pay
+title: Emerce &#8211; Media/Marketing ING stopt met Way2pay
 post_id: 783
 date: '2004-09-23T08:53:00+00:00'
 published: true

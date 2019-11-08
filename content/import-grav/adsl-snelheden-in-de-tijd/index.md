@@ -1,7 +1,7 @@
 ---
 title: 'ADSL-snelheden in de tijd'
 published: true
-date: '2009-08-12 09:30'
+date: '2009-08-12 09:30:00'
 metadata:
     author: Robert van Bregt
 taxonomy:

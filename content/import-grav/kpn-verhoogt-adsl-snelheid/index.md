@@ -1,7 +1,7 @@
 ---
 title: 'KPN verhoogt adsl-snelheid'
 published: true
-date: '2004-05-19 17:17'
+date: '2004-05-19 17:17:00'
 metadata:
     author: Robert van Bregt
 taxonomy:

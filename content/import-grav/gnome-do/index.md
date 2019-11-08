@@ -1,7 +1,7 @@
 ---
 title: 'GNOME Do'
 post_id: 601
-date: '2008-12-12 17:12'
+date: '2008-12-12 17:12:00'
 published: true
 taxonomy:
     migration-status: review

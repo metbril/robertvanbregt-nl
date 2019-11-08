@@ -1,7 +1,7 @@
 ---
 title: 'Twitter uitgelegd'
 published: true
-date: '2008-07-08 13:10'
+date: '2008-07-08 13:10:00'
 metadata:
     author: Robert van Bregt
 taxonomy:

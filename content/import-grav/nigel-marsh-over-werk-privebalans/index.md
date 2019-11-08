@@ -1,7 +1,7 @@
 ---
 title: 'Nigel Marsh over werk-privébalans'
 published: true
-date: '2011-03-18 12:00'
+date: '2011-03-18 12:00:00'
 metadata:
     author: Robert van Bregt
 taxonomy:

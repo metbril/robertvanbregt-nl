@@ -1,5 +1,5 @@
 ---
-title: Everest: The Challenge
+title: "Everest: The Challenge"
 post_id: 172
 date: '2004-10-11T09:02:37+00:00'
 published: true

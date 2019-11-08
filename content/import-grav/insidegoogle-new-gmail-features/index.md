@@ -1,5 +1,5 @@
 ---
-title: InsideGoogle: New Gmail Features
+title: "InsideGoogle: New Gmail Features"
 post_id: 769
 date: '2004-10-05T09:34:00+00:00'
 published: true

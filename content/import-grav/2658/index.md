@@ -1,5 +1,5 @@
 ---
-date: '2018-08-03 07:45'
+date: '2018-08-03 07:45:00'
 metadata:
     author: Robert van Bregt
 post_id: 2658

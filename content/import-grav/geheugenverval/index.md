@@ -1,7 +1,7 @@
 ---
 title: Geheugenverval
 published: true
-date: '2012-01-13 14:21'
+date: '2012-01-13 14:21:00'
 metadata:
     author: 'Robert van Bregt'
 taxonomy:

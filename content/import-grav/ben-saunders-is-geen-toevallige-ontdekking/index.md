@@ -1,7 +1,7 @@
 ---
 title: 'Ben Saunders is geen toevallige ontdekking'
 published: true
-date: '2010-12-15 09:21'
+date: '2010-12-15 09:21:00'
 metadata:
     author: Robert van Bregt
 taxonomy:
