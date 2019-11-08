@@ -1,4 +1,9 @@
 ---
 label: Artikel
 hide_body: false
-fields: []
+fields:
+- name: titel
+  type: text
+  config:
+    required: false
+  label: Titel
