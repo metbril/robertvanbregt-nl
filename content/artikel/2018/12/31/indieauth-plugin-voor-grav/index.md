@@ -7,9 +7,7 @@ tags:
 ---
 
 Vanochtend heb ik een eerste versie van de <a href="https://github.com/metbril/grav-plugin-indieauth" target="_blank" rel="noopener">IndieAuth plugin voor Grav</a> werkend gekregen. Binnenkort zal deze ook beschikbaar zijn via de Grav Plugin Manager.
-
-===
-
+<!--more-->
 Het is vakantie. Dus had ik weer wat tijd om aan mijn website te werken. De overstap van WordPress naar Grav wil ik echter pas maken zodra ik gebruik kan maken van een robuuste [Webmention](https://indieweb.org/Webmention) en [Micropub](https://indieweb.org/Micropub) functie. Voor die laatste is het nodig om te kunnen authenticeren. Daarvoor is het [IndieAuth protocol](https://indieauth.spec.indieweb.org/) beschikbaar en de eenvoudige implementatie daarvan via de website IndieAuth.com.
 
 Je kunt de benodigde configuratie daarvan eenvoudig opnemen in de content van je website, maar het is wel zo netjes en eenvoudig om dit met een simpele, basale plugin te kunnen doen.
