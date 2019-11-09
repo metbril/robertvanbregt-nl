@@ -1,0 +1,6 @@
+---
+title: #2713
+date: '2018-08-07T07:13:35+00:00'
+taga: [domotica,huisautomatisering,ikea,tradfri]
+---
+Ik had eigenlijk al een beetje verwacht dat dit er zat aan te komen. Nog een paar dingen, en dan is het voor mij echt compleet: een led-strip en lampen met een E14-fitting die in een klein spotje passen.

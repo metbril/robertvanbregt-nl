@@ -1,12 +1,7 @@
 ---
 title: Welkom thuis!
-post_id: 1584
 date: '2007-08-12T18:47:00+00:00'
-published: true
-taxonomy:
-    migration-status: review
-    category: [Ongecategoriseerd]
-    tag: []
+tags: [meta]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt
