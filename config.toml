@@ -2,7 +2,7 @@ baseURL = "https://www.robertvanbregt.nl/"
 title = "Robert van Bregt"
 languageCode = "nl-nl"
 copyright = "Tenzij anders aangegeven valt de inhoud van deze website onder een Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal-licentie."
-theme = "grotius"
+theme = "ananke"
 
 paginate = 3
 paginatePath = "pagina"
