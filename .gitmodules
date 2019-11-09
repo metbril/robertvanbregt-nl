@@ -3,4 +3,4 @@
 	url = https://github.com/budparr/gohugo-theme-ananke.git
 [submodule "themes/grotius"]
 	path = themes/grotius
-	url = https://github.com/metbril/hugo-grotius.git
+	url = git@github.com:metbril/hugo-grotius.git
