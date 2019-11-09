@@ -29,15 +29,23 @@ social:
     url: https://flickr.com/robertvanbregt
     icon: fa-flickr
     style: fab
+  - id: indieweb
+    name: IndieWeb
+    url: https://indieweb.org/User:Robertvanbregt.nl
+    icon: fa-globe
+    style: fas
   - id: paypal
     name: PayPal
     url: https://paypal.me/robertvanbregt
     icon: fa-paypal
+    style: fab
+  - id: telegram
+    name: Telegram
+    url: https://t.me/robertvanbregt
+    icon: fa-telegram
     style: fab
   - id: email
     name: E-Mail
     url: mailto:contact@robertvanbregt.nl
     icon: fa-envelope
     style: fas
-
-  
