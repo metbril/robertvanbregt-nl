@@ -1,12 +1,9 @@
 ---
 title: 2 oktober
-post_id: 766
 date: '2004-10-06T13:37:00+00:00'
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
-[Eerder](../terugblik-op-mijn-geboortejaar) vond ik al een aardige pagina met historische informatie over mijn geboortedag en jaar, maar de [Nederlandse](https://nl.wikipedia.org/wiki/2_Oktober) en [engelse](https://en.wikipedia.org/wiki/October_2) Wikipedia doen natuurlijk veel beter hun best.
+
+[Eerder]({{< ref terugblik-op-mijn-geboortejaar >}}) vond ik al een aardige pagina met historische informatie over mijn geboortedag en jaar, maar de [Nederlandse](https://nl.wikipedia.org/wiki/2_Oktober) en [engelse](https://en.wikipedia.org/wiki/October_2) Wikipedia doen natuurlijk veel beter hun best.
 
 - Joodse feestdag [Yom Kippur](https://en.wikipedia.org/wiki/Yom_Kippur) (2006) 😉
 - Grote demonstratie van [Keer het Tij](https://nl.wikipedia.org/wiki/Keer_het_Tij) (2004)
