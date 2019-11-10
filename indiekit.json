@@ -1,0 +1,20 @@
+{
+  "syndicate-to": [{
+    "uid": "https://twitter.com/robertvanbregt/",
+    "name": "@robertvanbregt on Twitter"
+  }],
+  "post-types": {
+    "bookmark": {
+      "post": {
+        "path": "content/bladwijzers/{{ published | date('yyyy-MM-dd') }}-{{ slug }}.md",
+        "url": "bookmarks/{{ published | date('yyyy/MM/dd') }}/{{ slug }}"
+      }
+    },
+    "note": {
+      "post": {
+        "path": "content/notities/{{ published | date('X') }}.md",
+        "url": "notes/{{ published | date('X') }}"
+      }
+    }
+  }
+}
