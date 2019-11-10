@@ -1,16 +1,8 @@
 ---
 title: "Nieuwe Get a Mac commercials: &#8220;Surprise&#8221; en &#8220;Top of the Line&#8221;"
 slug: nieuwe-get-a-mac-commercials-surprise-en-top-of-the-line
-post_id: 711
 date: '2009-08-25T11:04:38+00:00'
-published: true
-taxonomy:
-    migration-status: review
-    category: [Ongecategoriseerd]
-    tag: [apple,commercial,humor,mac,pc,video,windows,apple,commercial,humor,mac,pc,video,windows]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
+tags: [apple,commercial,humor,mac,pc,video,windows]
 ---
 ![apple](http://robert.vanbregt.net/wp-content/uploads/2009/08/apple.gif?w=150 "apple")Apple heeft weer twee nieuwe [commercials](http://www.apple.com/getamac/ads/) uitgebracht in haar “[Get a Mac](http://www.apple.com/getamac/)” reeks.
 
