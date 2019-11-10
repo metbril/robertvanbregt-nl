@@ -1,15 +1,7 @@
 ---
 title: wildkamperen.nl &#8211; The Peril Of Doc Ock
-post_id: 781
+slug:wildkamperen-nl-the-peril-of-doc-ock
 date: '2004-09-27T08:32:00+00:00'
-published: true
-taxonomy:
-    migration-status: review
-    category: [Ongecategoriseerd]
-    tag: []
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Het is al een tijd een rage op het internet om met Lego-mannetjes van alles na te spelen. De Lego-film [Spider-Man: The Peril of Doc Ock](http://web.archive.org/web/20050207105915/http://movies.yahoo.com/movies/feature/spiderman2.html)van Spite Your Face Productions heeft een vlot tempo, en hoge kwaliteitbeelden. De cast bestaat uit Spiderman en een enge tegenstrever, diehet hele filmpje door met elkaar matten – onder andere op een rijdendetrein.
 
