@@ -1,4 +1,13 @@
 {
+  "categories": [
+    "indiekit",
+    "indieweb",
+    "indiewebcamp"
+  ],
+  "syndicate-to": [{
+    "uid": "https://twitter.com/robertvanbregt/",
+    "name": "@robertvanbregt on Twitter"
+  }],
   "post-types": {
     "note": {
       "post": {
@@ -6,5 +15,6 @@
         "url": "notes/{{ published | date('X') }}"
       }
     }
-  }
+  },
+  "slug-separator": "-"
 }
