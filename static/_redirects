@@ -4,4 +4,4 @@
 https://robert.vanbregt.net/* https://robertvanbregt.nl/:splat 301!
 
 # Optional: Redirect default Netlify subdomain to primary domain
-https://robertvanbregt.netlify.com/* https://robertvanbregt.nl/:splat 301!
+# https://robertvanbregt.netlify.com/* https://robertvanbregt.nl/:splat 301!
