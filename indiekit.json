@@ -3,14 +3,8 @@
     "url": "https://paulrobertlloyd.com/categories.json"
   },
   "syndicate-to": [{
-    "uid": "https://twitter.com/paulrobertlloyd/",
-    "name": "@paulrobertlloyd on Twitter"
-  }, {
-    "uid": "https://mastodon.social/@paulrobertlloyd",
-    "name": "@paulrobertlloyd on Mastodon"
-  }, {
-    "uid": "https://micro.blog/paulrobertlloyd",
-    "name": "@paulrobertlloyd on Micro.blog"
+    "uid": "https://twitter.com/robertvanbregt/",
+    "name": "@robertvanbregt on Twitter"
   }],
   "post-types": {
     "bookmark": {
