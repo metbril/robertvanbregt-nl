@@ -1,0 +1,5 @@
+section=$1
+path=`date +%Y/%m/%d`
+slug=$2
+
+hugo new "$section/$path/$slug/index.md"
