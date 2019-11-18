@@ -8,7 +8,7 @@ sections:
   path: data
   label: Data
   create: all
-  match: "**/*"
+  match: "*"
   new_doc_ext: yml
 - type: directory
   path: content/notitie

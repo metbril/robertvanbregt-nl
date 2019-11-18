@@ -29,5 +29,5 @@ fields:
   default: []
   label: Tags
 pages:
-- content/notitie/test.md
 - content/notitie/test2.md
+- content/notitie/test.md
