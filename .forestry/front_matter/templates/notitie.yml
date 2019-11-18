@@ -27,3 +27,5 @@ fields:
   type: tag_list
   default: []
   label: Tags
+pages:
+- content/notitie/test.md
