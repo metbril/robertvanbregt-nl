@@ -34,7 +34,17 @@ SectionPagesMenu = "main"
 
   # Grotius theme
   localStyles = true
-  author = "Robert van Bregt"
+  # author = "Robert van Bregt"
+
+# grotius: h-card properties
+[params.author]
+  name = "Robert van Bregt"
+  url = "https://robertvanbregt.nl"
+  photo = "/img/avatar.png"
+  email = "contact@robertvanbregt.nl"
+  locality = "Capelle aan den IJssel"
+  countryName = "Nederland"
+  note = "Projectmanager. Echtgenoot en vader. Nerd. Rotterdammert."
 
 [sitemap]
   changefreq = "monthly"
