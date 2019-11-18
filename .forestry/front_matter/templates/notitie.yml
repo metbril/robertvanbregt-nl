@@ -1,4 +1,29 @@
 ---
 label: Notitie
 hide_body: false
-fields: []
+fields:
+- name: slug
+  type: datetime
+  label: Slug
+  description: ''
+  config:
+    required: false
+    date_format: X
+    time_format: 
+    display_utc: false
+    export_format: X
+  hidden: true
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: true
+    date_format: YYYY-MM-DD
+    time_format: HH:mm:ss Z
+    display_utc: false
+  default: now
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
