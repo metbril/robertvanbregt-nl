@@ -31,7 +31,7 @@ social:
 
   - id: flickr
     name: Flickr
-    url: https://flickr.com/robertvanbregt
+    url: https://flickr.com/people/rtvb
     icon: fa-flickr
     style: fab
 
