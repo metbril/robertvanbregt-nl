@@ -19,19 +19,6 @@ SectionPagesMenu = "main"
   favicon = "/favicon.ico"
   images = ["/images/photo.jpg"]
 
-  # Social profiles
-  github = "https://github.com/metbril"
-  gitlab = "htps://gitlab.com/metbril"
-  instagram = "https://instagram.com/robertvanbregt"
-  linkedin = "https://linkedin.com/in/robertvanbregt"
-  medium = ""
-  twitter = "https://twitter.com/robertvanbregt"
-  youtube = ""
-  
-  # Ananke theme
-  background_color_class = "bg-black"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
-
   # Grotius theme
   localStyles = true
   # author = "Robert van Bregt"
