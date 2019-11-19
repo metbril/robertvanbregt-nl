@@ -17,7 +17,7 @@ SectionPagesMenu = "main"
   description = "Verbetert de wereld, maar begint bij zichzelf."
   recent_posts_number = 5
   favicon = "/favicon.ico"
-  images = ["/img/avatar.png"]
+  images = ["/images/photo.jpg"]
 
   # Social profiles
   github = "https://github.com/metbril"
@@ -40,7 +40,7 @@ SectionPagesMenu = "main"
 [params.author]
   name = "Robert van Bregt"
   url = "https://robertvanbregt.nl"
-  photo = "/img/avatar.png"
+  photo = "/images/photo.jpg"
   email = "contact@robertvanbregt.nl"
   locality = "Capelle aan den IJssel"
   countryName = "Nederland"
