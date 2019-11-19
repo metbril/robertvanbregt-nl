@@ -16,6 +16,7 @@ SectionPagesMenu = "main"
 [params]
   description = "Verbetert de wereld, maar begint bij zichzelf."
   recent_posts_number = 5
+  mainSections = ["artikel", "notitie"]     # sections on homepage
   favicon = "/favicon.ico"
   images = ["/images/photo.jpg"]
 
