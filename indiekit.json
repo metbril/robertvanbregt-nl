@@ -8,8 +8,8 @@
    "post-types": {
      "note": {
        "post": {
-         "path": "src/_content/notes/{{ published | date('X') }}.md",
-         "url": "notes/{{ published | date('X') }}"
+         "path": "content/notitie/{{ published | date('yyyy/MM/dd/X') }}/index.md",
+         "url": "{{ published | date('yyyy/MM/dd/X/') }}"
        }
      }
    },
