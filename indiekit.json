@@ -4,6 +4,9 @@
    "syndicate-to": [{
      "uid": "https://twitter.com/robertvanbregt/",
      "name": "@robertvanbregt on Twitter"
+   }, {
+     "uid": "https://news.indieweb.org/nl",
+     "name": "IndieNews NL"
    }],
    "post-types": {
      "note": {
