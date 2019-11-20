@@ -12,6 +12,5 @@
          "url": "{{ published | date('yyyy/MM/dd/X/') }}"
        }
      }
-   },
-   "slug-separator": "_"
+   }
  }
