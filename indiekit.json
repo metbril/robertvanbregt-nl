@@ -8,6 +8,7 @@
      "uid": "https://news.indieweb.org/nl",
      "name": "IndieNews NL"
    }],
+   "media-endpoint" : "https://micropub-robertvanbregt.herokuapp.com/media",
    "post-types": {
      "note": {
        "post": {
