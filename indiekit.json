@@ -1,8 +1,6 @@
 
  {
-   "categories": {
-     "url": "https://paulrobertlloyd.com/categories.json"
-   },
+   "categories": [],
    "syndicate-to": [{
      "uid": "https://twitter.com/robertvanbregt/",
      "name": "@robertvanbregt on Twitter"
