@@ -12,7 +12,7 @@ fields:
     time_format: 
     display_utc: false
     export_format: X
-  hidden: true
+  hidden: false
   default: now
 - name: date
   type: datetime
