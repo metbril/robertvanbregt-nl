@@ -6,6 +6,7 @@ Verderop lees je [hoe ik deze site heb gemaakt](/colofon).
 
 <link href="https://twitter.com/robertvanbregt" rel="me">
 <link href="https://github.com/metbril" rel="me">
+<link href="mailto:indieauth@robertvanbregt.nl" rel="me">
 <link href="https://indieauth.com/auth" rel="authorization_endpoint">
 <link href="https://tokens.indieauth.com/token" rel="token_endpoint">
 <link href="https://indiekit-robertvanbregt.herokuapp.com/micropub" rel="micropub">
