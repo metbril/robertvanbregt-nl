@@ -11,6 +11,7 @@
    "media-endpoint" : "https://indiekit-robertvanbregt.herokuapp.com/media",
    "post-types": {
      "note": {
+       "template": "etc/indiekit/template/note.njk",
        "post": {
          "path": "content/notitie/{{ published | date('yyyy/MM/dd/X') }}/index.md",
          "url": "{{ published | date('yyyy/MM/dd/X/') }}"
