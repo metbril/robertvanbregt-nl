@@ -1,5 +1,6 @@
 ---
-slug: "3748"
+title: "Emoji in je aantekeningen"
+alias: "/2019/11/15/3748/"
 date: 2019-11-15T08:35:00+01:00
 bookmark_of:
     url: http://evantravers.com/articles/2019/10/22/world-of-textfiles-emoji-based-summaries/
