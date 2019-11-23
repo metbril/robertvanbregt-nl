@@ -12,19 +12,19 @@
     "note": {
       "template": "etc/indiekit/template/note.njk",
       "post": {
-        "path": "content/notitie/{{ published | date('yyyy/MM/dd/X') }}/index.md",
+        "path": "content/notitie/{{ published | date('yyyy-MM-dd-X') }}.md",
         "url": "{{ published | date('yyyy/MM/dd/X/') }}"
+      }
+    },
+    "bookmark": {
+      "post": {
+        "path": "content/bladwijzer/{{ published | date('yyyy-MM-dd') }}-{{ slug }}.md",
+        "url": "{{ published | date('yyyy/MM/dd') }}/{{ slug }}/"
       }
     },
     "article": {
       "post": {
         "path": "content/artikel/{{ published | date('yyyy/MM/dd') }}/{{ slug }}/index.md",
-        "url": "{{ published | date('yyyy/MM/dd') }}/{{ slug }}/"
-      }
-    },
-    "bookmark": {
-      "post": {
-        "path": "content/bladwijzer/{{ published | date('yyyy/MM/dd') }}/{{ slug }}/index.md",
         "url": "{{ published | date('yyyy/MM/dd') }}/{{ slug }}/"
       }
     }
