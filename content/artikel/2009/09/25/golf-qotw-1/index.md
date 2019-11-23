@@ -11,6 +11,6 @@ author: Robert van Bregt
 metadata:
     author: Robert van Bregt
 ---
-![Golf Club](http://robert.vanbregt.net/wp-content/uploads/2009/08/golf-club.jpg?w=150 "Golf Club")[Mark Twain](http://nl.wikipedia.org/wiki/Mark_Twain):
+![Golf Club](/wp-content/uploads/2009/08/golf-club.jpg?w=150 "Golf Club")[Mark Twain](http://nl.wikipedia.org/wiki/Mark_Twain):
 
 > “Golf is a good walk spoiled.”

@@ -11,4 +11,4 @@ author: Robert van Bregt
 metadata:
     author: Robert van Bregt
 ---
-[![Tour de Sloggi 2010](http://robert.vanbregt.net/wp-content/uploads/2010/07/tourdesloggi2010.jpg "tourdesloggi2010")](http://robert.vanbregt.net/wp-content/uploads/2010/07/tourdesloggi2010.jpg)
+[![Tour de Sloggi 2010](/wp-content/uploads/2010/07/tourdesloggi2010.jpg "tourdesloggi2010")](/wp-content/uploads/2010/07/tourdesloggi2010.jpg)

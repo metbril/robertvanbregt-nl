@@ -11,9 +11,9 @@ author: Robert van Bregt
 metadata:
     author: Robert van Bregt
 ---
-*Dit artikel maakt onderdeel uit van de [serie](http://bregtology.wordpress.com/mac-os-x/) Mac OS X Freeware en Open Source Software.*
+*Dit artikel maakt onderdeel uit van de [serie](/mac-os-x/) Mac OS X Freeware en Open Source Software.*
 
-[![ichat](http://robert.vanbregt.net/wp-content/uploads/2009/08/ichat.jpg?w=150 "ichat")](http://robert.vanbregt.net/wp-content/uploads/2009/08/ichat.jpg)Uit de doos komt [Mac OS X](http://www.apple.com/nl/macosx/) met [iChat](http://http://nl.wikipedia.org/wiki/IChat_AV). Leuk programma, maar je kunt er niet heel veel mee. Wie regelmatig gebruik maakt van een of meer instant messaging faciliteiten, moet dus terugvallen op andere software. Uit het enorme aanbod van freeware en open source software heb ik uiteindelijk een keuze gemaakt.
+[![ichat](/wp-content/uploads/2009/08/ichat.jpg?w=150 "ichat")](/wp-content/uploads/2009/08/ichat.jpg)Uit de doos komt [Mac OS X](http://www.apple.com/nl/macosx/) met [iChat](http://http://nl.wikipedia.org/wiki/IChat_AV). Leuk programma, maar je kunt er niet heel veel mee. Wie regelmatig gebruik maakt van een of meer instant messaging faciliteiten, moet dus terugvallen op andere software. Uit het enorme aanbod van freeware en open source software heb ik uiteindelijk een keuze gemaakt.
 
 [![Adium](http://upload.wikimedia.org/wikipedia/commons/9/91/Adium.png)](http://nl.wikipedia.org/wiki/Adium)
 

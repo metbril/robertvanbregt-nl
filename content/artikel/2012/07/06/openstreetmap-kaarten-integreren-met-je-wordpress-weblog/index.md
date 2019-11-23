@@ -11,15 +11,15 @@ author: Robert van Bregt
 metadata:
     author: Robert van Bregt
 ---
-Een tijdje geleden schreef ik over een fietstocht die ik reed [rond het water van Rotterdam](http://robert.vanbregt.net/over-door-en-onder-water-1526/ "Over, door en onder water"). Die route had ik eerst op [RouteYou](http://www.routeyou.nl) geplaatst en er hiervandaan naar verwezen, zodat mensen daar het routekaartje konden bekijken en eventueel de track downloaden voor hun GPS.
+Een tijdje geleden schreef ik over een fietstocht die ik reed [rond het water van Rotterdam](/over-door-en-onder-water-1526/ "Over, door en onder water"). Die route had ik eerst op [RouteYou](http://www.routeyou.nl) geplaatst en er hiervandaan naar verwezen, zodat mensen daar het routekaartje konden bekijken en eventueel de track downloaden voor hun GPS.
 
 In mijn streven naar het gebruik van open source programmatuur en open data ben ik op zoek gegaan naar een manier om [OpenStreetMap](http://www.openstreetmap.org) kaarten te integreren met dit weblog. Vrij snel al stuitte ik daarbij op de [OSM plugin](http://wordpress.org/extend/plugins/osm/). Die doet precies wat ik wil: een OSM-kaart laten zien, met een track en/of waypoints daaroverheen geprojecteerd. Heel eenvoudig, met gebruikmaking van WP shortcode. Hieronder een voorbeeldje van zomaar een track van een rondje Moordrecht.
 
-[osm\_map lat=”51.963″ long=”4.61″ zoom=”12″ width=”600″ height=”450″ gpx\_file=”http://robert.vanbregt.net/wp-content/uploads/2012/07/Moordrecht.gpx” gpx\_colour=”red” marker\_file=”http://robert.vanbregt.net/wp-content/uploads/2012/07/Moordrecht.txt” map\_border=”thin solid black” control=”scaleline” theme=”ol” type=”Mapnik”]
+[osm\_map lat=”51.963″ long=”4.61″ zoom=”12″ width=”600″ height=”450″ gpx\_file=”/wp-content/uploads/2012/07/Moordrecht.gpx” gpx\_colour=”red” marker\_file=”/wp-content/uploads/2012/07/Moordrecht.txt” map\_border=”thin solid black” control=”scaleline” theme=”ol” type=”Mapnik”]
 
 
 
-Download track: [Moordrecht](http://robert.vanbregt.net/wp-content/uploads/2012/07/Moordrecht.gpx)
+Download track: [Moordrecht](/wp-content/uploads/2012/07/Moordrecht.gpx)
 
  
 

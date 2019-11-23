@@ -4,7 +4,7 @@ slug: nieuwe-get-a-mac-commercials-surprise-en-top-of-the-line
 date: '2009-08-25T11:04:38+00:00'
 tags: [apple,commercial,humor,mac,pc,video,windows]
 ---
-![apple](http://robert.vanbregt.net/wp-content/uploads/2009/08/apple.gif?w=150 "apple")Apple heeft weer twee nieuwe [commercials](http://www.apple.com/getamac/ads/) uitgebracht in haar “[Get a Mac](http://www.apple.com/getamac/)” reeks.
+![apple](/wp-content/uploads/2009/08/apple.gif?w=150 "apple")Apple heeft weer twee nieuwe [commercials](http://www.apple.com/getamac/ads/) uitgebracht in haar “[Get a Mac](http://www.apple.com/getamac/)” reeks.
 
 In de eerste, “[Surprise](http://movies.apple.com/media/us/mac/getamac/2009/apple-mvp-surprise-us-20090824_480x272.mov)” ([HD](http://movies.apple.com/media/us/mac/getamac/2009/apple-mvp-surprise-us-20090824_848x480.mov)), spreekt een vrouw met een Mac, die haar een PC aanbeveelt. In de tweede, “[Top of the Line](http://movies.apple.com/media/us/mac/getamac/2009/apple-mvp-top_of_the_line-us-20090824_480x272.mov)” ([HD](http://movies.apple.com/media/us/mac/getamac/2009/apple-mvp-top_of_the_line-us-20090824_848x480.mov)), wordt een vrouw door de PC geïntroduceerd aan een Top of the Line PC.
 

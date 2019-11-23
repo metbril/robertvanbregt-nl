@@ -11,7 +11,7 @@ author: Robert van Bregt
 metadata:
     author: Robert van Bregt
 ---
-Nu ik eigenlijk redelijk op gemak [een fietstocht van rond de 90 kilometer](http://robert.vanbregt.net/van-ouddorp-naar-capelle-1560/ "Van Ouddorp naar Capelle") kan maken, zij het dan zonder al te veel tegenwind, komt de magische grens van dagtochten van 100 kilometer in zicht. Dat is mooi, want een respectabele afstand.
+Nu ik eigenlijk redelijk op gemak [een fietstocht van rond de 90 kilometer](/van-ouddorp-naar-capelle-1560/ "Van Ouddorp naar Capelle") kan maken, zij het dan zonder al te veel tegenwind, komt de magische grens van dagtochten van 100 kilometer in zicht. Dat is mooi, want een respectabele afstand.
 
 Mijn doel is, om eigenlijk altijd, ongeacht de omstandigheden, een dagrit van 100 kilometer te kunnen maken. Geen idee of dat realistisch is in bergachtig terrein, maar voor het platte Holland, waar het wel eens flink kan waaien en regenen, moet dat zonder problemen kunnen. Ik had zo gedacht dat als 120 kilometer bij gemiddelde omstandigheden lukt, die “altijd 100” haalbaar moet zijn.
 

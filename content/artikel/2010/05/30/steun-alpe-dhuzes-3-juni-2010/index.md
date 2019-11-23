@@ -12,10 +12,10 @@ Aanstaande donderdag, 3 juni 2010, wordt in Frankrijk de [Alpe d’HuZes](http:/
  Nicolette Kreijmborg
 
 [![](http://deelnemers.alpe-dhuzes.nl/userdata/images/acties/2577/9160/IMG_1023_small.JPG "Ben van der Stigchel")](http://deelnemers.alpe-dhuzes.nl/acties/schweitzer/team/)  
- Ben van der Stigchel[![](http://robert.vanbregt.net/wp-content/uploads/2009/08/twitter.gif "twitter")](http://twitter.com/bvanderstigchel)
+ Ben van der Stigchel[![](/wp-content/uploads/2009/08/twitter.gif "twitter")](http://twitter.com/bvanderstigchel)
 
 [![](http://deelnemers.alpe-dhuzes.nl/userdata/images/acties/2921/9165/mam5_small.JPG "Paula Verdoorn")](http://deelnemers.alpe-dhuzes.nl/acties/verdoorn/team/)  
- Paula Verdoorn [![](http://robert.vanbregt.net/wp-content/uploads/2009/08/twitter.gif "twitter")](http://twitter.com/paulaverdoorn)
+ Paula Verdoorn [![](/wp-content/uploads/2009/08/twitter.gif "twitter")](http://twitter.com/paulaverdoorn)
 
 [![](http://deelnemers.alpe-dhuzes.nl/userdata/images/acties/2920/9164/Limburgs_mooiste_small.jpg "Marcel Wilschut")](http://deelnemers.alpe-dhuzes.nl/acties/marcelwilschut/team/)  
- Marcel Wilschut [![](http://robert.vanbregt.net/wp-content/uploads/2009/08/twitter.gif "twitter")](http://twitter.com/marcelwilschut)
+ Marcel Wilschut [![](/wp-content/uploads/2009/08/twitter.gif "twitter")](http://twitter.com/marcelwilschut)

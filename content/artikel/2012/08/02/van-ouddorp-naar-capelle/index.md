@@ -17,8 +17,8 @@ De route start bij knooppunt 54 in de duinen van Ouddorp en eindigt bij knooppun
 
 Hieronder zie je track en kun je deze downloaden zoals deze door de Fietsrouteplanner is gemaakt. Het bestand bevat de track, maar ook waypoints van alle knooppunten waar je langs komt. De officiële track is ruim 91 kilomter lang, maar ik heb er van deur tot deur uiteindelijk 88 gemaakt.
 
-Download: [Van Ouddorp naar Capelle aan den IJssel](http://robert.vanbregt.net/wp-content/uploads/2012/08/VanOuddorpNaarCapelle.gpx)
+Download: [Van Ouddorp naar Capelle aan den IJssel](/wp-content/uploads/2012/08/VanOuddorpNaarCapelle.gpx)
 
-[osm\_map lat=”51.877″ long=”4.247″ zoom=”10″ width=”600″ height=”450″ gpx\_file=”http://robert.vanbregt.net/wp-content/uploads/2012/08/VanOuddorpNaarCapelle.gpx” gpx\_colour=”red” map\_border=”thin solid black” control=”scaleline” theme=”ol” type=”Mapnik”]
+[osm\_map lat=”51.877″ long=”4.247″ zoom=”10″ width=”600″ height=”450″ gpx\_file=”/wp-content/uploads/2012/08/VanOuddorpNaarCapelle.gpx” gpx\_colour=”red” map\_border=”thin solid black” control=”scaleline” theme=”ol” type=”Mapnik”]
 
   

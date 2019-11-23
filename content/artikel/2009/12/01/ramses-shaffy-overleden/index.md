@@ -11,4 +11,4 @@ author: Robert van Bregt
 metadata:
     author: Robert van Bregt
 ---
-[![](http://robert.vanbregt.net/wp-content/uploads/2009/12/ramses.jpg "Ramses")](http://robert.vanbregt.net/wp-content/uploads/2009/12/ramses.jpg)
+[![](/wp-content/uploads/2009/12/ramses.jpg "Ramses")](/wp-content/uploads/2009/12/ramses.jpg)

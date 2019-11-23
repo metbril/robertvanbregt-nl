@@ -11,8 +11,8 @@ author: Robert van Bregt
 metadata:
     author: Robert van Bregt
 ---
-[![](http://robert.vanbregt.net/wp-content/uploads/2012/01/Sony_PRS_T1_Reader_Wifi-300x248.jpg "Sony_PRS_T1_Reader_Wifi")](http://partner.bol.com/click/click?p=1&t=url&s=2680&url=http%3A//www.bol.com/nl/p/elektronica/sony-reader-wi-fi-zwart/9000000011652493/index.html&f=TXL&name=sonyprst1)
+[![](/wp-content/uploads/2012/01/Sony_PRS_T1_Reader_Wifi-300x248.jpg "Sony_PRS_T1_Reader_Wifi")](http://partner.bol.com/click/click?p=1&t=url&s=2680&url=http%3A//www.bol.com/nl/p/elektronica/sony-reader-wi-fi-zwart/9000000011652493/index.html&f=TXL&name=sonyprst1)
 
 Deze week heb ik voor het eerst een digitaal boek gelezen, op mijn nieuwe [Sony Reader PRS-T1](http://partner.bol.com/click/click?p=1&t=url&s=2680&url=http%3A//www.bol.com/nl/p/elektronica/sony-reader-wi-fi-zwart/9000000011652493/index.html&f=TXL&name=sonyprst1). Het was het boek [De Broncode van Eric Smit](http://partner.bol.com/click/click?p=1&t=url&s=2680&url=http%3A//www.bol.com/nl/p/nederlandse-boeken/de-broncode/1001004011607378/index.html&f=TXL&name=broncode). Wat een verademing ten opzichte van het lezen op een iPad. e-Ink is echt een prettige manier om digitaal te lezen.
 
-[![](http://robert.vanbregt.net/wp-content/uploads/2012/01/de-broncode-eric-smit-189x300.jpg "de-broncode-eric-smit")](http://partner.bol.com/click/click?p=1&t=url&s=2680&url=http%3A//www.bol.com/nl/p/nederlandse-boeken/de-broncode/1001004011607378/index.html&f=TXL&name=broncode)
+[![](/wp-content/uploads/2012/01/de-broncode-eric-smit-189x300.jpg "de-broncode-eric-smit")](http://partner.bol.com/click/click?p=1&t=url&s=2680&url=http%3A//www.bol.com/nl/p/nederlandse-boeken/de-broncode/1001004011607378/index.html&f=TXL&name=broncode)

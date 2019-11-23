@@ -13,4 +13,4 @@ metadata:
 ---
 Sinds gisteren [Fiep Westendorp](http://www.fiepwestendorp.nl/) overleed zijn [Jip en Janneke](http://www.jipenjanneke.nl/) echte weeskinderen geworden.
 
-[![jip-janneke](http://robert.vanbregt.net/wp-content/uploads/2009/08/jip-janneke.jpg "jip-janneke")](http://robert.vanbregt.net/wp-content/uploads/2009/08/jip-janneke.jpg)
+[![jip-janneke](/wp-content/uploads/2009/08/jip-janneke.jpg "jip-janneke")](/wp-content/uploads/2009/08/jip-janneke.jpg)

@@ -11,6 +11,6 @@ author: Robert van Bregt
 metadata:
     author: Robert van Bregt
 ---
-![Golf Club](http://robert.vanbregt.net/wp-content/uploads/2009/08/golf-club.jpg?w=150 "Golf Club")
+![Golf Club](/wp-content/uploads/2009/08/golf-club.jpg?w=150 "Golf Club")
 
 > “Golf is a game in which the slowest people are those in front of you, and the fastest are those behind”

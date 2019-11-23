@@ -18,8 +18,8 @@ metadata:
 1. Download het [zip-bestand](http://www.opentaal.org/bestanden/doc_download/17-opentaal-20-voor-apple-lion)
 2. Unzip het bestand
 3. Geef de uitgepakte bestanden weer in een Finder venster.
-4. Open een nieuw Finder venster met de map Spelling van de **systeem**bibliotheek (`/Library/Spelling/`). Dit kan het eenvoudigst met *cmd⌘ + shift⇧ + G *cmd⌘ + K. Let op: bestanden **niet** plaatsen in de gebruikersbibliotheek (`~/Library/Spelling`).[![](http://robert.vanbregt.net/wp-content/uploads/2011/08/venster-bibliotheek-spelling-300x159.png "venster-bibliotheek-spelling")](http://robert.vanbregt.net/wp-content/uploads/2011/08/venster-bibliotheek-spelling.png)
+4. Open een nieuw Finder venster met de map Spelling van de **systeem**bibliotheek (`/Library/Spelling/`). Dit kan het eenvoudigst met *cmd⌘ + shift⇧ + G *cmd⌘ + K. Let op: bestanden **niet** plaatsen in de gebruikersbibliotheek (`~/Library/Spelling`).[![](/wp-content/uploads/2011/08/venster-bibliotheek-spelling-300x159.png "venster-bibliotheek-spelling")](/wp-content/uploads/2011/08/venster-bibliotheek-spelling.png)
 5. Sleep de uitgepakte bestanden naar de andere map.
 6. Kies *apple ▸ Systeemvoorkeuren ▸ Taal en tekst ▸ Tabblad ‘Tekst’*
-7. De standaard-instelling voor Spelling is ‘Automatisch op taal’.[![](http://robert.vanbregt.net/wp-content/uploads/2011/08/taal-en-tekst-automatisch-300x266.png "taal-en-tekst-automatisch")](http://robert.vanbregt.net/wp-content/uploads/2011/08/taal-en-tekst-automatisch.png)
-8. Selecteer in plaats daarvan ‘Nederlands (Bibliotheek)’.[![](http://robert.vanbregt.net/wp-content/uploads/2011/08/taal-en-tekst-nederlands-300x266.png "taal-en-tekst-nederlands")](http://robert.vanbregt.net/wp-content/uploads/2011/08/taal-en-tekst-nederlands.png)
+7. De standaard-instelling voor Spelling is ‘Automatisch op taal’.[![](/wp-content/uploads/2011/08/taal-en-tekst-automatisch-300x266.png "taal-en-tekst-automatisch")](/wp-content/uploads/2011/08/taal-en-tekst-automatisch.png)
+8. Selecteer in plaats daarvan ‘Nederlands (Bibliotheek)’.[![](/wp-content/uploads/2011/08/taal-en-tekst-nederlands-300x266.png "taal-en-tekst-nederlands")](/wp-content/uploads/2011/08/taal-en-tekst-nederlands.png)
