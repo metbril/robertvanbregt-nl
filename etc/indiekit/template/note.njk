@@ -2,9 +2,9 @@
 title: '{{ title }}'
 slug: {{ published | date('X') }}
 date: {{ published }}
-{% if categories %}
+{% if category %}
 tags:
-{% for cat in categories %}
+{% for cat in category %}
   - {{ cat }}
 {% endfor %}
 {% endif %}
