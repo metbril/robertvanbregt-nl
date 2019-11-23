@@ -16,6 +16,12 @@
         "url": "{{ published | date('yyyy/MM/dd/X/') }}"
       }
     },
+    "like": {
+      "post": {
+        "path": "content/like/{{ published | date('yyyy-MM-dd-X') }}.md",
+        "url": "{{ published | date('yyyy/MM/dd/X/') }}"
+      }
+    },
     "bookmark": {
       "post": {
         "path": "content/bladwijzer/{{ published | date('yyyy-MM-dd') }}-{{ slug }}.md",
