@@ -2,5 +2,11 @@
 title: '{{ title }}'
 slug: {{ published | date('X') }}
 date: {{ published }}
+{% if categories %}
+tags:
+{% for cat in categories %}
+  - {{ cat }}
+{% endfor %}
+{% endif %}
 ---
 {{ content | safe }}
