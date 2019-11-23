@@ -4,7 +4,7 @@ slug: {{ published | date('X') }}
 date: {{ published }}
 {%- if category %}
 tags:
-{% for cat in category %}
+{% for cat in category -%}
   - {{ cat }}
 {% endfor -%}
 {%- endif -%}
