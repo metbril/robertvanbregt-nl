@@ -1,21 +1,32 @@
-
- {
-   "categories": [],
-   "syndicate-to": [{
-     "uid": "https://twitter.com/robertvanbregt/",
-     "name": "@robertvanbregt on Twitter"
-   }, {
-     "uid": "https://news.indieweb.org/nl",
-     "name": "IndieNews NL"
-   }],
-   "media-endpoint" : "https://indiekit-robertvanbregt.herokuapp.com/media",
-   "post-types": {
-     "note": {
-       "template": "etc/indiekit/template/note.njk",
-       "post": {
-         "path": "content/notitie/{{ published | date('yyyy/MM/dd/X') }}/index.md",
-         "url": "{{ published | date('yyyy/MM/dd/X/') }}"
-       }
-     }
-   }
- }
+{
+  "categories": [],
+  "syndicate-to": [{
+    "uid": "https://twitter.com/robertvanbregt/",
+    "name": "@robertvanbregt on Twitter"
+  }, {
+    "uid": "https://news.indieweb.org/nl",
+    "name": "IndieNews NL"
+  }],
+  "media-endpoint" : "https://indiekit-robertvanbregt.herokuapp.com/media",
+  "post-types": {
+    "note": {
+      "template": "etc/indiekit/template/note.njk",
+      "post": {
+        "path": "content/notitie/{{ published | date('yyyy/MM/dd/X') }}/index.md",
+        "url": "{{ published | date('yyyy/MM/dd/X/') }}"
+      }
+    },
+    "article": {
+      "post": {
+        "path": "content/artikel/{{ published | date('yyyy/MM/dd') }}/{{ slug }}/index.md",
+        "url": "{{ published | date('yyyy/MM/dd') }}/{{ slug }}/"
+      }
+    },
+    "bookmark": {
+      "post": {
+        "path": "content/bladwijzer/{{ published | date('yyyy/MM/dd') }}/{{ slug }}/index.md",
+        "url": "{{ published | date('yyyy/MM/dd') }}/{{ slug }}/"
+      }
+    }
+  }
+}
