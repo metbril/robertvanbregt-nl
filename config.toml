@@ -34,6 +34,13 @@ SectionPagesMenu = "main"
   countryName = "Nederland"
   note = "Projectmanager. Echtgenoot en vader. Nerd. Rotterdammert."
 
+# grotius: IndieWeb Endpoints
+[params.indieweb]
+    AuthorizationEndpoint = "https://indieauth.com/auth"    # default 'https://indieauth.com/auth'
+    TokenEndpoint = "https://tokens.indieauth.com/token"    # default 'https://tokens.indieauth.com/token'
+    Micropub = "https://indiekit-robertvanbregt.herokuapp.com/micropub"
+    Microsub = "https://aperture.p3k.io/microsub/79"
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
