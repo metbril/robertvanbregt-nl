@@ -6,7 +6,7 @@ date: {{ published }}
 tags:
 {%- for cat in category %}
   - {{ cat }}
-{% endfor -%}
+{%- endfor %}
 {%- endif -%}
 ---
 {{ content | safe }}
