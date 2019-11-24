@@ -8,5 +8,11 @@ tags:
   - {{ cat }}
 {%- endfor %}
 {%- endif %}
+{%- if mpSyndicateTo %}
+syndicate-to:
+{%- for s in mpSyndicateTo %}
+  - {{ s }}
+{%- endfor %}
+{%- endif %}
 ---
 {{ content | safe }}
