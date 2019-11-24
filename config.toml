@@ -4,7 +4,7 @@ languageCode = "nl-nl"
 copyright = "Tenzij anders aangegeven valt de inhoud van deze website onder een Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal-licentie."
 theme = "grotius"
 
-paginate = 3
+paginate = 20
 paginatePath = "pagina"
 
 pluralizeListTitles = false
@@ -15,7 +15,6 @@ SectionPagesMenu = "main"
 
 [params]
   description = "Verbetert de wereld, maar begint bij zichzelf."
-  recent_posts_number = 5
   mainSections = ["article", "note", "like", "bookmark"]     # sections on homepage
   favicon = "/favicon.ico"
   images = ["/images/photo.jpg"]
