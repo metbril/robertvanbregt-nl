@@ -2,7 +2,7 @@
 title: 'CSS System Fonts'
 date: 2019-11-25T19:53:58.503+01:00
 bookmark-of: https://flaviocopes.com/css-system-fonts/
-category:
+tags:
 - font
 - css
 - webdev
