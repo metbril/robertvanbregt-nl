@@ -8,9 +8,10 @@ Deze week heb ik:
 
 * voor het eerst in lange tijd weer een mindmap gebruikt om een uitgebreid project te plannen
 * een presentatie voorbereid voor een beslissende bijeenkomst over het selectietraject van het laboratorium
-* mijn website definitief overgezet naar Hugo (ik heb een kort uitstapje terug naar WordPress gemaakt)
-* een [Micropub][2] server live gebracht met [IndieKit][3] die mijn website kan bijwerken via de GitHub repository.
+* [mijn website definitief overgezet naar Hugo][2] (ik heb een kort uitstapje terug naar WordPress gemaakt)
+* een [Micropub][3] server live gebracht met [IndieKit][4] die mijn website kan bijwerken via de GitHub repository.
   
 [1]: https://zylstra.org
-[2]: https://indieweb.org/Micropub
-[3]: https://paulrobertlloyd.github.io/indiekit/
+[2]: {{< ref "naar-hugo-en-netlify" >}}
+[3]: https://indieweb.org/Micropub
+[4]: https://paulrobertlloyd.github.io/indiekit/
