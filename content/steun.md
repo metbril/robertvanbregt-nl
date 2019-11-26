@@ -1,12 +1,8 @@
 ---
 title: Ondersteun mij
 layout: page
-permalink: /steun
+permalink: /steun/
 sitemap: false
-menu: 
-    main:
-        name: "Steun"
-        weight: 80
 ---
 Als je de inhoud van mijn website waardevol vindt, kun je me op verschillende manieren ondersteunen:
 

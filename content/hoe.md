@@ -1,11 +1,9 @@
 ---
 title: Hoe
-permalink: /hoe
-redirect_from: "/colofon"
+permalink: /hoe/
 aliases:
   - /colofon
 sitemap: true
-layout: page
 ---
 Mijn website bestaat uit statische pagina's, die worden gegenereerd met behulp van [Jekyll](https://jekyllrb.com/). Daarvoor maak ik gebruik van [GitHub Pages](https://pages.github.com/). Het ontwerp en content zijn daarvoor samen opgeslagen in een [repository](https://github.com/metbril/robertvanbregt.nl/). 
 

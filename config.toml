@@ -11,7 +11,14 @@ pluralizeListTitles = false
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "nl"
-SectionPagesMenu = "main"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    title = "Home"
+    url = "/"
+    weight = -1
 
 [params]
   description = "Verbetert de wereld, maar begint bij zichzelf."

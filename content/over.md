@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Over deze website
-permalink: "/"
+permalink: /over/
 menu:
   main:
+    weight: 80
     name: Over
-    weight: 10
-
 ---
 Dit is de persoonlijke webpagina van Robert van Bregt. Op deze site publiceer ik tekst, foto en video die ik graag met de buitenwereld wil delen. Sommige mensen noemen dat een weblog. 😉
 
