@@ -16,3 +16,16 @@ Uitgangspunt is, om een pagina en de bijbehorende resources (afbeeldingen, video
 Voor het [Grotius thema](https://robertvanbregt.nl/hugo-grotius) is het nodig alle post types op te slaan in een aparte sectie. 
 
 In een sectie kan het aantal mappen (1 per pagina) flink oplopen. Daarom is een vorm van organisatie op zijn plaats. Bijvoorbeeld om op datum berichten te kunnen terugvinden. Dat kan door de datum vooraan op te nemen in de mapnaam, of door de mappen in een diepere structuur van submappen te bewaren. Ik heb er voor gekozen dezelfde indeling aan te houden als de permalink structuur. Vaak zal er dan maar 1 of een enkel bericht per datum zijn. Met alleen een map per datum blijft dat aantal nog steeds behoorlijk over de jaren heen en een map per jaar geeft wel meer organisatie, maar daarbinnen loopt het dan toch nog flink op. Kortom, toch maar een diep geneste structuur. 
+
+### Artikelen
+
+Artikelen zijn georganiseerd 
+
+### Notities
+
+Notities worden allemaal opgeslagen in één map. De bestandsnaam is de epoch timestamp. De permalink is gemaakt uit de datum en de filename. 
+
+Aannames: 
+
+- Notities hebben geen titel. Om geen slug in het bestand te hoeven opslaan, 
+- Notities hebben geen afbeelding. Daarom hoeven ze niet als page bundle te worden bewaard.

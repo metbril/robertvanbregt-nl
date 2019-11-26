@@ -12,7 +12,7 @@
     "note": {
       "template": "etc/indiekit/template/note.njk",
       "post": {
-        "path": "content/notitie/{{ published | date('yyyy-MM-dd-X') }}.md",
+        "path": "content/notitie/{{ published | date('X') }}.md",
         "url": "{{ published | date('yyyy/MM/dd/X/') }}"
       }
     },
