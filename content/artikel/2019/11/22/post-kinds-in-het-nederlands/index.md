@@ -5,7 +5,7 @@ tags:
     - indieweb
     - meta
     - wordpress
-syndicate-to:
+syndicate_to:
     - https://news.indieweb.org/nl
 ---
 Mijn website is gebaseerd op de uitgangspunten van het IndieWeb. Daarvoor maak ik, onder andere, gebruik van de [Post Kinds](https://wordpress.org/plugins/indieweb-post-kinds) plugin. Die is gebouwd door de Amerikaan [David Shanske](https://david.shanske.com/), waardoor alles in het engels is. Een deel van de teksten zijn netjes vertaald of te vertalen, maar niet alles.

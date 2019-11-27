@@ -10,7 +10,7 @@ tag:
     - raspberrypi
     - computers
     - english
-syndicate-to: 
+syndicate_to: 
     - 'https://github.com/openhab/openhab1-addons/wiki/Raspberry-Pi-System-Temperature'
 ---
 
