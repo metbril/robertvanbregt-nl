@@ -2,20 +2,16 @@
 title: 'Include Raspberry Pi System Temperature in openHAB'
 published: true
 date: '2016-05-13 14:00:00'
-metadata:
-    author: 'Robert van Bregt'
-taxonomy:
-    category:
-        - Ongecategoriseerd
-    tag:
-        - domotica
-        - openhab
-        - raspberrypi
-        - computers
-        - english
-post_id: 72
-author: 'Robert van Bregt'
-syndication: 'https://github.com/openhab/openhab1-addons/wiki/Raspberry-Pi-System-Temperature'
+category:
+    - Ongecategoriseerd
+tag:
+    - domotica
+    - openhab
+    - raspberrypi
+    - computers
+    - english
+syndicate-to: 
+    - 'https://github.com/openhab/openhab1-addons/wiki/Raspberry-Pi-System-Temperature'
 ---
 
 *(This post is also contributed to the openHAB wiki)*
