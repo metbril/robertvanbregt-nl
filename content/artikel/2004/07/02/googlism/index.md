@@ -11,4 +11,4 @@ author: Robert van Bregt
 metadata:
     author: Robert van Bregt
 ---
-[Googlism](http://web.archive.org/web/20050207103957/http://www.googlism.com/): “Googlism.com will find out what Google.com thinks of you, your friends or anything! Search for your name here or for a good laugh check out some of the popular Googlisms below.”
+[Googlism](https://web.archive.org/web/20050207103957/http://www.googlism.com/): “Googlism.com will find out what Google.com thinks of you, your friends or anything! Search for your name here or for a good laugh check out some of the popular Googlisms below.”

@@ -22,4 +22,4 @@ Werkelijk jaren geleden waren de heren al te zien als “Daddy’s Wish” in ee
 
 En in 2003 traden ze als het duo Brothers op in een programma van de [TROS](http://www.tros.nl).
 
-![](http://www.youtube.com/v/pwyf6HShrSg)
+![](https://youtube.com/v/pwyf6HShrSg)

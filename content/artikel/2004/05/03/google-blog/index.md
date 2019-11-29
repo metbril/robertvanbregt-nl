@@ -11,6 +11,6 @@ author: Robert van Bregt
 metadata:
     author: Robert van Bregt
 ---
-Kijk, dat is nog eens lachen: Google doet verwoede pogingen om een [blog](http://web.archive.org/web/20050207102801/http://www.google.com/blog/) te starten.
+Kijk, dat is nog eens lachen: Google doet verwoede pogingen om een [blog](https://web.archive.org/web/20050207102801/http://www.google.com/blog/) te starten.
 
-De [Google Blog](http://web.archive.org/web/20050207102801/http://www.google.com/googleblog/) is actief!
+De [Google Blog](https://web.archive.org/web/20050207102801/http://www.google.com/googleblog/) is actief!

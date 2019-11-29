@@ -11,7 +11,7 @@ author: Robert van Bregt
 metadata:
     author: Robert van Bregt
 ---
-Via de Way Back Machine heb ik nog een heleboel berichten kunnen terugvinden van [een](http://web.archive.org/web/*/http://vanbregt.blogspot.com) van de [voorgangers](http://web.archive.org/web/*/http://blog.vanbregt.net/) van dit weblog.
+Via de Way Back Machine heb ik nog een heleboel berichten kunnen terugvinden van [een](https://web.archive.org/web/*/http://vanbregt.blogspot.com) van de [voorgangers](https://web.archive.org/web/*/http://blog.vanbregt.net/) van dit weblog.
 
 > BREGT’S BLOG – EEN WEBLOG OVER ALLEDAAGSE DINGEN DIE ME VERWONDEREN, OPVALLEN OF BEZIGHOUDEN.
 

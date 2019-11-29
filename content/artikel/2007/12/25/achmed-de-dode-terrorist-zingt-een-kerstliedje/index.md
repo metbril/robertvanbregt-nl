@@ -10,6 +10,6 @@ metadata:
 ---
 Achmed the Dead Terrorist, een creatie van buikspreker [Jeff Dunham](http://www.jeffdunham.com/), zingt een kerstliedje. Erg grappig. Er zijn nog meer filmpjes van [Jeff en Achmed](http://nl.youtube.com/results?search_query=jeff+dunham+achmed) te vinden.
 
-![](http://youtube.com/?v=wskT6YfVB6E)
+![](https://youtube.com/?v=wskT6YfVB6E)
 
 (via [Ongezouten.com](http://ongezouten.com/2007/12/23/achmed-dead-terrorist-kerstliedje/))

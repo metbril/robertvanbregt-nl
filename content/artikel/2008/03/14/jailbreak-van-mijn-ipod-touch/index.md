@@ -11,7 +11,7 @@ author: Robert van Bregt
 metadata:
     author: Robert van Bregt
 ---
-![iPod Touch](http://breggologisch.files.wordpress.com/2008/03/ipod_touch.thumbnail.jpg)Ik heb ’t geprobeerd. Met succes. Mijn 8GB iPod Touch is nu “gejailbreakt”. Wat een woord. Maar het moet nu wel mogelijk zijn om extra applicaties te installeren. Dat gaan we dus proberen…
+![iPod Touch](https://breggologisch.files.wordpress.com/2008/03/ipod_touch.thumbnail.jpg)Ik heb ’t geprobeerd. Met succes. Mijn 8GB iPod Touch is nu “gejailbreakt”. Wat een woord. Maar het moet nu wel mogelijk zijn om extra applicaties te installeren. Dat gaan we dus proberen…
 
 Mijn iPod is er een van de laatste serie. Uit de doos met firmware 1.1.3. Daarna heb ik ‘m via iTunes geüpgrade naar 1.1.4. En vandaag was het dus tijd voor de jailbreak. Ik heb daarvoor ZiPhone 2.6 voor de Mac gebruikt:
 

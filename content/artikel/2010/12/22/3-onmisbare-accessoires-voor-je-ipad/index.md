@@ -22,7 +22,7 @@ Inmiddels maak ik alweer een paar maanden met veel plezier en naar volle tevrede
 
 **Apple iPad Camera Connection Kit**  
 ![](apple-camera-connection-kit.jpeg?cropResize=150,150 "Apple Camera Connection Kit")
-Met de Camera Connection Kit kun je foto’s van een SD-card, je iPhone, USB-stick of een andere cardreader bekijken op je iPad. Gemakkelijke opslag voor een vakantie, als je camerageheugen vol is. Waar de Kit ook goed voor is, is het aansluiten van een USB-toetsenbord of het [bekijken van films die niet met iTunes op de iPad](http://www.youtube.com/watch?v=rNn62ZJxEZY) zijn gezet. Dat laatste is erg handig als je de goedkoopste dus kleinste iPad aanschaft en toch een hele vakantie door wilt komen.
+Met de Camera Connection Kit kun je foto’s van een SD-card, je iPhone, USB-stick of een andere cardreader bekijken op je iPad. Gemakkelijke opslag voor een vakantie, als je camerageheugen vol is. Waar de Kit ook goed voor is, is het aansluiten van een USB-toetsenbord of het [bekijken van films die niet met iTunes op de iPad](https://youtube.com/watch?v=rNn62ZJxEZY) zijn gezet. Dat laatste is erg handig als je de goedkoopste dus kleinste iPad aanschaft en toch een hele vakantie door wilt komen.
 
 **Griffin iPad Stylus**  
 ![](griffin-stylus-pen-for-apple.jpg?cropResize=150,150)

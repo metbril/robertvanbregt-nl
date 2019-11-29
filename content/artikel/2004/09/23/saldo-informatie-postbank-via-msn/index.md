@@ -11,4 +11,4 @@ author: Robert van Bregt
 metadata:
     author: Robert van Bregt
 ---
-> Klanten van de [Postbank](http://web.archive.org/web/20050207105915/http://www.postbank.nl/) kunnen nu ook via [MSN Messenger](http://web.archive.org/web/20050207105915/http://messenger.msn.com/) saldo-informatie opvragen en de laatste vijf bij- en afschrijvingen inzien.
+> Klanten van de [Postbank](https://web.archive.org/web/20050207105915/http://www.postbank.nl/) kunnen nu ook via [MSN Messenger](https://web.archive.org/web/20050207105915/http://messenger.msn.com/) saldo-informatie opvragen en de laatste vijf bij- en afschrijvingen inzien.

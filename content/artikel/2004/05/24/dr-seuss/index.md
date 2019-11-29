@@ -21,6 +21,6 @@ Nostalgie. Dat is het. Toen ik nog een kleine jongen was, liep ik weg met het bo
 > 
 > Bette Westera zorgt er met haar spiksplinternieuwe vertaling voor dat in Nederland een nieuwe generatie beginnende lezers kennis kan maken met de creaties van Dr. Seuss. Bette Westera (1958) won voor eigen werk tweemaal een Vlag & Wimpel van de Griffeljury, en vertaalde diverse boeken, waaronder de zeer succesvolle prentenboeken van Julia Donaldson en Axel Scheffler. Ze heeft de geweldige uitdaging aangenomen om de wonderbare vondsten van Dr. Seuss uit het Engels te vertalen naar het Nederlands, en is daar op een bewonderenswaardige manier in geslaagd.
 
-Alle boektitels zijn o.a. te koop via [bol.com](http://clk.tradedoubler.com/click?p=67859&a=1703208&g=17588626)![](http://impnl.tradedoubler.com/imp?type(inv)g(17588626)a(1703208))
+Alle boektitels zijn o.a. te koop via [bol.com](http://clk.tradedoubler.com/click?p=67859&a=1703208&g=17588626)![](https://impnl.tradedoubler.com/imp?type(inv)g(17588626)a(1703208))
 
 **Update**: [Recensie van Het Parool](http://www.parool.nl/boeken/recensies/050604-seuss.html)

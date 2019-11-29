@@ -11,4 +11,4 @@ author: Robert van Bregt
 metadata:
     author: Robert van Bregt
 ---
-[Welcome To Seussville!](http://web.archive.org/web/20050207102801/http://www.seussville.com/): “Seussville”
+[Welcome To Seussville!](https://web.archive.org/web/20050207102801/http://www.seussville.com/): “Seussville”

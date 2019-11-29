@@ -11,4 +11,4 @@ author: Robert van Bregt
 metadata:
     author: Robert van Bregt
 ---
-[![](http://www.bbspot.com/Images/News_Features/2004/10/file_extensions/pdf.jpg)](http://www.bbspot.com/News/2004/10/extension_quiz.php)
+[![](https://www.bbspot.com/Images/News_Features/2004/10/file_extensions/pdf.jpg)](https://www.bbspot.com/News/2004/10/extension_quiz.php)

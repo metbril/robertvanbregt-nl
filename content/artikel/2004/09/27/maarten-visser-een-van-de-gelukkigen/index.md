@@ -11,4 +11,4 @@ author: Robert van Bregt
 metadata:
     author: Robert van Bregt
 ---
-[Maarten Visser is een van de gelukkigen](http://web.archive.org/web/20050207105915/http://www.maartenvisser.nl/pivot/entry.php?id=498) die [van de Postbank saldoinformatie krijgt via MSN Messenger](http://web.archive.org/web/20050207105915/http://vanbregt.blogspot.com/2004/09/saldo-informatie-postbank-via-msn.html).
+[Maarten Visser is een van de gelukkigen](https://web.archive.org/web/20050207105915/http://www.maartenvisser.nl/pivot/entry.php?id=498) die [van de Postbank saldoinformatie krijgt via MSN Messenger](https://web.archive.org/web/20050207105915/http://vanbregt.blogspot.com/2004/09/saldo-informatie-postbank-via-msn.html).

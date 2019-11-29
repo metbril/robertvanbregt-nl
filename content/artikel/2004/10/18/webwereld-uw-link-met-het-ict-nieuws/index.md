@@ -11,4 +11,4 @@ author: Robert van Bregt
 metadata:
     author: Robert van Bregt
 ---
-“In navolging van andere banken in Nederland heeft ook SNS Bank zijn internetbankierwebsite [geoptimaliseerd voor gebruik met Firefox](http://web.archive.org/web/20050207110754/http://www.snsbank.nl/index.asp?NavigationId=4802).”
+“In navolging van andere banken in Nederland heeft ook SNS Bank zijn internetbankierwebsite [geoptimaliseerd voor gebruik met Firefox](https://web.archive.org/web/20050207110754/http://www.snsbank.nl/index.asp?NavigationId=4802).”

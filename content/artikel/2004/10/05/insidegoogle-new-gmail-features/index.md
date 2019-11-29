@@ -11,4 +11,4 @@ author: Robert van Bregt
 metadata:
     author: Robert van Bregt
 ---
-[InsideGoogle: New Gmail Features](http://web.archive.org/web/20050207110754/http://insidegoogle.blogspot.com/2004/10/new-gmail-features.html): “This morning, new features appeared in Gmail: Contacts, Drafts and Atom”.
+[InsideGoogle: New Gmail Features](https://web.archive.org/web/20050207110754/http://insidegoogle.blogspot.com/2004/10/new-gmail-features.html): “This morning, new features appeared in Gmail: Contacts, Drafts and Atom”.

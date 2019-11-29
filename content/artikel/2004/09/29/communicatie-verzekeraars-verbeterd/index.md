@@ -11,6 +11,6 @@ author: Robert van Bregt
 metadata:
     author: Robert van Bregt
 ---
-[intermax](http://web.archive.org/web/20050207105915/http://www.intermax.nl/2004/index.html?item=87&type=n): “Bijna 80 procent van de Nederlandse zorgverzekeraars voldoet binnen een dag aan een informatieverzoek per e-mail. “
+[intermax](https://web.archive.org/web/20050207105915/http://www.intermax.nl/2004/index.html?item=87&type=n): “Bijna 80 procent van de Nederlandse zorgverzekeraars voldoet binnen een dag aan een informatieverzoek per e-mail. “
 
-Via [Emerce](http://web.archive.org/web/20050207105915/http://www.emerce.nl/nieuws.jsp?id=376803)
+Via [Emerce](https://web.archive.org/web/20050207105915/http://www.emerce.nl/nieuws.jsp?id=376803)

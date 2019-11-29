@@ -11,5 +11,5 @@ author: Robert van Bregt
 metadata:
     author: Robert van Bregt
 ---
-[Download details: Microsoft Calculator Plus](http://web.archive.org/web/20050207105915/http://www.microsoft.com/downloads/details.aspx?FamilyID=32b0d059-b53a-4dc9-8265-da47f157c091&DisplayLang=en): “Microsoft Calculator Plus  
+[Download details: Microsoft Calculator Plus](https://web.archive.org/web/20050207105915/http://www.microsoft.com/downloads/details.aspx?FamilyID=32b0d059-b53a-4dc9-8265-da47f157c091&DisplayLang=en): “Microsoft Calculator Plus  
 This application includes mathematical and conversion functions.”
