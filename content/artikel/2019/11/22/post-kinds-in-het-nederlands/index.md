@@ -6,7 +6,7 @@ tags:
     - meta
     - wordpress
 syndicateto:
-    - https://news.indieweb.org/nl
+    - https://news.indieweb.org/nl/robertvanbregt.nl/2019/11/22/post-kinds-in-het-nederlands/
 ---
 Mijn website is gebaseerd op de uitgangspunten van het IndieWeb. Daarvoor maak ik, onder andere, gebruik van de [Post Kinds](https://wordpress.org/plugins/indieweb-post-kinds) plugin. Die is gebouwd door de Amerikaan [David Shanske](https://david.shanske.com/), waardoor alles in het engels is. Een deel van de teksten zijn netjes vertaald of te vertalen, maar niet alles.
 
