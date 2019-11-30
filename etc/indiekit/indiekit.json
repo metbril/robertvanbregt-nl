@@ -24,7 +24,7 @@
     },
     "reply": {
       "post": {
-        "path": "content/reacties/{{ published | date('X') }}.md",
+        "path": "content/reactie/{{ published | date('X') }}.md",
         "url": "{{ published | date('yyyy/MM/dd/X/') }}"
       }
     },
