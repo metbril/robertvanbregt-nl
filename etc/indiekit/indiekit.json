@@ -22,6 +22,12 @@
         "url": "{{ published | date('yyyy/MM/dd/X/') }}"
       }
     },
+    "reply": {
+      "post": {
+        "path": "content/reacties/{{ published | date('X') }}.md",
+        "url": "{{ published | date('yyyy/MM/dd/X/') }}"
+      }
+    },
     "bookmark": {
       "post": {
         "path": "content/bladwijzer/{{ published | date('yyyy-MM-dd') }}-{{ slug }}.md",
