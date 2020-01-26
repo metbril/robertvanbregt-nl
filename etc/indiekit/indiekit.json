@@ -28,6 +28,13 @@
         "url": "{{ published | date('yyyy/MM/dd/X/') }}"
       }
     },
+    "rsvp": {
+      "template": "etc/indiekit/template/slug.njk",
+      "post": {
+        "path": "content/rsvps/{{ published | date('yyyy-MM-dd-X') }}.md",
+        "url": "{{ published | date('yyyy/MM/dd/X/') }}"
+      }
+    },
     "bookmark": {
       "post": {
         "path": "content/bladwijzer/{{ published | date('yyyy-MM-dd') }}-{{ slug }}.md",
