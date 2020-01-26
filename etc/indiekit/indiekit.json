@@ -12,7 +12,7 @@
     "note": {
       "template": "etc/indiekit/template/note.njk",
       "post": {
-        "path": "content/notitie/{{ published | date('X') }}.md",
+        "path": "content/notitie/{{ published | date('yyyy-MM-dd-X') }}.md",
         "url": "{{ published | date('yyyy/MM/dd/X/') }}"
       }
     },
@@ -24,7 +24,7 @@
     },
     "reply": {
       "post": {
-        "path": "content/reactie/{{ published | date('X') }}.md",
+        "path": "content/reactie/{{ published | date('yyyy-MM-dd-X') }}.md",
         "url": "{{ published | date('yyyy/MM/dd/X/') }}"
       }
     },
