@@ -1,0 +1,19 @@
+---
+slug: {% if slug %}{{ slug }}{% else %}'{{ published | date('X') }}'{% endif %}
+date: '{{ published }}'
+{% if inReplyTo %}in-reply-to: {{ inReplyTo }}{% endif %}
+{% if rsvp %}rsvp: {{ rsvp }}{% endif %}
+{%- if category %}
+tags:
+{%- for c in category %}
+  - {{ c }}
+{%- endfor %}
+{%- endif %}
+{%- if syndicateTo %}
+syndicate-to:
+{%- for s in syndicateTo %}
+  - {{ s }}
+{%- endfor %}
+{%- endif %}
+---
+{{ content | safe }}
