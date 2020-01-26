@@ -13,4 +13,4 @@ metadata:
 ---
 Vandaag is het precies 100 jaar geleden dat de [Wright Brothers](http://www.google.nl/search?q=wright+brothers) voor het eerst vlogen.
 
-[![](http://www.robertvanbregt.nl/wp/wp-content/uploads/2018/07/doodle-flight-300x150.jpg)](https://www.google.com/doodles/100th-anniversary-of-flight)
+[![](/wp/wp-content/uploads/2018/07/doodle-flight-300x150.jpg)](https://www.google.com/doodles/100th-anniversary-of-flight)

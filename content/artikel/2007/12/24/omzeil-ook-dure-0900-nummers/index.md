@@ -11,7 +11,7 @@ author: Robert van Bregt
 metadata:
     author: Robert van Bregt
 ---
-![Oude telefoon](https://breggologisch.files.wordpress.com/2007/12/oude_telefoon.thumbnail.jpg)**Update:** CorCom heeft zijn blog verwijderd.
+![Oude telefoon](/images/2007/12/oude_telefoon.thumbnail.jpg)**Update:** CorCom heeft zijn blog verwijderd.
 
 CorCom legt uit [hoe je dure 0900-nummers omzeilt](http://corcom.wordpress.com/2007/12/23/hoe-je-dure-0900-nummers-omzeilt/):
 

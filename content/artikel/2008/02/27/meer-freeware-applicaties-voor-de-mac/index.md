@@ -11,7 +11,7 @@ author: Robert van Bregt
 metadata:
     author: Robert van Bregt
 ---
-![Applications Icon](https://breggologisch.files.wordpress.com/2008/02/applications.thumbnail.png)Mijn bericht over de [elf mini applicaties voor de Mac](http://breggologisch.wordpress.com/2007/12/28/elf-mini-applications-voor-de-mac/) blijkt populair te worden. Daarom een overzichtje van sites met nog meer freeware en open source software voor de Mac:
+![Applications Icon](/images/2008/02/applications.thumbnail.png)Mijn bericht over de [elf mini applicaties voor de Mac](http://breggologisch.wordpress.com/2007/12/28/elf-mini-applications-voor-de-mac/) blijkt populair te worden. Daarom een overzichtje van sites met nog meer freeware en open source software voor de Mac:
 
 - [Pure Mac](http://www.pure-mac.com/)
 - [Free Macware](http://www.freemacware.com/)

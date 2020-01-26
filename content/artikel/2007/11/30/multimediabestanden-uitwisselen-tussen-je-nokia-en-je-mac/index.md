@@ -11,4 +11,4 @@ author: Robert van Bregt
 metadata:
     author: Robert van Bregt
 ---
-[![Headphone](https://breggologisch.files.wordpress.com/2007/12/headphone_781594_72615440_400px.thumbnail.jpg)Nokia Multimedia Transfer](http://europe.nokia.com/A4423134) is gratis software van [Nokia](http://www.nokia.nl/) voor je [Mac](http://www.apple.com/nl/mac) om (multimedia-)bestanden uit te wisselen. Het ondersteund ondermeer [iTunes](http://www.apple.com/nl/itunes) en [iPhoto](http://www.apple.com/nl/iphoto).
+[![Headphone](/images/2007/12/headphone_781594_72615440_400px.thumbnail.jpg)Nokia Multimedia Transfer](http://europe.nokia.com/A4423134) is gratis software van [Nokia](http://www.nokia.nl/) voor je [Mac](http://www.apple.com/nl/mac) om (multimedia-)bestanden uit te wisselen. Het ondersteund ondermeer [iTunes](http://www.apple.com/nl/itunes) en [iPhoto](http://www.apple.com/nl/iphoto).

@@ -11,7 +11,7 @@ author: Robert van Bregt
 metadata:
     author: Robert van Bregt
 ---
-![iTunes Logo](https://breggologisch.files.wordpress.com/2008/02/itunes-logo.thumbnail.png)
+![iTunes Logo](/images/2008/02/itunes-logo.thumbnail.png)
 
 [**UPDATE**] De actie is inmiddels afgelopen. Er worden geen codes meer beschikbaar gesteld. Heb je een andere site waar een code is te vinden, laat dat dan weten via de comments.
 
