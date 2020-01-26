@@ -60,6 +60,7 @@ DefaultContentLanguage = "nl"
   notitie = "/:year/:month/:day/:slug/"
   like = "/:year/:month/:day/:slug/"
   reactie = "/:year/:month/:day/:slug/"
+  rsvps = "/:year/:month/:day/:slug/"
   # https://gohugo.io/content-management/urls/#permalink-configuration-values
   # :year        | the 4-digit year
   # :month       | the 2-digit month
