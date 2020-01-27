@@ -6,8 +6,9 @@ menu:
 ---
 Een overzicht van de verschillende kanalen met berichten:
 
-* [Artikelen](/artikel/)
-* [Notities](/notitie)
-* [Likes](/like/)
-* [Reacties](/reactie/)
-* [Bladwijzers](/bladwijzer)
+* [Artikelen](/artikelen/)
+* [Notities](/notities)
+* [Likes](/likes/)
+* [Reacties](/reacties/)
+* [RSVP's](/rsvps/)
+* [Bladwijzers](/bladwijzers)

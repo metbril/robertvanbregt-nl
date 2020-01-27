@@ -55,11 +55,11 @@ DefaultContentLanguage = "nl"
   filename = "sitemap.xml"
 
 [permalinks]
-  artikel = "/:year/:month/:day/:slug/"
-  bladwijzer = "/:year/:month/:day/:slug/"
-  notitie = "/:year/:month/:day/:slug/"
-  like = "/:year/:month/:day/:slug/"
-  reactie = "/:year/:month/:day/:slug/"
+  artikelen = "/:year/:month/:day/:slug/"
+  bladwijzers = "/:year/:month/:day/:slug/"
+  notities = "/:year/:month/:day/:slug/"
+  likes = "/:year/:month/:day/:slug/"
+  reacties = "/:year/:month/:day/:slug/"
   rsvps = "/:year/:month/:day/:slug/"
   # https://gohugo.io/content-management/urls/#permalink-configuration-values
   # :year        | the 4-digit year
