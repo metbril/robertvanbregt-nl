@@ -12,19 +12,19 @@
     "note": {
       "template": "etc/indiekit/template/note.njk",
       "post": {
-        "path": "content/notitie/{{ published | date('yyyy-MM-dd-X') }}.md",
+        "path": "content/notities/{{ published | date('yyyy-MM-dd-X') }}.md",
         "url": "{{ published | date('yyyy/MM/dd/X/') }}"
       }
     },
     "like": {
       "post": {
-        "path": "content/like/{{ published | date('yyyy-MM-dd-X') }}.md",
+        "path": "content/likes/{{ published | date('yyyy-MM-dd-X') }}.md",
         "url": "{{ published | date('yyyy/MM/dd/X/') }}"
       }
     },
     "reply": {
       "post": {
-        "path": "content/reactie/{{ published | date('yyyy-MM-dd-X') }}.md",
+        "path": "content/reacties/{{ published | date('yyyy-MM-dd-X') }}.md",
         "url": "{{ published | date('yyyy/MM/dd/X/') }}"
       }
     },
@@ -37,13 +37,13 @@
     },
     "bookmark": {
       "post": {
-        "path": "content/bladwijzer/{{ published | date('yyyy-MM-dd') }}-{{ slug }}.md",
+        "path": "content/bladwijzers/{{ published | date('yyyy-MM-dd') }}-{{ slug }}.md",
         "url": "{{ published | date('yyyy/MM/dd') }}/{{ slug }}/"
       }
     },
     "article": {
       "post": {
-        "path": "content/artikel/{{ published | date('yyyy/MM/dd') }}/{{ slug }}/index.md",
+        "path": "content/artikelen/{{ published | date('yyyy/MM/dd') }}/{{ slug }}/index.md",
         "url": "{{ published | date('yyyy/MM/dd') }}/{{ slug }}/"
       }
     }
