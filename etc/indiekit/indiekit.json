@@ -17,9 +17,10 @@
       }
     },
     "like": {
+      "template": "etc/indiekit/template/like.njk",
       "post": {
-        "path": "content/likes/{{ published | date('yyyy-MM-dd-X') }}.md",
-        "url": "{{ published | date('yyyy/MM/dd/X/') }}"
+        "path": "content/likes/{{ published | date('yyyy-MM-dd') }}-{{ slug }}.md",
+        "url": "{{ published | date('yyyy/MM/dd/') }}/{{ slug }}/"
       }
     },
     "reply": {

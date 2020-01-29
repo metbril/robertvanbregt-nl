@@ -1,0 +1,18 @@
+---
+slug: {{ slug }}
+date: '{{ published }}'
+likeof: {{ likeOf }}
+{%- if category %}
+tags:
+{%- for c in category %}
+  - {{ c }}
+{%- endfor %}
+{%- endif %}
+{%- if syndicateTo %}
+syndicate-to:
+{%- for s in syndicateTo %}
+  - {{ s }}
+{%- endfor %}
+{%- endif %}
+---
+{{ content | safe }}
