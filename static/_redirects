@@ -1,10 +1,10 @@
 # These rules will change if you change your site’s custom domains or HTTPS settings
 
 # Specific pages
-/now /nu 301
+/now /nu 301!
 
 # External redirects
-/r/fastmail https://ref.fm/u2869765 302
+/r/fastmail https://ref.fm/u2869765 302!
 
 # Redirect domain aliases to primary domain
 https://robert.vanbregt.net/* https://robertvanbregt.nl/:splat 301!
