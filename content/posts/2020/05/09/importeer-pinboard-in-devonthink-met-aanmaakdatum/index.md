@@ -2,6 +2,7 @@
 date: 2020-05-09T16:50:30+02:00
 tags:
 - kennismanagement
+- script
 title: Importeer Pinboard in DEVONthink met aanmaakdatum
 draft: true
 
@@ -10,13 +11,13 @@ Tot grote tevredenheid gebruik ik [DEVONthink](https://www.devontechnologies.com
 
 De oorspronkelijke aanmaakdatum is wel beschikbaar in [de API van Pinboard](https://pinboard.in/api). Dus heb ik de datum toegevoegd aan het script.
 
-Download [het archiefbestand](https://robertvanbregt.nl/wp/wp-content/uploads/2020/05/Pinboard.scpt_.zip) en pak het uit. Je vind dan het bestand `Pinboard.scpt`in je Downloads-map.
+Download [het archiefbestand](Pinboard.scpt.zip) en pak het uit. Je vind dan het bestand `Pinboard.scpt`in je Downloads-map.
 
 Kopieer het script naar de map `~/Library/Application Scripts/com.devon-technologies.think3/Menu/Import`. Je overschrijft dan het originele script dat met DT werd meegeleverd.
 
 Je kunt de Scripts-map snel openen door vanuit de Finder in het menu te kiezen voor **Ga > Ga naar map…** en dan het hele pad daar te plakken. In plaats van de menukeuze kun je ook de sneltoets **⇧⌘G** gebruiken
 
-![](https://robertvanbregt.nl/wp/wp-content/uploads/2020/05/DEVONthink-Scripts-Menu-1024x41.png =900x36)
+![](DEVONthink-Scripts-Menu.png)
 
 Vanuit de applicatie DEVONthink kun je nu via het **Scripts-menu > Import > Pinboard** het script starten.
 
