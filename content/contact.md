@@ -5,10 +5,6 @@ permalink: /contact
 navigation_weight: 90
 navigation_title: Contact
 sitemap: false
-menu: 
-  main:
-    name: Contact
-    weight: 90
 ---
 Leuk dat je hier bent.
 

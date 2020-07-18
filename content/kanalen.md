@@ -1,8 +1,5 @@
 ---
 title: "Kanalen"
-menu:
-    main:
-        weight: 50
 ---
 Een overzicht van de verschillende kanalen met berichten:
 

@@ -6,3 +6,11 @@ command = "hugo"
 HUGO_ENV = "production"
 HUGO_VERSION = "0.62.2"
 HUGO_ENABLEGITINFO = "true"
+
+[context.branch-deploy]
+command = "hugo --buildFuture --buildDrafts --baseURL $DEPLOY_URL"
+
+[context.branch-deploy.environment]
+HUGO_ENV = "develop"
+HUGO_ENABLEGITINFO = "true"
+HUGO_VERSION = "0.62.2"
