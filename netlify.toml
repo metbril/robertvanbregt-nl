@@ -3,7 +3,9 @@ publish = "public"
 command = "hugo"
 
 [context.production]
-command = "hugo --baseURL $URL"
+#command = "hugo --baseURL $URL"
+#command = "hugo --baseURL $DEPLOY_URL
+command = "hugo --baseURL $DEPLOY_PRIME_URL
 
 [context.production.environment]
 HUGO_ENV = "production"
