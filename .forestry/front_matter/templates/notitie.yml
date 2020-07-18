@@ -2,6 +2,11 @@
 label: Blog
 hide_body: false
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
 - name: slug
   type: datetime
   label: Slug
