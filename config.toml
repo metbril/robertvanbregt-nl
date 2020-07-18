@@ -1,53 +1,170 @@
-baseURL = "https://www.robertvanbregt.nl/"
+baseUrl = "https://www.robertvanbregt.nl/"
 title = "Robert van Bregt"
+
 languageCode = "nl-nl"
-copyright = "Tenzij anders aangegeven valt de inhoud van deze website onder een Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal-licentie."
-theme = "grotius"
+defaultContentLanguage = "nl"
+
+theme = "coder"
 
 paginate = 20
 paginatePath = "pagina"
+canonifyUrls = false
 
 pluralizeListTitles = false
 
-MetaDataFormat = "yaml"
-DefaultContentLanguage = "nl"
+pygmentsStyle = "b2"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+
+disqusShortname = ""
+
+metaDataFormat = "yaml"
+
+[params]
+
+  favicon = "/favicon.ico"
+
+  # coder theme
+ 	author = "Robert van Bregt"
+  info = "Projectmanager. Automagiseerder. Geek. Rotterdammert."
+  description = "Persoonlijke website van Robert van Bregt"
+  keywords = "blog, persoonlijk"
+  footerContent = "Verbetert de wereld, maar begint bij zichzelf."
+
+  avatarurl = "/images/robert-color.jpg"
+  # gravatar = "contact@robertvanbregt.nl"
+
+  colorScheme = "auto"
+  custom_css = []
+  custom_js = []
+  enableTwemoji = true
+
+  # Series see also post count
+  maxSeeAlsoItems = 5
+
+
+  dateFormat = "2 January 2006"
+
+  hideFooter = false
+  hideCredits = false
+  hideCopyright = false
+  since = 2003
+
+  commit = "https://github.com/metbril/robertvanbregt.nl/tree/"
+
+  rtl = false
+
+  math = false
+
+  [[params.social]]
+      name = "LinkedIn"
+      icon = "fab fa-linkedin"
+      weight = 1
+      url = "https://www.linkedin.com/in/robertvanbregt/"
+  [[params.social]]
+      name = "Twitter"
+      icon = "fab fa-twitter"
+      weight = 2
+      url = "https://twitter.com/metbril/"
+  [[params.social]]
+      name = "Github"
+      icon = "fab fa-github"
+      weight = 3
+      url = "https://github.com/metbril/"
+  [[params.social]]
+      name = "Gitlab"
+      icon = "fab fa-gitlab"
+      weight = 4
+      url = "https://gitlab.com/metbril/"
+  [[params.social]]
+      name = "E-mail"
+      icon = "fas fa-envelope"
+      weight = 98
+      url = "mailto:contact@robertvanbregt.nl"
+  [[params.social]]
+      name = "RSS"
+      icon = "fas fa-rss"
+      weight = 99
+      url = "/index.xml"
+      rel = "alternate"
+      type = "application/rss+xml"
 
 [menu]
   [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    title = "Home"
-    url = "/"
-    weight = -1
+    name = "Over"
+    weight = 10
+    url = "/over"
 
-[params]
-  description = "Verbetert de wereld, maar begint bij zichzelf."
-  mainSections = ["article", "note", "like", "bookmark"]     # sections on homepage
-  favicon = "/favicon.ico"
-  images = ["/images/photo.jpg"]
+  [[menu.main]]
+    name = "Nu"
+    weight = 15
+    url = "/nu"
 
-  # Grotius theme
-  localStyles = true
-  # author = "Robert van Bregt"
+  [[menu.main]]
+    name = "Blog"
+    weight = 20
+    url = "/posts"
 
-# grotius: h-card properties
-[params.author]
-  name = "Robert van Bregt"
-  url = "https://robertvanbregt.nl"
-  photo = "/images/photo.jpg"
-  email = "contact@robertvanbregt.nl"
-  locality = "Capelle aan den IJssel"
-  countryName = "Nederland"
-  note = "Projectmanager. Echtgenoot en vader. Nerd. Rotterdammert."
+  [[menu.main]]
+    identifier = "tags"
+    name = "Labels"
+    title = "Labels"
+    url = "/tags"
+    weight = 25
 
-# grotius: IndieWeb Endpoints
-[params.indieweb]
-    AuthorizationEndpoint = "https://indieauth.com/auth"    # default 'https://indieauth.com/auth'
-    TokenEndpoint = "https://tokens.indieauth.com/token"    # default 'https://tokens.indieauth.com/token'
-    Micropub = "https://indiekit-robertvanbregt.herokuapp.com/micropub"
-    Microsub = "https://aperture.p3k.io/microsub/79"
-    Webmention = "https://webmention.io/robertvanbregt.nl/webmention"
-    Pingback = "https://webmention.io/robertvanbregt.nl/xmlrpc"
+  [[menu.main]]
+    name = "Projecten"
+    weight = 30
+    url = "/projecten"
+
+  [[menu.main]]
+    name = "Contact"
+    weight = 40
+    url = "/contact"
+
+[languages]
+
+    [languages.nl] # stub
+      languageName = "🇳🇱"
+
+    [languages.en]
+        languageName = "🇬🇧"
+
+        info = "Project manager. Automagician. Geek. Rotterdamned."
+        description = "Personal website of Robert van Bregt"
+        keywords = "blog, personal"
+        footerContent = "Improves the world, but starts with himself."
+
+        avatarUrl = "/images/robert-noir.jpg"
+
+        [languages.en.menu]
+
+            [[languages.en.menu.main]]
+            name = "About"
+            weight = 10
+            url = "/about"
+
+            [[languages.en.menu.main]]
+            name = "Blog"
+            weight = 20
+            url = "/posts"
+
+            [[languages.en.menu.main]]
+            name = "Projects"
+            weight = 30
+            url = "/projects"
+
+            [[languages.en.menu.main]]
+            name = "Contact"
+            weight = 40
+            url = "/contact"
+
+# explicitly specify taxonomies for coder theme which supports series
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
 
 [sitemap]
   changefreq = "monthly"
@@ -55,12 +172,7 @@ DefaultContentLanguage = "nl"
   filename = "sitemap.xml"
 
 [permalinks]
-  artikelen = "/:year/:month/:day/:slug/"
-  bladwijzers = "/:year/:month/:day/:slug/"
-  notities = "/:year/:month/:day/:slug/"
-  likes = "/:year/:month/:day/:slug/"
-  reacties = "/:year/:month/:day/:slug/"
-  rsvps = "/:year/:month/:day/:slug/"
+  posts = "/:year/:month/:day/:slug/"
   # https://gohugo.io/content-management/urls/#permalink-configuration-values
   # :year        | the 4-digit year
   # :month       | the 2-digit month
