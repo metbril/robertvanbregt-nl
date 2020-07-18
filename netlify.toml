@@ -2,6 +2,9 @@
 publish = "public"
 command = "hugo"
 
+[context.production]
+command = "hugo --baseURL $URL"
+
 [context.production.environment]
 HUGO_ENV = "production"
 HUGO_VERSION = "0.62.2"
