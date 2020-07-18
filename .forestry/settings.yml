@@ -11,15 +11,12 @@ sections:
   match: "*"
   new_doc_ext: yml
 - type: directory
-  path: content/notitie
-  label: Notities
+  path: content/posts
+  label: Posts
   create: all
   match: "**/*"
-- type: directory
-  path: content/artikel
-  label: Artikelen
-  create: all
-  match: "**/*"
+  templates:
+  - notitie
 - type: directory
   path: content
   label: Pages
