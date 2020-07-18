@@ -7,18 +7,6 @@ fields:
   config:
     required: false
   label: Title
-- name: slug
-  type: datetime
-  label: Slug
-  description: ''
-  config:
-    required: true
-    date_format: X
-    time_format: 
-    display_utc: false
-    export_format: X
-  hidden: false
-  default: now
 - name: date
   type: datetime
   label: Date
