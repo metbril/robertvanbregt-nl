@@ -8,7 +8,7 @@ theme = "coder"
 
 paginate = 20
 paginatePath = "pagina"
-canonifyUrls = false
+canonifyUrls = true
 
 pluralizeListTitles = false
 
@@ -90,6 +90,7 @@ metaDataFormat = "yaml"
       type = "application/rss+xml"
 
 [menu]
+
   [[menu.main]]
     name = "Over"
     weight = 10
