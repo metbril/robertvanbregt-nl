@@ -1,5 +1,5 @@
 ---
-label: Notitie
+label: Blog
 hide_body: false
 fields:
 - name: slug
