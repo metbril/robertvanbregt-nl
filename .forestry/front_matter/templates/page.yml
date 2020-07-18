@@ -4,13 +4,18 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
+  config:
+    required: true
+- name: slug
+  type: text
+  config:
+    required: false
+  label: Slug
 - type: text
   name: layout
-  label: layout
-- type: text
-  name: permalink
-  label: permalink
+  label: Layout
+  default: page
 - type: number
   name: navigation_weight
   label: navigation_weight
@@ -20,3 +25,6 @@ fields:
 - type: boolean
   name: sitemap
   label: sitemap
+- type: text
+  name: permalink
+  label: permalink
