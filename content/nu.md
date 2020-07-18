@@ -1,10 +1,6 @@
 ---
 title: Wat ik nu aan het doen ben
 permalink: /nu/
-menu:
-    main:
-        weight: 81
-        name: Nu
 ---
 Dit zijn de zaken (in volgorde van prioriteit/tijdsbesteding) waar ik nu mee bezig ben.
 
