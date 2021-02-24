@@ -4,7 +4,7 @@ tags:
 - kennismanagement
 - script
 title: Importeer Pinboard in DEVONthink met aanmaakdatum
-draft: true
+draft: false
 
 ---
 Tot grote tevredenheid gebruik ik [DEVONthink](https://www.devontechnologies.com/apps/devonthink) (DT) voor het bewaren van al mijn referentiemateriaal. De software biedt een heleboel extra scripts om diverse gegevens te importeren. Een daarvan is een import van je [Pinboard](https://pinboard.in/)bladwijzers. Dat script is lekker eenvoudig, maar er miste voor mij één ding. Ieder item krijgt als aanmaakdatum de datum waarop het aan DT werd toegevoegd. Daarmee is het lastig later eenvoudig te controleren wat al wel en niet werd geïmporteerd.
