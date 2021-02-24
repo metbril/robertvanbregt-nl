@@ -58,32 +58,37 @@ metaDataFormat = "yaml"
 
   [[params.social]]
       name = "LinkedIn"
-      icon = "fab fa-linkedin"
+      icon = "fa fa-linkedin fa-2x"
       weight = 1
       url = "https://www.linkedin.com/in/robertvanbregt/"
   [[params.social]]
       name = "Twitter"
-      icon = "fab fa-twitter"
+      icon = "fa fa-twitter"
       weight = 2
-      url = "https://twitter.com/metbril/"
+      url = "https://twitter.com/robertvanbregt/"
+  [[params.social]]
+      name = "Mastodon"
+      icon = "fa fa-mastodon"
+      weight = 3
+      url = "https://mastodon.social/@metbril"
   [[params.social]]
       name = "Github"
-      icon = "fab fa-github"
-      weight = 3
+      icon = "fa fa-github"
+      weight = 11
       url = "https://github.com/metbril/"
   [[params.social]]
       name = "Gitlab"
-      icon = "fab fa-gitlab"
-      weight = 4
+      icon = "fa fa-gitlab"
+      weight = 12
       url = "https://gitlab.com/metbril/"
   [[params.social]]
       name = "E-mail"
-      icon = "fas fa-envelope"
+      icon = "fa fa-envelope"
       weight = 98
       url = "mailto:contact@robertvanbregt.nl"
   [[params.social]]
       name = "RSS"
-      icon = "fas fa-rss"
+      icon = "fa fa-rss"
       weight = 99
       url = "/index.xml"
       rel = "alternate"
