@@ -1,16 +1,25 @@
 ---
-title: Wat ik nu aan het doen ben
+title: Nu aan het doen ben
 permalink: /nu/
 ---
-Dit zijn de zaken (in volgorde van prioriteit/tijdsbesteding) waar ik nu mee bezig ben.
+Dit zijn de zaken (in volgorde van prioriteit/tijdsbesteding) waar ik nu mee bezig ben. Als mijn activiteiten of prioriteiten wijzigen, zal ik deze pagina bijwerken.
 
-* Het [Maasstad Ziekenhuis](https://www.maasstadziekenhuis.nl), waar ik werk, gebruikt de [Theory of Constraints](https://nl.wikipedia.org/wiki/Theory_of_constraints) als [hulpmiddel voor permanente verbetering](https://www.maasstadziekenhuis.nl/over-maasstad/onze-visie-op-zorg/toc-in-het-maasstad-ziekenhuis/).
-  Ik ben me aan het verdiepen in de mogelijkheden daarvan voor [Project portfoliomanagement](https://en.wikipedia.org/wiki/Project_portfolio_management).
-* Als ik een doel zoek om naar buiten te gaan om te wandelen of fietsen, ga ik geocachen.
-* Op dit moment lees ik het boek ["Elon Musk: Hoe de topman van SpaceX en Tesla onze toekomst vormgeeft" van Ashlee Vance](https://www.goodreads.com/book/show/29202095).
+## Professioneel
 
-Als mijn activiteiten of prioriteiten wijzigen, zal ik deze pagina bijwerken.
+- Thuiswerken. Sinds het begin van de pandemie werk ik vooral vanuit huis.
+- Digitaliseren van de zorg. Projecten voor slimme monitoring van vitale waarden en digitale informatie-uitwisseling met patiënten.
+- Automatiseren van de monsterverwerking van 3 klinisch chemisch laboratoria ‘op Zuid’.
 
-Deze [Nu-pagina](http://nownownow.com/about) is gebaseerd op een [idee van Derek Sivers](http://sivers.org/nowff).
+## Persoonlijke ontwikkeling
 
-*Deze pagina is voor het laatst bijgewerkt op 21 december 2017.*
+- Verdiepen en bekwamen in [Liberating Structures](http://liberatingstructures.com/), waar ik bij toeval op stuitte op zoek naar meer informatie over Scrum.
+
+## Privé
+
+- Lezen van de [Millennium-trilogie](https://www.bol.com/nl/p/millennium-1-t-m-3-de-millennium-trilogie/9200000010104594/) van Stieg Larsson.
+- Lezen van “[Ik weet je wachtwoord](https://www.bol.com/nl/p/ik-weet-je-wachtwoord/9300000013166484/)” van Daniël Verlaan.
+- Als ik een doel zoek om naar buiten te gaan om te wandelen of fietsen, ga ik [geocachen](https://www.geocaching.com/).
+
+Deze [Nu-pagina](http://nownownow.com/about) is gebaseerd op een [idee van Derek Sivers](http://sive.rs/nowff).
+
+*Deze pagina is voor het laatst bijgewerkt op 13 januari 2021.*

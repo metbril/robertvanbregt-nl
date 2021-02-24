@@ -1,52 +1,62 @@
 ---
 layout: page
-title: Over mij
+title: Over Robert van Bregt
 permalink: /over/
 ---
-## Website
 
-Dit is de persoonlijke webpagina van Robert van Bregt. Op deze site publiceer ik tekst, foto en video die ik graag met de buitenwereld wil delen. Sommige mensen noemen dat een weblog. 😉
+Hallo. Mijn naam is Robert van Bregt. Ik ben geboren en getogen in [Rotterdam][rotterdam]. Van jongs af aan ben ik gefascineerd door de mogelijkheden die computers ons kunnen bieden om het leven leuker, mooier en beter te maken.
 
-Je vindt hier inhoud over mijn hobby’s, passies en andere bezigheden. Soms is het originele content, en soms herpubliceer ik zaken die ik elders al een keer heb bijgedragen. Bijvoorbeeld in een wiki of een publiek forum. In dat geval zal ik altijd een linkje plaatsen naar het origineel. Beiden zijn natuurlijk van mijn hand.
+> Probeer deze wereld een beetje beter achter te laten dan je haar gevonden hebt
+>
+> -- Uit: [Laatste boodschap aan scouts van Robert Baden-Powell](https://nl.wikisource.org/wiki/Laatste_boodschap_van_Robert_Baden-Powell)
 
-Heel soms zal ik ook een link plaatsen naar producten en diensten, waarvoor ik iets terugkrijg. Bijvoorbeeld een heel klein beetje geld als jij via deze site iets koopt bij Bol.com, of extra opslagruimte of verlenging van een abonnement als ik nieuwe gebruikers aanbreng bij een dienst. Op die manier kun je mij een beetje steunen.
 
-Alles wat ik hier schrijf en publiceer is mijn eigen materiaal. En niet dat van mijn werkgever of andere opdrachtgevers. Ik publiceer op persoonlijke titel. Het is dus ook nooit de mening of beleid van mijn werkgever. Als ik toch materiaal van iemand anders gebruik, zal ik altijd netjes vooraf toestemming vragen en proberen de bron te vermelden. Kom je materiaal tegen zonder (juiste) vermelding, laat het me dan weten. Ik zal de vermelding dan aanpassen of het materiaal direct verwijderen.
+## Prive
 
-## Biografie
+Altijd nieuwsgierig naar [de laatste technologische ontwikkelingen][tweakers]. Pleitbezorger van [online privacy en vrijheid][bitsoffreedom]. [Huisautomatiseerder](/tags/domotica). [Codeknutselaar](/tags/code). Brildrager. Stiekem een beetje nerd? Ad-hoc geocacher. Echtgenoot en vader. Liefhebber van [Brussels Manneke drop][drop] en [chocolade van Tony][chocolade].
 
-Een belangrijk deel van de week besteed ik aan verbeteren en veranderen van organisaties. Tegenwoordig werk ik aan het [professionaliseren van projectmanagement en portfoliomanagement](http://ipma.nl/) bij [een groot ziekenhuis in Rotterdam](http://maasstadziekenhuis.nl/).
+## Professioneel
 
-In mijn vrije tijd verdiep ik me graag in computers, technologie en internet. Maar als het weer het toelaat ben ik ook graag buiten te vinden. Dan wandel, fiets en kampeer ik, en als het kan zoek ik in de omgeving waar ik dat doe naar een geocache.
+Na een studie Bedrijfseconomie/Informatica aan de HEAO en enkele jaren als systeembeheerder en softwareontwikkelaar ben ik het vak projectmanagement ingerold. Dat heb ik eerst gedaan in de financiële dienstverlening en daarna in de gezondheidszorg. Inmiddels draai ik mijn hand niet om voor allerhande complexe en risicovolle projecten, maar het zwaartepunt van het werk en mijn hart blijft bij mijn “oude liefde” ICT.
 
-Sinds de [overname van LinkedIn door Microsoft](https://news.linkedin.com/2016/microsoft-to-acquire-linkedin) heb ik mijn profiel daar verwijderd. Op mijn eigen website heb ik wel een uitgebreid [Curriculum Vitae](/cv) opgenomen.
+In het [Maasstad Ziekenhuis][maasstad] in [Rotterdam][rotterdam] werk ik momenteel vooral aan de grote veranderingen naar digitale zorg. Recent binnen het interne programma voor [de Juiste Zorg op de Juiste Plek][jzojp].
 
-## Ondersteuning
+2011-heden
+: Projectmanager in het [Maasstad Ziekenhuis][maasstad]
 
-Als je de inhoud van mijn website waardevol vindt, kun je me op verschillende manieren ondersteunen:
+2009-2011
+: ICT Procesmanager in het [Albert Schweitzer ziekenhuis][asz]
 
-- Geef een microdonatie met [Flattr](https://flattr.com).
-- Geef me iets van [mijn verlanglijstje bij Bol.com](https://www.bol.com/nl/verlanglijstje/1g676g32313935343836303132522jkttky/index.html).
+2008-2009
+: ICT Manager bij [Quion][quion]
 
-## Colofon
+2006-2008
+: Senior Projectmanager ICT bij [Quion][quion]
 
-Mijn website bestaat uit statische pagina's, die worden gegenereerd met behulp van [Jekyll](https://jekyllrb.com/). Daarvoor maak ik gebruik van [GitHub Pages](https://pages.github.com/). Het ontwerp en content zijn daarvoor samen opgeslagen in een [repository](https://github.com/metbril/robertvanbregt.nl/). 
+1999-2006
+: Projectmanager bij [Nationale-Nederlanden][nn]
 
-Om gebruik te kunnen maken van SSL en caching laat ik de DNS afhandelen door [Cloudflare](https://cloudflare.com). 
+Meer details zijn te vinden in [mijn LinkedIn-profiel](https://linkedin.com/in/robertvanbregt).
 
-Voor het [contactformulier](/contact) heb ik in [Formspree](https://formspree.io/) de extra dienst gevonden die daarvoor nodig is bij een statische site. 
+## Goede doelen
 
-Met [UptimeRobot](https://uptimerobot.com) kan ik een beetje [in de gaten houden](https://status.robertvanbregt.nl) of alles netjes online blijft. Als het dan toch een keer mis gaat, ontvang ik ook nog eens een emailtje.
+In het bijzonder draag ik het werk van [Bits of Freedom][bitsoffreedom] een warm hart toe. Zij strijden voor onze digitale vrijheid. Naast het geven van voorlichting en educatie proberen ze vooral hun visie te delen met de politiek.
 
-Voor deze oplossing heb ik, naast wat tijd, dus eigelijk alleen een betaald eigen domein nodig. En die neem ik al jaren met veel plezier af van [Antagonist](https://wwww.antagonist.nl).
+Neem gerust [contact](/contact) op als je nieuwsgierig bent en meer vragen hebt. 
 
-Nog een keer alles op een rijtje:
+## Disclaimer
 
-- [GitHub Pages](https://pages.github.com/)
-- [Jekyll](https://jekyllrb.com/)
-- [Cloudflare](https://cloudflare.com/)
-- [UptimeRobot](https://uptimerobot.com/)
-- [Antagonist](https://www.antagonist.nl/)
-- [Formspree](https://formspree.io)
+Alles wat ik hier schrijf en publiceer is mijn eigen materiaal en op persoonlijke titel. Je leest hier nooit de mening of beleid van mijn werkgever. Als ik toch materiaal van iemand anders gebruik, zal ik altijd netjes vooraf toestemming vragen en proberen de bron te vermelden. Kom je materiaal tegen zonder (juiste) vermelding, [laat het me dan weten](/contact). Ik zal de vermelding dan aanpassen of het materiaal direct verwijderen.
 
-Neem gerust [contact](/contact) op als je nieuwsgierig bent en meer vragen hebt.
+Heel soms zal ik ook een link plaatsen naar producten en diensten, waarvoor ik iets terugkrijg. Bijvoorbeeld een heel klein beetje geld als jij via deze site iets koopt bij Bol.com, of extra opslagruimte of verlenging van een abonnement als ik nieuwe gebruikers aanbreng bij een dienst. Op die manier kun je mij een beetje []/steun].
+
+[tweakers]: https://tweakers.net/nieuws
+[bitsoffreedom]: https://www.bitsoffreedom.nl/doneren
+[drop]: https://www.matthijsshop.nl/Brusselsmanneke
+[chocolade]: https://tonyschocolonely.com/nl/nl
+[maasstad]: https://www.maasstadziekenhuis.nl/
+[rotterdam]: https://www.rotterdam.nl/
+[jzojp]: https://www.dejuistezorgopdejuisteplek.nl/
+[asz]: https://www.asz.nl/
+[quion]: https://www.quion.com/
+[nn]: https://www.nnl.nl/   
