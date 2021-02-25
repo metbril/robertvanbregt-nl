@@ -29,7 +29,7 @@ metaDataFormat = "yaml"
   info = "Projectmanager. Automagiseerder. Geek. Rotterdammert."
   description = "Persoonlijke website van Robert van Bregt"
   keywords = "blog, persoonlijk"
-  footerContent = "Verbetert de wereld, maar begint bij zichzelf."
+  footerContent = "Verbetert de wereld en begint bij zichzelf."
 
   avatarurl = "/images/robert-color.jpg"
   # gravatar = "contact@robertvanbregt.nl"
@@ -41,7 +41,6 @@ metaDataFormat = "yaml"
 
   # Series see also post count
   maxSeeAlsoItems = 5
-
 
   dateFormat = "2 January 2006"
 
@@ -61,26 +60,36 @@ metaDataFormat = "yaml"
       icon = "fa fa-linkedin fa-2x"
       weight = 1
       url = "https://www.linkedin.com/in/robertvanbregt/"
+      rel = "me"
   [[params.social]]
       name = "Twitter"
       icon = "fa fa-twitter"
       weight = 2
       url = "https://twitter.com/robertvanbregt/"
+      rel = "me"
   [[params.social]]
       name = "Mastodon"
       icon = "fa fa-mastodon"
       weight = 3
       url = "https://mastodon.social/@metbril"
+      rel = "me"
   [[params.social]]
       name = "Github"
       icon = "fa fa-github"
       weight = 11
       url = "https://github.com/metbril/"
+      rel = "me"
   [[params.social]]
       name = "Gitlab"
       icon = "fa fa-gitlab"
       weight = 12
       url = "https://gitlab.com/metbril/"
+      rel = "me"
+  [[params.social]]
+      name = "E-mail"
+      icon = "fa fa-gnupg"
+      weight = 97
+      url = "key.asc"
   [[params.social]]
       name = "E-mail"
       icon = "fa fa-envelope"
@@ -97,68 +106,64 @@ metaDataFormat = "yaml"
 [menu]
 
   [[menu.main]]
-    name = "Over"
+    name = "Blog"
     weight = 10
+    url = "/posts"
+
+  [[menu.main]]
+    name = "Over"
+    weight = 20
     url = "/over"
 
   [[menu.main]]
     name = "Nu"
-    weight = 15
+    weight = 25
     url = "/nu"
-
-  [[menu.main]]
-    name = "Blog"
-    weight = 20
-    url = "/posts"
 
   [[menu.main]]
     identifier = "tags"
     name = "Labels"
     title = "Labels"
     url = "/tags"
-    weight = 25
+    weight = 30
 
   [[menu.main]]
     name = "Projecten"
-    weight = 30
+    weight = 40
     url = "/projecten"
 
   [[menu.main]]
     name = "Contact"
-    weight = 40
+    weight = 50
     url = "/contact"
 
+# language overrides
 [languages]
 
     [languages.nl] # stub
-      languageName = "🇳🇱"
+      languageName = "nl"
 
     [languages.en]
-        languageName = "🇬🇧"
+        languageName = "en"
 
         info = "Project manager. Automagician. Geek. Rotterdamned."
         description = "Personal website of Robert van Bregt"
         keywords = "blog, personal"
-        footerContent = "Improves the world, but starts with himself."
+        footerContent = "Improves the world and starts with himself."
 
         avatarUrl = "/images/robert-noir.jpg"
 
         [languages.en.menu]
 
             [[languages.en.menu.main]]
-            name = "About"
-            weight = 10
-            url = "/about"
-
-            [[languages.en.menu.main]]
             name = "Blog"
-            weight = 20
+            weight = 10
             url = "/posts"
 
             [[languages.en.menu.main]]
-            name = "Projects"
+            name = "About"
             weight = 30
-            url = "/projects"
+            url = "/about"
 
             [[languages.en.menu.main]]
             name = "Contact"
