@@ -1,6 +1,8 @@
 ---
 title: Contact
+slug: contact
+layout: page
 sitemap: false
 ---
 
-Todo. Learn how to contact me at [the Dutch contact page](/contact).
+Learn how to contact me from [the Dutch contact page](/contact).

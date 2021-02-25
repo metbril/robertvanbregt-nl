@@ -20,7 +20,7 @@ Wil je me iets vertrouwelijks toesturen, doe dat dan in een bericht met [Signal]
 
 Heeft het geen haast, of heb je meer tekst nodig, dan kun je [een e-mail sturen](mailto:contact@robertvanbregt.nl).
 
-Vertrouwelijke berichten kun je beter met PGP versleuteld sturen naar mijn e-mailadres **robertvanbregt@** bij [ProtonMail](https://protonmail.com/). Het eenvoudigst kan dat door daar eerst zelf een adres te maken. Gebruik je zelf al PGP, dan kun je hier mijn [publieke sleutel voor mijn Protonmail-adres](https://robertvanbregt.nl/key-asc) vinden.
+Vertrouwelijke berichten kun je beter met PGP versleuteld sturen naar mijn e-mailadres **robertvanbregt** apestaartje [ProtonMail.com](https://protonmail.com/). Het eenvoudigst kan dat door daar eerst zelf een adres te maken. Gebruik je zelf al PGP, dan kun je hier mijn [publieke sleutel voor mijn Protonmail-adres](https://robertvanbregt.nl/key.asc) vinden.
 
 ## Direct afspreken
 
