@@ -13,6 +13,9 @@ HUGO_ENABLEGITINFO = "true"
 [context.branch-deploy]
 command = "hugo --buildFuture --buildDrafts --baseURL $DEPLOY_URL"
 
+[context.deploy-preview]
+command = "hugo --buildFuture --buildDrafts -b $DEPLOY_PRIME_URL"
+
 [context.branch-deploy.environment]
 HUGO_ENV = "development"
 HUGO_VERSION = "0.79.1"
