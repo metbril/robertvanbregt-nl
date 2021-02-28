@@ -2,51 +2,51 @@ social:
   - id: twitter
     name: Twitter
     url: https://twitter.com/metbril
-    icon: fa fa-twitter fa-2x
+    icon: fa fa-twitter
 
   - id: linkedin
     name: LinkedIn
     url: https://linkedin.com/in/robertvanbregt
-    icon: fa fa-linkedin fa-2x
+    icon: fa fa-linkedin
 
   - id: github
     name: GitHub
     url: https://github.com/metbril
-    icon: fa fa-github fa-2x
+    icon: fa fa-github
 
   - id: gitlab
     name: GitLab
     url: https://gitlab.com/metbril
-    icon: fa fa-gitlab fa-2x
+    icon: fa fa-gitlab
 
   - id: instagram
     name: Instagram
     url: https://instagram.com/robertvanbregt
-    icon: fa fa-instagram fa-2x
+    icon: fa fa-instagram
 
   - id: flickr
     name: Flickr
     url: https://flickr.com/people/rtvb
-    icon: fa fa-flickr fa-2x
+    icon: fa fa-flickr
 
   - id: indieweb
     name: IndieWeb
     url: https://indieweb.org/User:Robertvanbregt.nl
-    icon: fa fa-globe fa-2x
+    icon: fa fa-globe
 
   - id: paypal
     name: PayPal
     url: https://paypal.me/robertvanbregt
-    icon: fa fa-paypal fa-2x
+    icon: fa fa-paypal
 
   - id: telegram
     name: Telegram
     url: https://t.me/robertvanbregt
-    icon: fa fa-telegram fa-2x
+    icon: fa fa-telegram
 
   - id: spacer1
 
   - id: email
     name: E-Mail
     url: mailto:contact@robertvanbregt.nl
-    icon: fa fa-envelope fa-2x
+    icon: fa fa-envelope
