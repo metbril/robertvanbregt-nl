@@ -46,7 +46,10 @@ metaDataFormat = "yaml"
   # Sections for home page content
   mainSections = ["article", "note"]
 
-  localStyles = true
+  useLocalStyles = true
+
+  # use Emoji instead of ForkAwesome icons
+  useEmoji = false
 
   favicon = "/favicon.ico"
 
