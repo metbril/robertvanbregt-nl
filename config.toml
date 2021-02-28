@@ -4,6 +4,9 @@ title = "Robert van Bregt"
 languageCode = "nl-nl"
 defaultContentLanguage = "nl"
 
+# Menu populated with all section names 
+SectionPagesMenu = "channels"
+
 theme = "grotius"
 
 paginate = 10
@@ -23,8 +26,25 @@ metaDataFormat = "yaml"
 
 [params.author]
   photo = "/images/photo.jpg"
+  url = "https://robertvanbregt.nl/"
+  name = "Robert van Bregt"
+  note = """
+    Ervaren projectmanager ❤️ digitale zorg.
+    Echtgenoot en vader. Liefhebber van computers, technologie en wetenschap.
+    Buitensporter.
+    Privacy-voorvechter.
+    Rotterdammert.
+    """
+  email = "contact@robertvanbregt.nl"
+  locality = "Capelle aan den IJssel"
+  countryName = "Nederland"
+
+
 
 [params]
+
+  # Sections for home page content
+  mainSections = ["article", "note"]
 
   localStyles = true
 
@@ -33,7 +53,8 @@ metaDataFormat = "yaml"
   # coder theme
  	# author = "Robert van Bregt"
   info = "Projectmanager. Automagiseerder. Geek. Rotterdammert."
-  description = "Persoonlijke website van Robert van Bregt"
+  # description = "Persoonlijke website van Robert van Bregt"
+  description = "Verbetert de wereld en begint bij zichzelf."
   keywords = "blog, persoonlijk"
   footerContent = "Verbetert de wereld en begint bij zichzelf."
 
@@ -112,26 +133,14 @@ metaDataFormat = "yaml"
 [menu]
 
   [[menu.main]]
-    name = "Blog"
-    weight = 10
-    url = "/posts"
-
-  [[menu.main]]
     name = "Over"
-    weight = 20
+    weight = 95
     url = "/over"
 
   [[menu.main]]
     name = "Nu"
-    weight = 25
+    weight = 90
     url = "/nu"
-
-  [[menu.main]]
-    identifier = "tags"
-    name = "Labels"
-    title = "Labels"
-    url = "/tags"
-    weight = 30
 
   [[menu.main]]
     name = "Projecten"
@@ -140,7 +149,7 @@ metaDataFormat = "yaml"
 
   [[menu.main]]
     name = "Contact"
-    weight = 50
+    weight = 99
     url = "/contact"
 
 # language overrides
@@ -189,7 +198,13 @@ metaDataFormat = "yaml"
   filename = "sitemap.xml"
 
 [permalinks]
-  posts = "/:year/:month/:day/:slug/"
+  # Specify for each section (= folder name)
+  artikelen = "/:year/:month/:day/:slug/"
+  bladwijzers = "/:year/:month/:day/:slug/"
+  likes = "/:year/:month/:day/:slug/"
+  notes = "/:year/:month/:day/:slug/"
+  reacties = "/:year/:month/:day/:slug/"
+  rsvps = "/:year/:month/:day/:slug/"
   # https://gohugo.io/content-management/urls/#permalink-configuration-values
   # :year        | the 4-digit year
   # :month       | the 2-digit month
