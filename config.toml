@@ -84,7 +84,7 @@ metaDataFormat = "yaml"
 
   [[params.social]]
       name = "LinkedIn"
-      icon = "fa fa-linkedin fa-2x"
+      icon = "fa fa-linkedin"
       weight = 1
       url = "https://www.linkedin.com/in/robertvanbregt/"
       rel = "me"
