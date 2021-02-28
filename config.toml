@@ -138,10 +138,10 @@ metaDataFormat = "yaml"
   url = "https://tokens.indieauth.com/token"
 [[params.indieweb.endpoint]]
   rel = "webmention"
-  url = ""
+  url = "https://webmention.io/robertvanbregt.nl/webmention"
 [[params.indieweb.endpoint]]
   rel = "pingback"
-  url = ""
+  url = "https://webmention.io/robertvanbregt.nl/xmlrpc"
 [[params.indieweb.endpoint]]
   rel = "micropub"
   url = ""
