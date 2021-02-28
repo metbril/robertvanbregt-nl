@@ -1,1 +1,2 @@
-./new note `date +%s`
+# ./new note `date +%s`
+hugo new notes/`date +%s`.md

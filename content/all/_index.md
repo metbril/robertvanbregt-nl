@@ -1,0 +1,4 @@
+---
+title: Alles
+type: channel
+---

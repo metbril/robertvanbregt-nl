@@ -30,6 +30,7 @@ Voor het [Grotius thema](https://robertvanbregt.nl/hugo-grotius) is het nodig al
 En daarmee in een aparte hoofdmap binnen de map `content`.
 
 ### Submappen
+
 Binnen een sectie kan het aantal mappen (1 per gepubliceerde pagina) daardoor flink oplopen. 
 Een vorm van organisatie is daarom op zijn plaats. 
 Bijvoorbeeld om op datum berichten te kunnen terugvinden. 
