@@ -4,6 +4,8 @@ title: Over Robert van Bregt
 permalink: /over/
 ---
 
+Lees wat ik [nu aan het doen]({{<ref "nu" >}}) ben.
+
 Hallo. Mijn naam is Robert van Bregt. Ik ben geboren en getogen in [Rotterdam][rotterdam]. Van jongs af aan ben ik gefascineerd door de mogelijkheden die computers ons kunnen bieden om het leven leuker, mooier en beter te maken.
 
 > Probeer deze wereld een beetje beter achter te laten dan je haar gevonden hebt
