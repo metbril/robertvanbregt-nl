@@ -161,6 +161,7 @@ metaDataFormat = "yaml"
       icon = "fa fa-envelope"
       weight = 98
       url = "mailto:contact@robertvanbregt.nl"
+      rel = "me"
   [[params.social]]
       name = "RSS"
       icon = "fa fa-rss"
