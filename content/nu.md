@@ -1,5 +1,5 @@
 ---
-title: Nu aan het doen ben
+title: Nu aan het doen
 permalink: /nu/
 ---
 Dit zijn de zaken (in volgorde van prioriteit/tijdsbesteding) waar ik nu mee bezig ben. Als mijn activiteiten of prioriteiten wijzigen, zal ik deze pagina bijwerken.
