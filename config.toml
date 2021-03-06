@@ -44,6 +44,8 @@ summaryLength = 20  # default 70
 # name and email are used in internal RSS template
 [author]
   name = "Robert van Bregt"
+  url = "https://robertvanbregt.nl/"
+  photo = "/images/photo.jpg"
   email = "contact@robertvanbregt.nl"
   note = """
     Ervaren projectmanager ❤️ digitale zorg.
@@ -52,7 +54,6 @@ summaryLength = 20  # default 70
     Privacy-voorvechter.
     Rotterdammert.
     """
-  url = "https://robertvanbregt.nl/"
   locality = "Capelle aan den IJssel"
   countryName = "Nederland"
 
