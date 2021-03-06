@@ -1,8 +1,6 @@
 ---
 title: Artikelen
 url: /artikelen
-cascade:
-  type: article
 menu:
   main:
     name: Artikelen
