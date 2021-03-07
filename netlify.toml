@@ -54,3 +54,29 @@
   for = "/fonts/*"
     [headers.values]
     Cache-Control = "public, max-age=604800"
+
+[[redirects]]
+  from = "/now"
+  to = "/nu"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/r/fastmail"
+  to = "https://ref.fm/u2869765"
+  status = 302
+  force = true
+
+# Redirect domain aliases to primary domain
+[[redirects]]
+  from = "https://robert.vanbregt.net/*"
+  to = "https://robertvanbregt.nl/:splat"
+  status = 301
+  force = true
+
+# Optional: Redirect default Netlify subdomain to primary domain
+# [[redirects]]
+#   from = "https://robertvanbregt-nl.netlify.com/*"
+#   to = "https://robertvanbregt.nl/:splat"
+#   status = 301
+#   force = true
