@@ -45,3 +45,12 @@
   HUGO_ENV = "development"
   HUGO_VERSION = "0.79.1"
   HUGO_ENABLEGITINFO = "true"
+
+# 604800 for a week
+# 2592000 for a month
+# 15768000 for six months
+# 31536000 for a year
+[[headers]]
+  for = "/fonts/*"
+    [headers.values]
+    Cache-Control = "public, max-age=604800"
