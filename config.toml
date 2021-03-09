@@ -227,7 +227,7 @@ summaryLength = 20  # default 70
     name = "article"
     icon = "fa fa-file-text-o fa-fw fa-lg"
   [[params.posttype]]
-    name = "notes"
+    name = "note"
     icon = "fa fa-sticky-note fa-fw"
   [[params.posttype]]
     name = "bookmark"
@@ -296,7 +296,7 @@ summaryLength = 20  # default 70
   article = "/:year/:month/:day/:slug/"
   bladwijzers = "/:year/:month/:day/:slug/"
   likes = "/:year/:month/:day/:slug/"
-  notes = "/:year/:month/:day/:slug/"
+  note = "/:year/:month/:day/:slug/"
   reacties = "/:year/:month/:day/:slug/"
   rsvps = "/:year/:month/:day/:slug/"
   # https://gohugo.io/content-management/urls/#permalink-configuration-values

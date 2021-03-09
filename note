@@ -1,2 +1,2 @@
 # ./new note `date +%s`
-hugo new notes/`date +%Y/%m/%s`.md
+hugo new note/`date +%Y/%m/%s`.md
