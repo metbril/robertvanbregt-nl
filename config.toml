@@ -55,6 +55,9 @@ summaryLength = 20  # default 70
   locality = "Capelle aan den IJssel"
   countryName = "Nederland"
 
+[social]
+  twitter = "robertvanbregt"
+
 [params]
 
   # ---------- common parameters ----------
