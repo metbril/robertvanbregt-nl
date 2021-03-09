@@ -1,5 +1,10 @@
+#!/usr/bin/env bash
+
 section=$1
-path=`date +%Y/%m/%d`
-slug=$2
+shift
+slug=$@
+slug=`slugify $@`
+path=`date +%Y/%m`
+
 
 hugo new "$section/$path/$slug/index.md"
