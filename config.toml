@@ -48,11 +48,9 @@ summaryLength = 20  # default 70
   photo = "/images/photo.jpg"
   email = "contact@robertvanbregt.nl"
   note = """
-    Ervaren projectmanager ❤️ digitale zorg.
+    Ervaren projectmanager met <span alt="hart">❤️</span> voor digitale zorg.
     Echtgenoot en vader. Liefhebber van computers, technologie en wetenschap.
-    Buitensporter.
-    Privacy-voorvechter.
-    Rotterdammert.
+    Privacy-voorvechter. Buitensporter. Rotterdammert.
     """
   locality = "Capelle aan den IJssel"
   countryName = "Nederland"
@@ -66,9 +64,6 @@ summaryLength = 20  # default 70
   # description = "Verbetert de wereld en begint bij zichzelf."
   keywords = "blog, persoonlijk"
 
-  avatarurl = "/images/robert-color.jpg"
-  # gravatar = "contact@robertvanbregt.nl"
-
   favicon = "/favicon.ico"
 
   # Sections for home page content
@@ -80,6 +75,9 @@ summaryLength = 20  # default 70
 
   # use Emoji instead of ForkAwesome icons
   useEmoji = false
+
+  # inlinecss = false
+  authorcard = true
 
   # ---------- coder theme ----------
   info = "Projectmanager. Automagiseerder. Geek. Rotterdammert."
@@ -111,88 +109,100 @@ summaryLength = 20  # default 70
 
   [[params.social]]
       name = "LinkedIn"
-      icon = "fa fa-linkedin"
+      icon = "fa fa-linkedin fa-2x"
       weight = 1
       url = "https://www.linkedin.com/in/robertvanbregt/"
       rel = "me"
+      color = "#0077b5"
   [[params.social]]
       name = "Twitter"
-      icon = "fa fa-twitter"
+      icon = "fa fa-twitter fa-2x"
       weight = 2
       url = "https://twitter.com/robertvanbregt/"
       rel = "me"
+      color = "#1da1f2"
   [[params.social]]
       name = "Mastodon"
-      icon = "fa fa-mastodon"
+      icon = "fa fa-mastodon fa-2x"
       weight = 3
       url = "https://mastodon.social/@metbril"
       rel = "me"
+      color = "#2b90d9"
   [[params.social]]
       name = "Github"
-      icon = "fa fa-github"
+      icon = "fa fa-github fa-2x"
       weight = 11
       url = "https://github.com/metbril/"
       rel = "me"
+      color = "#4183c4"
   [[params.social]]
       name = "Gitlab"
-      icon = "fa fa-gitlab"
+      icon = "fa fa-gitlab fa-2x"
       weight = 12
       url = "https://gitlab.com/metbril/"
       rel = "me"
+      color = "#e2432a"
   [[params.social]]
       name = "Instagram"
-      icon = "fa fa-instagram"
+      icon = "fa fa-instagram fa-2x"
       weight = 21
       url = "https://instagram.com/robertvanbregt/"
       rel = "me"
+      color = "#c32aa3"
   [[params.social]]
       name = "Flickr"
-      icon = "fa fa-flickr"
+      icon = "fa fa-flickr fa-2x"
       weight = 22
       url = "https://flickr.com/photos/rtvb/"
       rel = "me"
+      color = "#f40083"
   [[params.social]]
       name = "Pocket"
-      icon = "fa fa-get-pocket"
+      icon = "fa fa-get-pocket fa-2x"
       weight = 31
       url = "https://getpocket.com/@metbril"
       rel = "me"
+      color = "#ee4056"
   [[params.social]]
       name = "Reddit"
-      icon = "fa fa-reddit"
+      icon = "fa fa-reddit fa-2x"
       weight = 32
       url = "https://www.reddit.com/user/digineut"
       rel = "me"
+      color = "#ff4500"
   [[params.social]]
       name = "Telegram"
-      icon = "fa fa-telegram"
+      icon = "fa fa-telegram fa-2x"
       weight = 33
       url = "https://t.me/robertvanbregt"
       rel = "me"
+      color = "#0088cc"
   [[params.social]]
       name = "Trello"
-      icon = "fa fa-trello"
+      icon = "fa fa-trello fa-2x"
       weight = 33
       url = "https://trello.com/metbril"
       rel = "me"
   [[params.social]]
       name = "E-mail"
-      icon = "fa fa-gnupg"
+      icon = "fa fa-gnupg fa-2x"
       weight = 97
       url = "/key.asc"
+      color = "#0093DD"
   [[params.social]]
       name = "E-mail"
-      icon = "fa fa-envelope"
+      icon = "fa fa-envelope fa-2x"
       weight = 98
       url = "mailto:contact@robertvanbregt.nl"
       rel = "me"
   [[params.social]]
       name = "RSS"
-      icon = "fa fa-rss"
+      icon = "fa fa-rss fa-2x"
       weight = 99
       url = "/index.xml"
       rel = "alternate"
       type = "application/rss+xml"
+      color = "#f26522"
 
   [[params.indieweb.endpoint]]
     rel = "authorization_endpoint"
@@ -213,12 +223,18 @@ summaryLength = 20  # default 70
     rel = "microsub"
     url = ""
 
+  [[params.posttype]]
+    name = "article"
+    icon = "fa fa-file-text-o fa-fw fa-lg"
+  [[params.posttype]]
+    name = "notes"
+    icon = "fa fa-sticky-note fa-fw"
+  [[params.posttype]]
+    name = "bookmark"
+    icon = "fa fa-bookmark fa-fw"
+
 [menu]
 
-  [[menu.main]]
-    name = "Home"
-    weight = -100
-    url = "/"
   [[menu.main]]
     name = "Projecten"
     weight = 100
@@ -246,8 +262,6 @@ summaryLength = 20  # default 70
         description = "Personal website of Robert van Bregt"
         keywords = "blog, personal"
         footerContent = "Improves the world and starts with himself."
-
-        avatarUrl = "/images/robert-noir.jpg"
 
         [languages.en.menu]
 
