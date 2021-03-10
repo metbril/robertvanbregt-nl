@@ -9,11 +9,11 @@ fields:
     export_format: X
     required: true
   default: now
-  hidden: true
+  hidden: false
 - type: datetime
   name: date
   label: date
-  hidden: true
+  hidden: false
   config:
     required: true
   default: now
