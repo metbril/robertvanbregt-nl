@@ -2,7 +2,7 @@
 label: Note
 hide_body: false
 fields:
-- type: number
+- type: datetime
   name: slug
   label: slug
 - type: datetime
