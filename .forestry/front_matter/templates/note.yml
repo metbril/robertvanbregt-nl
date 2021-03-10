@@ -8,6 +8,7 @@ fields:
   config:
     export_format: X
     required: true
+    date_format: X
   default: now
   hidden: false
 - type: datetime
