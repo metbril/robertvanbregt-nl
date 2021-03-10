@@ -1,0 +1,10 @@
+---
+label: Note
+hide_body: false
+fields:
+- type: number
+  name: slug
+  label: slug
+- type: datetime
+  name: date
+  label: date
