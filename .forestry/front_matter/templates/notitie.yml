@@ -21,5 +21,3 @@ fields:
   type: tag_list
   default: []
   label: Tags
-pages:
-- content/posts/importeer-pinboard-in-devonthink-met-aanmaakdatum.md
