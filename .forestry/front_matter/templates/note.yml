@@ -5,6 +5,15 @@ fields:
 - type: datetime
   name: slug
   label: slug
+  config:
+    export_format: X
+    required: true
+  default: now
+  hidden: true
 - type: datetime
   name: date
   label: date
+  hidden: true
+  config:
+    required: true
+  default: now
