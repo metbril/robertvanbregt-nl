@@ -7,13 +7,15 @@ sections:
 - type: directory
   path: " content/note"
   label: Notes
-  create: documents
-  match: "**/*"
+  create: all
+  match: "**/*.md"
 - type: directory
   path: content
   label: Pages
   create: documents
   match: "*"
+  templates:
+  - page
 - type: directory
   path: data
   label: Data
