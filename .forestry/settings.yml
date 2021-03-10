@@ -7,8 +7,10 @@ sections:
 - type: directory
   path: content/note
   label: Notes
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - notitie
 - type: directory
   path: content
   label: Pages
