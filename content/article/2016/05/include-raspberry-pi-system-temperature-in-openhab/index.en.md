@@ -1,8 +1,6 @@
 ---
 title: 'Include Raspberry Pi System Temperature in openHAB'
 date: '2016-05-13 14:00:00'
-category:
-    - Ongecategoriseerd
 tags:
     - domotica
     - openhab
