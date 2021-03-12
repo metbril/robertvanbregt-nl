@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tag: [film,klimmen,film,klimmen]
+    tags: [film,klimmen,film,klimmen]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

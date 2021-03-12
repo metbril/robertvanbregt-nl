@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tag: [blogging,wap,blogging,wap]
+    tags: [blogging,wap,blogging,wap]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

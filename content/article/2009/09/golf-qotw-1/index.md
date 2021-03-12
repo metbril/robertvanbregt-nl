@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tag: [golf,humor,quote,spreuk,golf,humor,quote,spreuk]
+    tags: [golf,humor,quote,spreuk,golf,humor,quote,spreuk]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

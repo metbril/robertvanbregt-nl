@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tag: [gratis,mp3,muziek,gratis,mp3,muziek]
+    tags: [gratis,mp3,muziek,gratis,mp3,muziek]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

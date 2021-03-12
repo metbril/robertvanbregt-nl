@@ -4,7 +4,7 @@ date: '2004-10-05 15:29:00'
 metadata:
     author: 'Robert van Bregt'
 taxonomy:
-    tag:
+    tags:
         - tv
         - kpn
         - capelle

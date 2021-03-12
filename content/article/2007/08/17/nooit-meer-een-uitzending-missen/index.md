@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tag: [google,gratis,sms,televisie,tv,google,gratis,sms,televisie,tv]
+    tags: [google,gratis,sms,televisie,tv,google,gratis,sms,televisie,tv]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

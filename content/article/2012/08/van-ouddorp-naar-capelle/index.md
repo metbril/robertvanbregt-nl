@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tag: [fietsen,track,fietsen,track]
+    tags: [fietsen,track,fietsen,track]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

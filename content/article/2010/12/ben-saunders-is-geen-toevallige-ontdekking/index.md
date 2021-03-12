@@ -5,7 +5,7 @@ date: '2010-12-15 09:21:00'
 metadata:
     author: Robert van Bregt
 taxonomy:
-    tag:
+    tags:
         - video
         - youtube
         - tv

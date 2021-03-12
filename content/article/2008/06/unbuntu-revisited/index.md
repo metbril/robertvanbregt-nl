@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tag: [gratis,laptop,linux,pc,ubuntu,gratis,laptop,linux,pc,ubuntu]
+    tags: [gratis,laptop,linux,pc,ubuntu,gratis,laptop,linux,pc,ubuntu]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tag: [hyves,politiek,hyves,politiek]
+    tags: [hyves,politiek,hyves,politiek]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

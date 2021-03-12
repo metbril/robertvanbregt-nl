@@ -3,7 +3,7 @@ title: André is aan boord
 post_id: 554
 date: '2004-04-21T13:02:05+00:00'
 taxonomy:
-    tag: []
+    tags: []
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

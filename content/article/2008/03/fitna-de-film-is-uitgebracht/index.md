@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tag: [film,islam,moslims,politiek,video,film,islam,moslims,politiek,video]
+    tags: [film,islam,moslims,politiek,video,film,islam,moslims,politiek,video]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

@@ -6,7 +6,7 @@ published: false
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tag: []
+    tags: []
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

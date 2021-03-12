@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tag: [blijdorp,dierentuin,rotterdam,zoo,blijdorp,dierentuin,rotterdam,zoo]
+    tags: [blijdorp,dierentuin,rotterdam,zoo,blijdorp,dierentuin,rotterdam,zoo]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

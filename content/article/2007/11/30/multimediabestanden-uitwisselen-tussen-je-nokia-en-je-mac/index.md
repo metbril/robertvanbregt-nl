@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tag: [apple,computers,iphoto,itunes,mac,mobiel,multimedia,nokia,apple,computers,iphoto,itunes,mac,mobiel,multimedia,nokia]
+    tags: [apple,computers,iphoto,itunes,mac,mobiel,multimedia,nokia,apple,computers,iphoto,itunes,mac,mobiel,multimedia,nokia]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tag: [politiek,politiek]
+    tags: [politiek,politiek]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

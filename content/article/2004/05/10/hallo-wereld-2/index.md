@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tag: [blogging,email,mobiel,blogging,email,mobiel]
+    tags: [blogging,email,mobiel,blogging,email,mobiel]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

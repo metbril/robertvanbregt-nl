@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tag: [computer,linux,software,ubuntu,computer,linux,software,ubuntu]
+    tags: [computer,linux,software,ubuntu,computer,linux,software,ubuntu]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

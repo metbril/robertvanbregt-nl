@@ -3,7 +3,7 @@ title: 6pack kan het dak op
 post_id: 797
 date: '2004-07-28T12:32:00+00:00'
 taxonomy:
-    tag: [video]
+    tags: [video]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

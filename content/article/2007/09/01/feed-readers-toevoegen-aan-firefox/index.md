@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tag: [computers,feeds,firefox,internet,javascript,programmeren,rss,computers,feeds,firefox,internet,javascript,programmeren,rss]
+    tags: [computers,feeds,firefox,internet,javascript,programmeren,rss,computers,feeds,firefox,internet,javascript,programmeren,rss]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

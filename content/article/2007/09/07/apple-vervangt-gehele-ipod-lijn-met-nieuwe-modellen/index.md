@@ -3,7 +3,7 @@ title: Apple vervangt gehele iPod lijn met nieuwe modellen
 post_id: 1587
 date: '2007-09-07T12:20:00+00:00'
 taxonomy:
-    tag: [apple,audio,ipod,muziek]
+    tags: [apple,audio,ipod,muziek]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

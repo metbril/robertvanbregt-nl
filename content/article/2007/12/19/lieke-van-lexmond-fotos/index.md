@@ -3,7 +3,7 @@ title: Lieke van Lexmond foto's
 post_id: 1724
 date: '2007-12-19T17:47:51+00:00'
 taxonomy:
-    tag: [bloggen,fotografie,lexmond,lieke,model,naakt,playboy,tv]
+    tags: [bloggen,fotografie,lexmond,lieke,model,naakt,playboy,tv]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

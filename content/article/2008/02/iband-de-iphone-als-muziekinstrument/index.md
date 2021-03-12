@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tag: [apple,gadgets,geek,iphone,muziek,apple,gadgets,geek,iphone,muziek]
+    tags: [apple,gadgets,geek,iphone,muziek,apple,gadgets,geek,iphone,muziek]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

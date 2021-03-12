@@ -4,7 +4,7 @@ date: '2007-09-07 14:18:00'
 metadata:
     author: 'Robert van Bregt'
 taxonomy:
-    tag:
+    tags:
         - apple
         - muziek
         - audio

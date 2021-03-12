@@ -6,7 +6,7 @@ date: '2014-01-25 22:33:00'
 metadata:
     author: Robert van Bregt
 taxonomy:
-    tag:
+    tags:
         - inspiratie
         - projectmanagement
         - zorg

@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tag: [draagbaar,freeware,gratis,mac,osx,software,usb,draagbaar,freeware,gratis,mac,osx,software,usb]
+    tags: [draagbaar,freeware,gratis,mac,osx,software,usb,draagbaar,freeware,gratis,mac,osx,software,usb]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

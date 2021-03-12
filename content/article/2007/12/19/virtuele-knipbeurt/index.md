@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tag: [audio,audio]
+    tags: [audio,audio]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

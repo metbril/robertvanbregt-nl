@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tag: [download,gratis,itunes,mp3,muziek,download,gratis,itunes,mp3,muziek]
+    tags: [download,gratis,itunes,mp3,muziek,download,gratis,itunes,mp3,muziek]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

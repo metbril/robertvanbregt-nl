@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tag: [humor,mp3,muziek,parodie,podcast,podsafe,humor,mp3,muziek,parodie,podcast,podsafe]
+    tags: [humor,mp3,muziek,parodie,podcast,podsafe,humor,mp3,muziek,parodie,podcast,podsafe]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

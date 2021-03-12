@@ -5,7 +5,7 @@ date: '2011-03-18 12:00:00'
 metadata:
     author: Robert van Bregt
 taxonomy:
-    tag:
+    tags:
         - video
         - inspiratie
 post_id: 1309

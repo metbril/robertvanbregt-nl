@@ -7,7 +7,7 @@ metadata:
 taxonomy:
     category:
         - Ongecategoriseerd
-    tag:
+    tags:
         - video
         - youtube
         - internet

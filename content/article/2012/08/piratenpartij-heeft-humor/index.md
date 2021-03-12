@@ -4,7 +4,7 @@ date: '2012-08-24 18:40:00'
 metadata:
     author: 'Robert van Bregt'
 taxonomy:
-    tag:
+    tags:
         - politiek
         - humor
 post_id: 1579

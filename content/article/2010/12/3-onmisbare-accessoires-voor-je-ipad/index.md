@@ -8,7 +8,7 @@ metadata:
 taxonomy:
     category:
         - Ongecategoriseerd
-    tag:
+    tags:
         - apple
         - gadgets
         - ipad

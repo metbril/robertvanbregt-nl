@@ -4,7 +4,7 @@ post_id: 1732
 date: '2008-08-01 15:48:00'
 published: true
 taxonomy:
-    tag:
+    tags:
         - geek
         - koffie
         - latte

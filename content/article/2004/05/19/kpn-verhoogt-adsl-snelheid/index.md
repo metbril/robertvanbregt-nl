@@ -5,7 +5,7 @@ date: '2004-05-19 17:17:00'
 metadata:
     author: Robert van Bregt
 taxonomy:
-    tag:
+    tags:
         - adsl
         - internet
         - kpn

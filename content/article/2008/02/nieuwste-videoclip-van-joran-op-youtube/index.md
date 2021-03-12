@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tag: [humor,joran,video,youtube,humor,joran,video,youtube]
+    tags: [humor,joran,video,youtube,humor,joran,video,youtube]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

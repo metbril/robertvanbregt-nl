@@ -3,7 +3,7 @@ title: 9 tips voor een onvergetelijk vakantieverhaal
 post_id: 562
 date: '2009-08-17T07:23:57+00:00'
 taxonomy:
-    tag: [fotografie]
+    tags: [fotografie]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

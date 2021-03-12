@@ -7,7 +7,7 @@ metadata:
 taxonomy:
     category:
         - Ongecategoriseerd
-    tag:
+    tags:
         - technologie
 post_id: 473
 author: 'Robert van Bregt'

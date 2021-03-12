@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tag: [campagne,overheid,video,youtube,campagne,overheid,video,youtube]
+    tags: [campagne,overheid,video,youtube,campagne,overheid,video,youtube]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

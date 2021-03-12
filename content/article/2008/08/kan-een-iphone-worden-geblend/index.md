@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tag: [humor,iphone,video,humor,iphone,video]
+    tags: [humor,iphone,video,humor,iphone,video]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt
