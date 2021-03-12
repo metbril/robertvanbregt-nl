@@ -4,7 +4,6 @@ post_id: 733
 date: '2009-08-29T06:10:47+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 tags: [fun,google,fun,google]
 ---
 [![google-michaeljackson09](/wp-content/uploads/2009/08/google-michaeljackson09.gif "google-michaeljackson09")](http://www.google.nl/search?q=Michael+Jackson)

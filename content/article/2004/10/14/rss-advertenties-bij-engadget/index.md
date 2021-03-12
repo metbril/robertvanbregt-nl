@@ -4,7 +4,6 @@ post_id: 163
 date: '2004-10-14T17:11:39+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 ---
 [Engadget](http://www.engadget.com/) heeft advertenties toegevoegd aan [zijn RSS feeds](http://www.engadget.com/rss.xml):
 

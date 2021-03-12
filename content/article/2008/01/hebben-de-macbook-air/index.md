@@ -4,7 +4,6 @@ post_id: 55
 date: '2008-01-16T06:32:25+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 tags: [apple,computers,gadgets,mac,macbook,notebook,apple,computers,gadgets,mac,macbook,notebook]
 ---
 [](https://www.apple.com/nl/macbookair/)

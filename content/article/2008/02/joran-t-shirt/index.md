@@ -4,7 +4,6 @@ post_id: 60
 date: '2008-02-10T16:19:24+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 tags: [humor,joran,humor,joran]
 ---
 ![joran](/wp-content/uploads/2009/08/iknow.jpg "joran")  

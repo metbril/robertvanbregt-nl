@@ -4,7 +4,6 @@ post_id: 54
 date: '2011-08-25T21:40:23+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 tags: [apple,computers,macos,apple,computers,macos]
 ---
 [LibreOffice](http://www.libreoffice.org), het Open  

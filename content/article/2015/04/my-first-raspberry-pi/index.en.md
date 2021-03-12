@@ -4,7 +4,6 @@ post_id: 74
 date: '2015-04-03T06:57:08+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 tags: [computers,english,raspberrypi,computers,english,raspberrypi]
 ---
 Earlier this week my first [Raspberry Pi](http://raspberrypi.org/) arrived by mail. What a great little device. I intend to use it to replace my Mac Mini. That Mac is currently running an [openHAB](http://openhab.org/) server. Where the previous model B was said to be somewhat slow for larger openHAB installations, the hardware specs of this new [Raspberry Pi 2 model B](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) have increased. I expect it to be faster and fast enough for  my purposes.

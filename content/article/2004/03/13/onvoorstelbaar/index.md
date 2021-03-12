@@ -4,7 +4,6 @@ post_id: 510
 date: '2004-03-13T06:20:15+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 ---
 **Update**: de webcam is niet meer.
 

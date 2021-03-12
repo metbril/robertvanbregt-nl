@@ -4,7 +4,6 @@ post_id: 1720
 date: '2007-08-12T08:11:11+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 tags: [linux,ubuntu,linux,ubuntu]
 ---
 Soms komen dingen op het juiste moment bij elkaar.

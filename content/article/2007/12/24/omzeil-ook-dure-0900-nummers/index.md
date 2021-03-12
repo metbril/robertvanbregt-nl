@@ -4,7 +4,6 @@ post_id: 45
 date: '2007-12-24T20:16:34+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 tags: [telefoon,telefoon]
 ---
 ![Oude telefoon](/images/2007/12/oude_telefoon.thumbnail.jpg)**Update:** CorCom heeft zijn blog verwijderd.

@@ -4,7 +4,6 @@ post_id: 63
 date: '2008-02-15T06:30:47+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 tags: [download,gratis,itunes,mp3,muziek,download,gratis,itunes,mp3,muziek]
 ---
 ![iTunes Logo](/images/2008/02/itunes-logo.thumbnail.png)

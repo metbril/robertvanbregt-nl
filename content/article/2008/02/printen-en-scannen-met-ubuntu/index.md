@@ -4,7 +4,6 @@ post_id: 57
 date: '2008-02-02T07:10:49+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 tags: [hp,linux,printer,scanner,ubuntu,hp,linux,printer,scanner,ubuntu]
 ---
 ![HP PSC 2355](/images/2008/02/hp-psc2355.jpg)

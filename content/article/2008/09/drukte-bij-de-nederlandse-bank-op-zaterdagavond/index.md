@@ -4,7 +4,6 @@ post_id: 140
 date: '2008-09-28T11:25:44+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 tags: [bank,economie,geld,video,bank,economie,geld,video]
 ---
 Topberaad bij [De Nederlandse Bank](http://www.dnb.nl) over [Fortis](http://www.fortis.nl)?

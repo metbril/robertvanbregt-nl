@@ -4,7 +4,6 @@ post_id: 1433
 date: '2011-08-25T21:40:32+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 tags: [apple,mac,osx,apple,mac,osx]
 ---
 **Update**: toetscombinatie aangepast, automatische taalkeuze mogelijk (zie reacties).

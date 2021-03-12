@@ -4,7 +4,6 @@ post_id: 306
 date: '2005-01-06T10:45:59+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 ---
 Vandaag is de [Torres del Paine oostwand expeditie 2005](http://www.bigwall.nl/2004torresdelpaine/home.htm#pata05) van start gegaan.
 

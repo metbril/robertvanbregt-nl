@@ -4,7 +4,6 @@ post_id: 292
 date: '2004-12-21T12:36:44+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 ---
 [Google](http://www.google.com/) zal in januari een nieuwe, sterk verbeterde versie van [Picasa](http://www.picasa.com/), een applicatie voor het beheren en delen van foto’s, uitbrengen. En nog steeds gratis.
 

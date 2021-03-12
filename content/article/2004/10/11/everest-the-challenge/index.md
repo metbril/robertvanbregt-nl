@@ -4,7 +4,6 @@ post_id: 172
 date: '2004-10-11T09:02:37+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 ---
 [Climbing.nl Forum](http://forum.climbing.nl/59078.html): “Everest: The Challenge:Can a 40-year-old mountain bike instructor from North Wales take on the ultimate mountaineering challenge of a month of climbing in freezing temperatures and 200-mile-an-hour winds?”
 

@@ -4,7 +4,6 @@ post_id: 801
 date: '2004-06-05T13:24:00+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 ---
 Probeer je een weblog bij te houden, krijg je allerlei hoogstaand publiek langs:
 

@@ -4,7 +4,6 @@ post_id: 411
 date: '2004-01-16T14:20:28+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 ---
 Recent werd bekend, dat [Loekie de Leeuw](http://info.omroep.nl/ster?nav=blljEsHCfDjCkF) bij de STER met pensioen gaat. Hiervoor loopt de actie [Red Loekie](http://www.redloekie.tk/) om hem te redden.
 

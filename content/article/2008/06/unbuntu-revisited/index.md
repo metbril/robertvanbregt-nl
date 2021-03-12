@@ -4,7 +4,6 @@ post_id: 83
 date: '2008-06-27T11:18:45+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 tags: [gratis,laptop,linux,pc,ubuntu,gratis,laptop,linux,pc,ubuntu]
 ---
 ![](/images/2008/02/ubuntu.png?w=96)[Ubuntu op de thuislaptop](http://breggologisch.wordpress.com/2007/08/12/ubuntu-op-de-laptop-van-de-familie/) was niet zo’n geslaagd projectje. Ik kreeg niet alles aan de praat zoals ik het graag zou willen. Vooral het gebruik van het draadloze netwerk bleef kuren vertonen. En omdat zoonlief ook allerlei Windows-spelletjes deed, moest er toch een XP-computer beschikbaar blijven.

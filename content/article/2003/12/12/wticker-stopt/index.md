@@ -4,7 +4,6 @@ post_id: 380
 date: '2003-12-12T15:52:58+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 ---
 Ik maak al enkele weken gebruik van [wTicker](http://www.wticker.org/) om RSS feeds te volgen, en las met grote verbazing de mededeling van de auteur dat hij stopt met het ontwikkelen.
 

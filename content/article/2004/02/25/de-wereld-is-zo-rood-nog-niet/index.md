@@ -4,7 +4,6 @@ post_id: 464
 date: '2004-02-25T20:43:10+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 ---
 Eerlijk gezegd is de wereld zo [rood](http://world66.com/myworld66) nog niet.
 

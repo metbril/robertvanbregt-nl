@@ -4,7 +4,6 @@ post_id: 1721
 date: '2007-08-27T07:53:00+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 tags: [apple,imac,apple,imac]
 ---
 [René Descartes](http://nl.wikipedia.org/wiki/Rene_Descartes) wist het al: “I think, therefore I exist”. Misschien wat licht-filosofisch, maar toch…

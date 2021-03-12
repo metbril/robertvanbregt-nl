@@ -4,7 +4,6 @@ post_id: 1346
 date: '2011-07-30T09:05:51+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 ---
 ![](/wp-content/uploads/2011/07/rss-icon-150x150.png "rss-icon")
 

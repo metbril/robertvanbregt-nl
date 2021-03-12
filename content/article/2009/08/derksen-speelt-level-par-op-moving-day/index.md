@@ -4,7 +4,6 @@ post_id: 703
 date: '2009-08-23T10:05:51+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 tags: [golf,sport,video,golf,sport,video]
 ---
 [Robert-Jan Derksen](http://robertjanderksen.nl/) speelt level par op de “moving day” van het [KLM Open](http://www.klmopen.nl/) 2009.

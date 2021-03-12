@@ -4,7 +4,6 @@ post_id: 1719
 date: '2007-08-12T07:46:51+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 ---
 Welkom terug. Mijn [vorige weblog](http://vanbregt.wordpress.com) heb ik volledig verwijderd. Ik was het helemaal zat, dat bloggen. Maar het bloed kruipt waar het niet gaan kan. Dus ben ik opnieuw begonnen. Nog steeds lekker in het Nederlands.
 

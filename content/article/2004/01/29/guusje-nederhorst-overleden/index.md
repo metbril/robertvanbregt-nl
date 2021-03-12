@@ -4,7 +4,6 @@ post_id: 436
 date: '2004-01-29T20:18:59+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 ---
 Vandaag is [Guusje Nederhorst](http://www.guusjenederhorst.nl/) overleden. Ze leed al enige tijd aan [kanker](http://www.kwfkankerbestrijding.nl/). Guusje is bekend geworden als Roos uit [Goede tijden, slechte tijden](http://www.gtst.nl/) en was enige tijd getrouwd met de zanger van popband [Kane](http://www.kane.nl/). Sinds kort hadden ze samen een zoon, Dean.
 

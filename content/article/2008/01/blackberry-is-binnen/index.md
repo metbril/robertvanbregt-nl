@@ -4,7 +4,6 @@ post_id: 53
 date: '2008-01-03T20:00:23+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 tags: [blackberry,curve,gadgets,gprs,gsm,mobiel,smartphone,telefoon,blackberry,curve,gadgets,gprs,gsm,mobiel,smartphone,telefoon]
 ---
 ![Blackberry Curve](/images/2008/01/blackberry-curve-8310-vodafone-nl.jpg)

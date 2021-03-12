@@ -4,7 +4,6 @@ post_id: 1734
 date: '2008-08-10T07:03:06+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 tags: [humor,iphone,video,humor,iphone,video]
 ---
 Kijk zelf!

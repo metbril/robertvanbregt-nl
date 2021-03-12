@@ -4,7 +4,6 @@ post_id: 1722
 date: '2007-09-01T05:45:00+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 tags: [computers,feeds,firefox,internet,javascript,programmeren,rss,computers,feeds,firefox,internet,javascript,programmeren,rss]
 ---
 ![Firefox](https://bp2.blogger.com/_N9rpl2-ad9s/Rtj4pueefXI/AAAAAAAAAD8/2RnkFeRl7SI/s144/firefox-mac.jpg)  

@@ -4,7 +4,6 @@ post_id: 1319
 date: '2011-05-02T06:26:22+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 tags: [informatiebeveiliging,internet,informatiebeveiliging,internet]
 ---
 Op zijn weblog doet [Thomas Baekdal](http://twitter.com/baekdal) een pleidooi voor [bruikbare veilige wachtwoorden](http://www.baekdal.com/tips/password-security-usability) in plaats van complexe wachtwoorden. Het kraken van het wachtwoord “**this is fun**” duurt bijvoorbeeld ruim 2500 jaar.

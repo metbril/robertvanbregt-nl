@@ -4,7 +4,6 @@ post_id: 442
 date: '2004-02-02T16:55:09+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 ---
 Schreef ik vrijdag al over [Uma](/2004/01/30/uma-thurman-geeft-zich-bloot/), nu heeft ook [Janet Jackson](http://www.telegraaf.nl/prive/article7665531.ece) het voor elkaar. Tijdens de Super Bowl wist Justin Timberlake een borst te ontbloten.
 

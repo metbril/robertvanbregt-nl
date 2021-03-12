@@ -4,7 +4,6 @@ post_id: 1429
 date: '2011-08-25T11:16:25+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 tags: [bloggen,wordpress,bloggen,wordpress]
 ---
 ![](/wp-content/uploads/2011/08/wordpress-logo-150x150.png "wordpress-logo")Ik heb mijn weblog verplaatst van de subfolder `/blog/` naar `/`. Een van de zaken die **echt** handmatig moest worden geregeld was het wijzigen van de URI naar de geuploade afbeeldingen. Daar zat ik niet op te wachten. Dat moest toch handiger kunnen. En dat kan natuurlijk ook; met een UPDATE query op de mySQL database. Altijd een beetje tricky, en ik heb dat niet zo heel vaak gedaan. Dus heb ik een goede backup van de database gemaakt en toen het volgende statement losgelaten:

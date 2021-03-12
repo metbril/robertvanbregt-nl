@@ -4,7 +4,6 @@ post_id: 543
 date: '2006-03-21T00:00:22+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 ---
 **Update**: Ik heb de volledige tekst van dit bericht niet kunnen terugvinden.
 

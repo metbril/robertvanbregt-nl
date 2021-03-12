@@ -4,7 +4,6 @@ post_id: 1586
 date: '2007-08-17T06:18:00+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 tags: [google,gratis,sms,televisie,tv,google,gratis,sms,televisie,tv]
 ---
 Ook wel eens last van, een uitzending missen van een programma dat je graag op televisie had willen zien? Voor sommige zenders kun je [gemiste uitzendingen](http://www.uitzendinggemist.nl/) nog eens op het Internet bekijken, maar dat werkt lang niet voor allemaal zo eenvoudig.

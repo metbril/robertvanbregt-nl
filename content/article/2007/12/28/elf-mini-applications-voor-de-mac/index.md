@@ -4,7 +4,6 @@ post_id: 49
 date: '2007-12-28T16:45:26+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 tags: [draagbaar,freeware,gratis,mac,osx,software,usb,draagbaar,freeware,gratis,mac,osx,software,usb]
 ---
 ***Update**: je kunt nog meer [mac freeware](http://breggologisch.wordpress.com/mac-os-x/) op mijn blog vinden*

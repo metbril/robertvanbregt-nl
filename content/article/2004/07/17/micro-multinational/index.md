@@ -4,7 +4,6 @@ post_id: 799
 date: '2004-07-17T15:40:00+00:00'
 taxonomy:
     migration-status: review
-    category: [Ongecategoriseerd]
 ---
 In [Wired Magazine](https://web.archive.org/web/20050207103957/http://www.wired.com/wired/archive/12.07/view.html?pg=2) van 12 juli staat een aardig stukje over micro outsourcing:
 
