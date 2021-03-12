@@ -2,7 +2,7 @@
 title: "Emoji in je aantekeningen"
 alias: "/2019/11/15/3748/"
 date: 2019-11-15T08:35:00+01:00
-tags: [drafts;ios;automation;world-of-textfiles;productivity;textfiles]
+tags: [drafts,ios,automation,world-of-textfiles,productivity,textfiles]
 indieweb:
     author:
         name: Evan Travers
