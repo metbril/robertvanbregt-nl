@@ -7,7 +7,4 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [crisis,crisis]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---

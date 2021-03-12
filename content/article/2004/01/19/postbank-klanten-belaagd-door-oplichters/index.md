@@ -6,8 +6,5 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [Postbank](http://www.postbank.nl/)-klanten zijn opnieuw het doelwit van oplichters. Zij proberen met behulp van mailtjes inloggegevens te achterhalen. In de bewuste e-mail wordt gevraagd om via een speciale site in te loggen. De mail lijkt afkomstig van ‘service@postbank.nl’ en heeft als onderwerp ‘Belangrijke rekening informatie’. (bron: [NU.nl](http://nu.nl/news.jsp?n=261113&c=50))

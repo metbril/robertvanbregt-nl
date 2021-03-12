@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [Climbing.nl Forum](http://forum.climbing.nl/59078.html): “Everest: The Challenge:Can a 40-year-old mountain bike instructor from North Wales take on the ultimate mountaineering challenge of a month of climbing in freezing temperatures and 200-mile-an-hour winds?”
 

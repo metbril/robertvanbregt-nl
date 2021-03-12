@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [blackberry,curve,gadgets,gprs,gsm,mobiel,smartphone,telefoon,blackberry,curve,gadgets,gprs,gsm,mobiel,smartphone,telefoon]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 ![Blackberry Curve](/images/2008/01/blackberry-curve-8310-vodafone-nl.jpg)
 

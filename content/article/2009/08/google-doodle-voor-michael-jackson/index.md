@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [fun,google,fun,google]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [![google-michaeljackson09](/wp-content/uploads/2009/08/google-michaeljackson09.gif "google-michaeljackson09")](http://www.google.nl/search?q=Michael+Jackson)
 

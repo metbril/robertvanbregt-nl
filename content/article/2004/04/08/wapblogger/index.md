@@ -7,8 +7,5 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [blogging,mobiel,wap,blogging,mobiel,wap]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Kicke! Een potsje via mijn mobiele telefoon. Ga naar www.ubique.ch/wapblogger/ voor meer informatie.

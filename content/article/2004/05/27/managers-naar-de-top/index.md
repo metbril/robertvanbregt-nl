@@ -6,8 +6,5 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Voor het tijdschrift Management Team gaan 8 managers [naar de top van de Mont Blanc](https://web.archive.org/web/20050207102801/http://www.mt.nl/cave).

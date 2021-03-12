@@ -7,8 +7,5 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [blogger,blogging,mobiel,t610,blogger,blogging,mobiel,t610]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Vandaag heb ik een extra bloggeraccount aangemaakt voor mobiele logs. Dan wordt mooi zichtbaar waar een post vandaan komt. Deze is dus afkomstig van mijn T610 met behulp van wapblogger.

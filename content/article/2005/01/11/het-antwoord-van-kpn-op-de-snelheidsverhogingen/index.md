@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [Op het forum van Chello Underground](http://www.chelloo.com/forum/index.php?topic=8142.0) is te lezen dat een medewerker van Planet heeft verklapt dat KPN waarschijnlijk de snelheid van zijn ADSL-verbindingen in februari zal verhogen.
 

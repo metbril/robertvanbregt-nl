@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [boek,kinderen,boek,kinderen]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [![Kat met de hoed](https://bol.com/imgbase0/thumb/BOOKCOVER/FC/9/0/2/5/7/9025738125.gif)](http://clk.tradedoubler.com/click?a=1703208&p=67859&g=17297694&epi=1001004002050217) [![Groene eieren met ham](https://bol.com/imgbase0/thumb/BOOKCOVER/FC/9/0/2/5/7/9025738095.gif)](http://clk.tradedoubler.com/click?a=1703208&p=67859&g=17297694&epi=1001004002050214) [![Een vis twee vissen heel veel vissen](https://bol.com/imgbase0/thumb/BOOKCOVER/FC/9/0/2/5/7/9025738117.gif)](http://clk.tradedoubler.com/click?a=1703208&p=67859&g=17297694&epi=1001004002050216) [![Dans op Jans](https://bol.com/imgbase0/thumb/BOOKCOVER/FC/9/0/2/5/7/9025738109.gif)](http://clk.tradedoubler.com/click?a=1703208&p=67859&g=17297694&epi=1001004002050215)
 

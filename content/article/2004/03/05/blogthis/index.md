@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [Phil Ringnalda](http://philringnalda.com/) heeft de Mozilla extensie [BlogThis](http://texturizer.net/firefox/extensions/#blogthis) geschreven die een context menu toevoegd om de huidige pagina en geselecteerde tekst te bloggen met Blogger. Handig!
 

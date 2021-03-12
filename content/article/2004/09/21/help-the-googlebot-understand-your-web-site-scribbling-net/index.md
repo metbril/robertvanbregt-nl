@@ -6,8 +6,5 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [Help the Googlebot understand your web site [Scribbling.net]](https://web.archive.org/web/20050207105915/http://scribbling.net/help_the_googlebot_understand_your_web_site): “Webloggers: use the meta tags to help the Googlebot index only your permalinks, not your constantly changing front page. “

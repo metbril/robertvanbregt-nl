@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [Google](http://www.google.com/) zal in januari een nieuwe, sterk verbeterde versie van [Picasa](http://www.picasa.com/), een applicatie voor het beheren en delen van foto’s, uitbrengen. En nog steeds gratis.
 

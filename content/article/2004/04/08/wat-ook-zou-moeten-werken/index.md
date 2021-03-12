@@ -7,8 +7,5 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [blogging,wap,blogging,wap]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Wat ook zou moeten werken is http://wap.waplog.ch/blogger/ . (Update: deze URL werkt dus niet) )Deze post is gemaakt met een wap emulator van tagtag.com en dus niet via een telefoon

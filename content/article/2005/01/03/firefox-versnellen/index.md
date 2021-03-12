@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Op de website forevergeek.com wordt uitgelegd hoe je firefox kunt [versnellen](http://forevergeek.com/open_source/make_firefox_faster.php) als je gebruik maakt van een breedbandverbinding. Dit alles met behulp van het about:config scherm.
 

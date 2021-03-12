@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [google,gratis,sms,televisie,tv,google,gratis,sms,televisie,tv]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Ook wel eens last van, een uitzending missen van een programma dat je graag op televisie had willen zien? Voor sommige zenders kun je [gemiste uitzendingen](http://www.uitzendinggemist.nl/) nog eens op het Internet bekijken, maar dat werkt lang niet voor allemaal zo eenvoudig.
 

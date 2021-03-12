@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [informatiebeveiliging,internet,informatiebeveiliging,internet]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Op zijn weblog doet [Thomas Baekdal](http://twitter.com/baekdal) een pleidooi voor [bruikbare veilige wachtwoorden](http://www.baekdal.com/tips/password-security-usability) in plaats van complexe wachtwoorden. Het kraken van het wachtwoord “**this is fun**” duurt bijvoorbeeld ruim 2500 jaar.
 

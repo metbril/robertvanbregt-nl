@@ -2,13 +2,10 @@
 title: 'Buiten leven, daar word je outdoor'
 published: true
 date: '2017-09-29 15:27:00'
-metadata:
-    author: Robert van Bregt
 tags:
     - inspiratie
     - Buiten
 post_id: 44
-author: Robert van Bregt
 ---
 
 Vanochtend kwam ik onderweg op een reclamebord een spreuk tegen. Voor mij nieuw, maar het leverde een glimlach op, dus leuk om te onthouden en nog eens ergens te gebruiken.

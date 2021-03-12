@@ -7,8 +7,5 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [blogging,email,mobiel,blogging,email,mobiel]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Als dit te lezen is, is het gelukt om via email te posten vanaf mijn mobiele telefoon.

@@ -2,15 +2,12 @@
 title: 'Ben Saunders is geen toevallige ontdekking'
 published: true
 date: '2010-12-15 09:21:00'
-metadata:
-    author: Robert van Bregt
 tags:
     - video
     - youtube
     - tv
     - tvoh
 post_id: 1148
-author: Robert van Bregt
 ---
 
 Wie dacht dat [The Voice of Holland](http://www.thevoiceofholland.com/) favoriet [Ben Saunders](tattooben.hyves.nl) een toevallige ontdekking was, heeft het helemaal mis. Ben en zijn grote broer [Dean](http://djsaunders.hyves.nl/) zijn al jaren aan de weg aan het timmeren. Ben is dus geen zingende bokser of zingende tatoeëerder, maar een boksende en tatoeërende zanger. Er circuleren wat filmpjes van jaren geleden op Youtube waar de heren de hoofdrol in spelen.

@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Een dief stal de [mobiele telefoon](http://story.news.yahoo.com/news?tmpl=story2&u=/nm/20040209/od_nm/odd_dutch_phone_dc) uit een politieauto. De agent belde het toestel, dat toen overging in de zak van iemand in de buurt!
 

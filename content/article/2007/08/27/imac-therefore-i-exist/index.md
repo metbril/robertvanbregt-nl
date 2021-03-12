@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [apple,imac,apple,imac]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [René Descartes](http://nl.wikipedia.org/wiki/Rene_Descartes) wist het al: “I think, therefore I exist”. Misschien wat licht-filosofisch, maar toch…
 

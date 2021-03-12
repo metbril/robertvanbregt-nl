@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [fietsen,fietsen]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [![](/wp-content/uploads/2011/03/20110312-092827-150x150.jpg "20110312-092827.jpg")](/wp-content/uploads/2011/03/20110312-092827.jpg)Ik heb voor het eerst in maanden weer gefietst. Hartslag voortdurend te hoog, cadans lijkt wel een sinusgrafiek, gemiddelde snelheid lijkt op een toerfietsrit. Het water loopt uit de neus. Adem stokt in de keel. Verzuurde dijen. Zadelpijn.
 

@@ -2,9 +2,6 @@
 title: Welkom thuis!
 date: '2007-08-12T18:47:00+00:00'
 tags: [meta]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Welkom terug. Mijn vorige weblog heb ik volledig verwijderd. Ik was het helemaal zat, dat bloggen. Maar het bloed kruipt waar het niet gaan kan. Dus ben ik opnieuw begonnen. Nog steeds lekker in het Nederlands.
 

@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [campagne,golf,humor,zon,campagne,golf,humor,zon]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [![Zon Verstandig Golf](/wp-content/uploads/2009/08/zon-verstandig-golf.jpg "Zon Verstandig Golf")](http://www.zonverstandig.nl/)
 

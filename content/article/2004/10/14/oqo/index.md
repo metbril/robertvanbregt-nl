@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 “The [OQO model 01](http://www.oqo.com/hardware/basics/) ultra personal computer (uPC) is a fully-functional Windows XP computer. The OQO has a 1GHz processor, a 20GB hard drive, 256MB of RAM, a color transflective display, and integrated wireless, as well as Fire Wire and USB ports. It is powerful enough to run your most complex applications. ”
 

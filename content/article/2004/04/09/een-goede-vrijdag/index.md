@@ -7,8 +7,5 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [blijdorp,dierentuin,rotterdam,zoo,blijdorp,dierentuin,rotterdam,zoo]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Vandaag (Goede Vrijdag) met de familie naar Blijdorp, de dierentuin in de Rotterdamse stad R. Alwaar we besloten een abo te nemen. Dat is goedkoper en we zijn tenslotte Hollanders.

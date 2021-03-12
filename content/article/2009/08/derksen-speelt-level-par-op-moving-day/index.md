@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [golf,sport,video,golf,sport,video]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [Robert-Jan Derksen](http://robertjanderksen.nl/) speelt level par op de “moving day” van het [KLM Open](http://www.klmopen.nl/) 2009.
 

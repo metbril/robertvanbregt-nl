@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [apple,computers,macos,apple,computers,macos]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [LibreOffice](http://www.libreoffice.org), het Open  
  source alternatief voor [Microsoft  

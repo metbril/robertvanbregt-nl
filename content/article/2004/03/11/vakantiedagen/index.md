@@ -6,8 +6,5 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Voor wie nu al wil weten wanneer hij tot 2008 de drukte wil vermijden of wie nu al zijn vakantie vast wil leggen publiceert het ministerie van OC&W een [overzicht](http://www.minocw.nl/onderwijs/vakanties/datums.html).

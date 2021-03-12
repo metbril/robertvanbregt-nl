@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Vandaag zijn we naar de [Fair aan de Maas](http://www.fairaandemaas.nl/) geweest. Eerlijk gezegd vond ik de roofvogelshow het mooist, of beter nog, de roofvogels zelf. Ik heb er meteen ook maar wat foto’s van gemaakt. Met de nieuwe [20D](http://www.canon.nl/For_Home/Product_Finder/Cameras/Digital_SLR/EOS_20D/) en de [Sigma 80-400](http://www.sigmaphoto.com/lenses/lenses_all_details.asp?id=3272&navigator=3).
 

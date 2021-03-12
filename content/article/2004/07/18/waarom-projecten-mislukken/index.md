@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 In zijn artikel [“Why Do Projects Fail”](https://web.archive.org/web/20050207103957/http://blogs.ittoolbox.com/pm/leadership/archives/000960.asp) schrijft lpuleo waarom projecten mislukken:
 

@@ -6,8 +6,5 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 De Rotterdamse schoenenwinkel waar in oktober de 18-jarige zoon van de eigenaar bij een roofoverval werd gedood, is gisteren op de dag van de heropening opnieuw overvallen. (bron: [AD](http://www.ad.nl/))

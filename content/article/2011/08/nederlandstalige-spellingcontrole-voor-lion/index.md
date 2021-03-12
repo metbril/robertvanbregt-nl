@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [apple,mac,osx,apple,mac,osx]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 **Update**: toetscombinatie aangepast, automatische taalkeuze mogelijk (zie reacties).
 

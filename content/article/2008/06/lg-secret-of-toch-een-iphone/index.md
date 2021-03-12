@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [humor,iphone,mobiel,sex,telefoon,video,youtube,humor,iphone,mobiel,sex,telefoon,video,youtube]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Wie wil er met deze mobiele telefoon nou nog een iPhone?
 

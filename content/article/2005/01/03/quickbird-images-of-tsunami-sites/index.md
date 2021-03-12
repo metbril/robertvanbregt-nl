@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Op de [Quickbird Images of Tsunami Sites](http://www.digitalglobe.com/tsunami_gallery.html) is door de excellente kwaliteit van de satellietbeelden goed te zien welke verwoestingen er zijn aangericht in Atjeh en Sri Lanka.
 

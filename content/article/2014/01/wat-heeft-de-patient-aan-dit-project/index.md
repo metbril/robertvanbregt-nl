@@ -3,15 +3,12 @@ title: 'Wat heeft de patiënt aan dit project?'
 media_order: 4762141677_b1a857bb0e_o.jpg
 published: true
 date: '2014-01-25 22:33:00'
-metadata:
-    author: Robert van Bregt
 tags:
     - inspiratie
     - projectmanagement
     - zorg
     - uncategorized
 post_id: 86
-author: Robert van Bregt
 ---
 
 Meerdere keren per week organiseer ik overleggen voor een van mijn projecten. Altijd gaat het over voortgang, planning en knelpunten. En vaak ook over risico’s en kwaliteit. We proberen zo met het gehele team een geweldig resultaat neer te zetten. Voor de opdrachtgever. Voor het ziekenhuis.

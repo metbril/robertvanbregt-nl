@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Eerlijk gezegd is de wereld zo [rood](http://world66.com/myworld66) nog niet.
 

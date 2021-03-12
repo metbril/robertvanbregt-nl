@@ -7,8 +7,5 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [blogging,iphone,blogging,iphone]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Nu ik mijn persoonlijke weblog weer heb gereanimeerd, is het niet meer dan normaal dat ik ook gebruik zal gaan maken van de [ iPhone applicatie voor WordPress](http://iphone.wordpress.org/).

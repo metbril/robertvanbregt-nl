@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [linux,ubuntu,linux,ubuntu]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Soms komen dingen op het juiste moment bij elkaar.
 

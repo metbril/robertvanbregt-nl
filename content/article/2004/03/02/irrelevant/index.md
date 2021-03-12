@@ -6,8 +6,5 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Op zoek naar wat informatie kwam ik toevallig een artikel tegen met de titel *[The irrelevance of project management as a professional discipline](http://www.bartlett.ucl.ac.uk/research/management/Moscow2003.doc.pdf)* (pdf). Als professioneel projectleider ben ik toch wel benieuwd naar de inhoud. Ga ik dus binnenkort even lezen (19 pagina’s!)

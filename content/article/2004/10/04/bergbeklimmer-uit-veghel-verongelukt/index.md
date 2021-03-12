@@ -2,9 +2,6 @@
 title: Bergbeklimmer uit Veghel verongelukt
 post_id: 773
 date: '2004-10-04T13:42:00+00:00'
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [Ice-X](http://www.ice-x.nl/):  
 

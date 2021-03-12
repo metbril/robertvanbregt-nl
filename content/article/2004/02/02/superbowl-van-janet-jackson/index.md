@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Schreef ik vrijdag al over [Uma](/2004/01/30/uma-thurman-geeft-zich-bloot/), nu heeft ook [Janet Jackson](http://www.telegraaf.nl/prive/article7665531.ece) het voor elkaar. Tijdens de Super Bowl wist Justin Timberlake een borst te ontbloten.
 

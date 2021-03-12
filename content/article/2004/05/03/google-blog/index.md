@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [google,google]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Kijk, dat is nog eens lachen: Google doet verwoede pogingen om een [blog](https://web.archive.org/web/20050207102801/http://www.google.com/blog/) te starten.
 

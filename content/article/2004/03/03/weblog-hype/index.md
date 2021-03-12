@@ -6,8 +6,5 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 404 magazine [bericht](http://www4.hccnet.nl/404/redirect_nieuws.cfm?id=9858), dat de hype rond weblogs wel meevalt. Slechts 7% van de internetgebruikers heeft een weblog. Weinigen plaatsen ieder dag iets nieuws.

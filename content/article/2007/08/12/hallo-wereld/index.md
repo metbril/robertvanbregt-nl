@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Welkom terug. Mijn [vorige weblog](http://vanbregt.wordpress.com) heb ik volledig verwijderd. Ik was het helemaal zat, dat bloggen. Maar het bloed kruipt waar het niet gaan kan. Dus ben ik opnieuw begonnen. Nog steeds lekker in het Nederlands.
 

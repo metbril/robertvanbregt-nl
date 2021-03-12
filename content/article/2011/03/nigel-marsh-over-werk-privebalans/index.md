@@ -2,13 +2,10 @@
 title: 'Nigel Marsh over werk-privébalans'
 published: true
 date: '2011-03-18 12:00:00'
-metadata:
-    author: Robert van Bregt
 tags:
     - video
     - inspiratie
 post_id: 1309
-author: Robert van Bregt
 ---
 
 ![](https://www.youtube.com/watch?v=jdpIKXLLYYM)

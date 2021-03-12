@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [golf,humor,quote,spreuk,golf,humor,quote,spreuk]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 ![Golf Club](/wp-content/uploads/2009/08/golf-club.jpg?w=150 "Golf Club")[Mark Twain](http://nl.wikipedia.org/wiki/Mark_Twain):
 

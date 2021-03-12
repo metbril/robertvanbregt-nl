@@ -4,9 +4,6 @@ post_id: 562
 date: '2009-08-17T07:23:57+00:00'
 taxonomy:
 tags: [fotografie]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Thomas geeft [9 tips voor een overgetelijk vakantieverhaal](http://thomasgeusens.wordpress.com/2009/08/16/vakantiefotos-presenteren-9-tips-voor-een-onvergetelijk-vakantieverhaal/), met toelichting en hoe hij deze zelf heeft toegepast op de fotopresentatie van zijn vakantie in Ethiopië.
 

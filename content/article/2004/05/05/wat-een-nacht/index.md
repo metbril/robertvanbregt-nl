@@ -6,8 +6,5 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Man, wat een nacht. Hoesten, snotteren en veel wakker. Het mag nu wel een keertje over zijn.

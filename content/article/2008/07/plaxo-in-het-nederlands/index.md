@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [adresboek,contacten,plaxo,synchronisatie,adresboek,contacten,plaxo,synchronisatie]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 ![plaxo-logo](/wp-content/uploads/2009/08/plaxo-logo.png?w=150 "plaxo-logo")Vanochtend kreeg ik een berichtje van [Plaxo](http://www.plaxo.com): de gebruikersinterface is nu ook in het Nederlands beschikbaar. Dat is prettig, maar zal ook wel wennen zijn.
 

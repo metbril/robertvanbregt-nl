@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [film,islam,moslims,politiek,video,film,islam,moslims,politiek,video]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Het is dus toch geen grote 1 april grap, of een enorme hoax…
 

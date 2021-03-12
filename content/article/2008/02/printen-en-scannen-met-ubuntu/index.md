@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [hp,linux,printer,scanner,ubuntu,hp,linux,printer,scanner,ubuntu]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 ![HP PSC 2355](/images/2008/02/hp-psc2355.jpg)
 

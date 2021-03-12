@@ -6,8 +6,5 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [![](https://www.bbspot.com/Images/News_Features/2004/10/file_extensions/pdf.jpg)](https://www.bbspot.com/News/2004/10/extension_quiz.php)

@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [fietsen,fietsen]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Nu ik eigenlijk redelijk op gemak [een fietstocht van rond de 90 kilometer](/van-ouddorp-naar-capelle-1560/ "Van Ouddorp naar Capelle") kan maken, zij het dan zonder al te veel tegenwind, komt de magische grens van dagtochten van 100 kilometer in zicht. Dat is mooi, want een respectabele afstand.
 

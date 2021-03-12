@@ -6,8 +6,5 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Heb jij de laatste dagen ook al zo’n wintergevoel gekregen door de sneeuwval? Ik wel. En met bijgaand muziekje kom je zeker in de stemming.

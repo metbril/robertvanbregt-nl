@@ -6,8 +6,5 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 De 17-jarige student Michael Rowe heeft een parttime baantje als webdesigner. Voor zijn bedrijfje heeft hij de domeinnaam [mikerowesoft.com](http://www.mikerowesoft.com/) geregisteerd. Dit riep de toorn af van het grote boze [Microsoft](http://www.microsoft.com/), omdat de domeinnaam fonetisch op die van hen lijkt. Het volgende slachtoffer moet al bekend zijn; de domeinnaam [mycrowsoft.com](http://www.mycrowsoft.com/) is volgens [Register.com](http://www.register.com/) al geregistreerd door [CySpot](http://www.cyspot.com/), een Nederlands bedrijf uit Landgraaf.

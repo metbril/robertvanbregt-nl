@@ -6,8 +6,5 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [WebWereld](http://www.webwereld.nl/nav/trillian?19779): “In navolging van andere banken in Nederland heeft ook SNS Bank [zijn internetbankierwebsite geoptimaliseerd voor gebruik met Firefox](http://www.snsbank.nl/index.asp?NavigationId=4802).”

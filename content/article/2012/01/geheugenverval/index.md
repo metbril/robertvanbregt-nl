@@ -2,12 +2,9 @@
 title: Geheugenverval
 published: true
 date: '2012-01-13 14:21:00'
-metadata:
-    author: 'Robert van Bregt'
 tags:
     - technologie
 post_id: 473
-author: 'Robert van Bregt'
 ---
 
 [![microdrive](/wp-content/uploads/2009/08/microdrive.jpg "microdrive")](/wp-content/uploads/2009/08/microdrive.jpg)

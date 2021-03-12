@@ -6,8 +6,5 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Wie wil weten hoe hij vuur moet maken, water kan vinden of een schuilplaats kan bouwen moet hier maar eens kijken: een [handboek voor avonturiers](http://www.nationalgeographic.com/pathtoadventure/handbook/).

@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [humor,iphone,video,humor,iphone,video]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Kijk zelf!
 

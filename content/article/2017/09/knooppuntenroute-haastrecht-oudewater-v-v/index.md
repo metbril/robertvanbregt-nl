@@ -5,9 +5,6 @@ date: '2017-09-26 07:07:00'
 tags:
     - buiten
     - wandelen
-author: 'Robert van Bregt'
-metadata:
-    author: 'Robert van Bregt'
 ---
 
 Ik parkeer mijn auto naast [Theater Concordia](http://www.theaterconcordia.nl/) in [Haastrecht](https://nl.wikipedia.org/wiki/Haastrecht), vrijwel pal naast [Toeristisch Overstappunt (TOP) Haastrecht](http://www.toproutenetwerk.nl/alle-tops/haastrecht.html). Daar is [wandelknooppunt](https://wandelnet.nl/themas/wandelnetwerken) 89 te vinden, het startpunt van mijn wandeltocht. Het is eind september, maar het lijkt vandaag nog zomer. Met lange broek tegen de brandnetels, maar korte mouwen voor wat laatste zonneschijn gooi ik mijn rugzak op mijn rug en vertrek.

@@ -6,8 +6,5 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Uma Turman geeft zich [bloot](http://web-cache.stream.ne.jp/web05/killbill/japan/killbill_stream.swf) tijdens de presentatie van Kill Bill in Japan.

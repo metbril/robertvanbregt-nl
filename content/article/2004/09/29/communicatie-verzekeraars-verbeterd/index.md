@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [intermax](https://web.archive.org/web/20050207105915/http://www.intermax.nl/2004/index.html?item=87&type=n): “Bijna 80 procent van de Nederlandse zorgverzekeraars voldoet binnen een dag aan een informatieverzoek per e-mail. “
 

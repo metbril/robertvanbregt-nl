@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [telefoon,telefoon]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 ![Oude telefoon](/images/2007/12/oude_telefoon.thumbnail.jpg)**Update:** CorCom heeft zijn blog verwijderd.
 

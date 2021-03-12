@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [blogging,irak,blogging,irak]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [Marjolein](http://mayos.web-log.nl/) houdt een weblog bij over haar belevenissen in Irak. Ze schrijft onder andere over de sfeer na de dood van de Nederlandse sergeant.
 

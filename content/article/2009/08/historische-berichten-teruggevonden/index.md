@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Via de Way Back Machine heb ik nog een heleboel berichten kunnen terugvinden van [een](https://web.archive.org/web/*/http://vanbregt.blogspot.com) van de [voorgangers](https://web.archive.org/web/*/http://blog.vanbregt.net/) van dit weblog.
 

@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [apple,gadgets,geek,iphone,muziek,apple,gadgets,geek,iphone,muziek]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Neem een iPhone met een [iAno](http://www.vhxn.com/piano-apps-for-iphone-iano/) piano en een iPhone met een [Pocket Guitar](http://www.vhxn.com/pocket-guitar-a-virtual-guitar-for-iphone-or-ipod/). Vul dat aan met een synthesizer op een Nintendo DS. Voor je het weet heb je zo een echte [iBand](https://youtube.com/watch?v=Ek835iPiJjI).
 

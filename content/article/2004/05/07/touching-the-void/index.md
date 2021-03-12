@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [boek,film,klimmen,boek,film,klimmen]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [![Touching the Void (2DVD)(Special Edition)](https://bol.com/imgbase0/thumb/VIDEOCOVER/FC/8/7/1/6/7/8716777048597.gif)](http://clk.tradedoubler.com/click?a=1703208&p=67859&g=17299706&epi=1002004000098244)Eindelijk is het dan zover. De film [Touching the Void](http://www.pathefilms.co.uk/touching_the_void/), naar het gelijknamige [boek](http://clk.tradedoubler.com/click?a=1703208&p=67859&g=17297694&epi=1001004005971235) van [Joe Simpson](http://www.noordinaryjoe.co.uk/), is in de bioscoop. Ik heb inmiddels verschillende recensies gelezen, waaruit ik uit op heb gemaakt dat ik er graag naar toe wil. In Rotterdam draait hij in [Cinerama](http://www.cineramabios.nl/), [dagelijks om 4 uur ’s middags en 10 uur ’s avonds](http://www.cineramabios.nl/cinerama/film.php?id=356).
 

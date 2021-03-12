@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Via een [geheim menu](http://www.i-hacked.com/Misc/Random-Stuff/Hacking-Coke-Machines.html) kun je uitvinden hoeveel drankjes zijn verkocht of hoeveel geld er in de cola machine zit.
 

@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [bank,economie,geld,video,bank,economie,geld,video]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Topberaad bij [De Nederlandse Bank](http://www.dnb.nl) over [Fortis](http://www.fortis.nl)?
 

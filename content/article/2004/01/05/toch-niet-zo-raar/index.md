@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Weblogger [walnoot](http://www.walnoot.com/) heeft Jan Peter Balkenende een geslaagd Kerstkado bezorgd: wie op Google zocht op “[raar kapsel](http://www.regering.nl/bewindslieden/kabinet/ministers/mpbalkenendecv.jsp?ComponentID=17241&SourcePageID=17346)” trof bovenaan de biografie van onze MP. Inmiddels is de actie zo’n succes gebleken, dat de bio niet meer op de eerste pagina voorkomt, maar louter nieuwberichten die refereren aan deze [Google bom](http://www.google.nl/search?q=raar+kapsel).
 

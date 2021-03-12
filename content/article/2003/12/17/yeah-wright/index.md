@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Vandaag is het precies 100 jaar geleden dat de [Wright Brothers](http://www.google.nl/search?q=wright+brothers) voor het eerst vlogen.
 

@@ -6,8 +6,5 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [BBC News](http://news.bbc.co.uk/) heeft videobeelden van de gevangen genomen Saddam Hussein (met baard).

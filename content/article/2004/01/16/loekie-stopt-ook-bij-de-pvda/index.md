@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Recent werd bekend, dat [Loekie de Leeuw](http://info.omroep.nl/ster?nav=blljEsHCfDjCkF) bij de STER met pensioen gaat. Hiervoor loopt de actie [Red Loekie](http://www.redloekie.tk/) om hem te redden.
 

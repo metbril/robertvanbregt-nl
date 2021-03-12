@@ -7,7 +7,4 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [golf,humor,sport,video,youtube,golf,humor,sport,video,youtube]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---

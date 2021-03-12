@@ -5,7 +5,6 @@ tags:
     - meta
     - grav
     - wordpress
-author: 'Robert van Bregt'
 featured_image: spanner-3013129_1920.jpg
 images:
     - spanner-3013129_1920.jpg

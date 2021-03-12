@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Vandaag is de [Torres del Paine oostwand expeditie 2005](http://www.bigwall.nl/2004torresdelpaine/home.htm#pata05) van start gegaan.
 

@@ -2,15 +2,12 @@
 title: 'Twitter uitgelegd'
 published: true
 date: '2008-07-08 13:10:00'
-metadata:
-    author: Robert van Bregt
 tags:
     - video
     - youtube
     - internet
     - twitter
 post_id: 1730
-author: Robert van Bregt
 ---
 
 ![Twitter Bird](/images/2008/05/twitter-bird.gif?w=128)

@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [apple,computers,gadgets,mac,macbook,notebook,apple,computers,gadgets,mac,macbook,notebook]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [](https://www.apple.com/nl/macbookair/)
 

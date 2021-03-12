@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [Engadget](http://www.engadget.com/) heeft advertenties toegevoegd aan [zijn RSS feeds](http://www.engadget.com/rss.xml):
 

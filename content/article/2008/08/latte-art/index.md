@@ -12,9 +12,6 @@ tags:
     - technologie
     - video
     - youtube
-author: 'Robert van Bregt'
-metadata:
-    author: 'Robert van Bregt'
 ---
 
 Koffieliefhebber en geek tegelijk? Bouw dan een latte art printing machine, zoals in bijgaand filmje te zien is.

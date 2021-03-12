@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [film,klimmen,film,klimmen]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Via de nieuwsgroep [nl.sport.klim+bergsport](news:nl.sport.klim+bergsport) kwam ik er achter dat de [verfilming](http://www.imdb.com/title/tt0379557/) van het wereldberoemde klimboek Touching the Void (Over de rand) van [Joe Simpson](http://www.noordinaryjoe.co.uk/) binnenkort in Nederland in de [bioscoop](http://www.biosagenda.nl/index.php?action=film&filmID=8856) komt. Die ga ik zeker bezoeken.
 

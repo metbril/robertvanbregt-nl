@@ -6,8 +6,5 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Gisteren werd bekend dat Jeroen van Inkel weg mag bij [Radio 538](http://www.radio538.nl/) en aan de slag kan bij [Radio Veronica](http://www.radioveronica.nl/). Zou het er ondanks alle ontkenningen toch nog van komen dat het legendarische duo [Curry & Van Inkel](http://clogwog.net/cenvi/) terugkomt?

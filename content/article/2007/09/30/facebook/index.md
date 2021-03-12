@@ -7,8 +7,5 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [blogging,facebook,wordpress.com,blogging,facebook,wordpress.com]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Met de [Facebook applicatie voor WordPress.com](http://wordpress.com/blog/2007/07/18/facebook/) geinstalleerd zou deze post in mijn profiel moeten verschijnen…

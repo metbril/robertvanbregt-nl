@@ -6,8 +6,5 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Vanavond om 20.30 uur op [SBS6](http://www.sbsnet.nl/) de klimfilm [Vertical Limit](http://us.imdb.com/title/tt0190865/). Effe lekker op de bank onderuit!

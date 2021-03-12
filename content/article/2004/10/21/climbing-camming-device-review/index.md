@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Op de site van Climbing staat “[the ultimate camming-device review](http://www.climbing.com/equipment/cams212/)“”. Dus, voor wie niet kan kiezen: snel lezen!
 

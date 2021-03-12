@@ -6,8 +6,5 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Haloscan biedt nu ook een [Trackback](http://haloscan.com/tb/comments/107712516474263353) functie. Het wordt steeds beter op het Net.

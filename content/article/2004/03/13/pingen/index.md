@@ -6,8 +6,5 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [Neil Turner](http://www.neilturner.me.uk/2004/Jan/30/pinging_service_rundown.html) geeft aan welke servers je zou moeten pingen.

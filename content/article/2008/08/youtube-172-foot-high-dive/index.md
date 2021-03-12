@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [schoonspringen,sport,springen,video,water,youtube,schoonspringen,sport,springen,video,water,youtube]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 **Update**: de oorspronkelijke video is van YouTube verwijderd, maar ik heb een andere kopie gevonden.
 

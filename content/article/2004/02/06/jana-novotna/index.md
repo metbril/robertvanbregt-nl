@@ -6,8 +6,5 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [Jana Novotna](http://groups.yahoo.com/group/jananovotnaclub/) is van een goed jaar. Van een goede maand zelfs. En helemaal van [de juiste dag](http://www.bastei.de/tag/10/10_02.htm).

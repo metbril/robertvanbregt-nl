@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [download,gratis,itunes,mp3,muziek,download,gratis,itunes,mp3,muziek]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 ![iTunes Logo](/images/2008/02/itunes-logo.thumbnail.png)
 

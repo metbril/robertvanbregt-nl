@@ -7,8 +7,5 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [gratis,mp3,muziek,gratis,mp3,muziek]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 CNet heeft een site gelanceerd waar [gratis MP3](http://music.download.com/) bestanden te downloaden zijn. Natuurlijk alleen van artiesten die hieraan zelf mee willen werken.

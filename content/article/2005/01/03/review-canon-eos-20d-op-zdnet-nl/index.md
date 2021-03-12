@@ -6,8 +6,5 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [ZDNet.nl](http://www.zdnet.nl/reviews.cfm?id=41840): “SLR-camera van de bovenste plank”

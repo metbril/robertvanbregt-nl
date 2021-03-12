@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Herbert Blankensteijn meldt in zijn [column van 25 mei](http://www4.hccnet.nl/404/404.cfm?id=734) dat Bill Gates gaat bloggen. Niet dus. Ik denk, overigens net als Herman, dat Bill Gates geld ruikt. Ooit onderschatte hij het potentieel van het Internet, maar dat heeft hij inmiddels ruimschoots goedgemaakt. [Internet Explorer](http://www.microsoft.com/ie) is nu zo’n beetje marktleider onder de browsers.
 

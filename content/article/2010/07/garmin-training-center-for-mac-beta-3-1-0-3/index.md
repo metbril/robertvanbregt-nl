@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [apple,fietsen,fitness,garmin,training,apple,fietsen,fitness,garmin,training]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Garmin heeft een nieuwe beta uitgebracht van haar [Garmin Training Center](http://www8.garmin.com/products/trainingcenter). De door iedere sporter verguisde software is ietsje beter geworden. Ik gebruik het zelf zo nu en dan, bijvoorbeeld om het profiel van mijn Edge eenvoudig aan te passen.
 

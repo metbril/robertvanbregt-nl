@@ -6,8 +6,5 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Kijk, Bob is de [trackback](http://www.mijnkopthee.nl/piv/includes/tb/tb.php?tb_id=2023) voor Pivot aan het testen… Dat belooft wat.

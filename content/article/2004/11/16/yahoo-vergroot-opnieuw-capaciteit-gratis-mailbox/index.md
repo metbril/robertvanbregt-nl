@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [nu.nl/internet](http://nu.nl/news.jsp?n=441881&c=50): “[Yahoo](http://www.yahoo.com/) heeft maandag besloten de opslagcapaciteit op te schroeven van 100 MB naar 250 MB.”
 

@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [download,humor,joran,mp3,muziek,download,humor,joran,mp3,muziek]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Nog een twijfelgevalletje… [Somertijd](http://www.somertijd.nl) heeft op de melodie van Boten Anna van Bass Hunter een nieuwe versie gemaakt: [Boten Joran](http://www.zshare.net/audio/72842899d85a62)!
 

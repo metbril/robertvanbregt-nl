@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Sinds gisteren [Fiep Westendorp](http://www.fiepwestendorp.nl/) overleed zijn [Jip en Janneke](http://www.jipenjanneke.nl/) echte weeskinderen geworden.
 

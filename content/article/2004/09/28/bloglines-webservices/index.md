@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [Bloglines ](https://web.archive.org/web/20050207105915/http://www.bloglines.com/services/api/listsubs):”The listsubs function is used to retrieve subscription information fora given Bloglines account. It requires HTTP Basic authentication, wherethe username is the email address of the Bloglines account, and thepassword is the same password used to access the account through theBloglines web site.”
 

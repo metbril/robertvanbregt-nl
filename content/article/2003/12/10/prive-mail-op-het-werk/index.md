@@ -6,8 +6,5 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [Nederlandse werknemer mailt graag prive op het werk](http://www.nu.nl/news.jsp?n=243401&c=50)

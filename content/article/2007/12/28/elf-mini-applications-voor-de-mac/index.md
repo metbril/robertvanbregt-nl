@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [draagbaar,freeware,gratis,mac,osx,software,usb,draagbaar,freeware,gratis,mac,osx,software,usb]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 ***Update**: je kunt nog meer [mac freeware](http://breggologisch.wordpress.com/mac-os-x/) op mijn blog vinden*
 

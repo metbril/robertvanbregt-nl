@@ -6,8 +6,5 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [Thomas Goetz](http://www.ted.com/speakers/thomas_goetz.html) doet een pleidooi om de presentatie van medische gegevens volledig te herontwerpen met de patient als uitgangspunt.

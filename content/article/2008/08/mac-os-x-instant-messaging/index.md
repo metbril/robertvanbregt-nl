@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [adium,aim,amsn,apple,chat,colloquy,freeware,gtalk,icq,im,instant messaging,irc,jabber,mac,opensource,osx,skype,software,video,voip,adium,aim,amsn,apple,chat,colloquy,freeware,gtalk,icq,im,instant messaging,irc,jabber,mac,opensource,osx,skype,software,video,voip]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 *Dit artikel maakt onderdeel uit van de [serie](/mac-os-x/) Mac OS X Freeware en Open Source Software.*
 

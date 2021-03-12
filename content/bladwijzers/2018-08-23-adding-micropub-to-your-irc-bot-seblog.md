@@ -7,7 +7,6 @@ tags:
     - indieweb
     - micropub
 post_id: 2845
-author: 'Robert van Bregt'
 bookmark-of: 'https://seblog.nl/2017/08/19/6/micropub-irc-bot'
 ---
 

@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [fietsen,track,fietsen,track]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Vandaag had ik de gelegenheid om vanuit Ouddorp naar huis te fietsen. Via de kortste route is dat ruim 65 kilometer, maar ik had zin een een leuke rit. Dus heb ik met de [Fietsrouteplanner van de Fietsersbond](http://www.fietsersbond.nl/fietsrouteplanner) via de alom bekende fietsknooppunten een route uitgezet.
 

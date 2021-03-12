@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Een tijdje geleden schreef ik over een fietstocht die ik reed [rond het water van Rotterdam](/over-door-en-onder-water-1526/ "Over, door en onder water"). Die route had ik eerst op [RouteYou](http://www.routeyou.nl) geplaatst en er hiervandaan naar verwezen, zodat mensen daar het routekaartje konden bekijken en eventueel de track downloaden voor hun GPS.
 

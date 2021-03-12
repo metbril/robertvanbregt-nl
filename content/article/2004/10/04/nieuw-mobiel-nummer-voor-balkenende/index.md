@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Op de weblog [Berryenberrie.nl](https://web.archive.org/web/20050207110754/http://62.93.239.30/home/) werd het mobiele telefoonnummer van o.a. Balkenende geplaatst. Daardoor heeft JP nu een nieuw nummer nodig.
 

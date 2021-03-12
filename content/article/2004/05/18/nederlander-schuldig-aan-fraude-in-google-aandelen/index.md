@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [aandelen,fraude,google,aandelen,fraude,google]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Een Nederlander heeft bekend dat hij niet-bestaande aandelen van Google heeft verkocht. Van de ontvangen 500.000 dollar had hij een deel al uitgegeven.
 

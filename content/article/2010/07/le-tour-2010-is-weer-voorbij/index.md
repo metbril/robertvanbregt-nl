@@ -7,8 +7,5 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [fietsen,fietsen]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [![Tour de Sloggi 2010](/wp-content/uploads/2010/07/tourdesloggi2010.jpg "tourdesloggi2010")](/wp-content/uploads/2010/07/tourdesloggi2010.jpg)

@@ -6,8 +6,5 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 [![](/wp-content/uploads/2009/12/ramses.jpg "Ramses")](/wp-content/uploads/2009/12/ramses.jpg)

@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [humor,joran,video,youtube,humor,joran,video,youtube]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 De nieuwste videoclip van Joran is nu te bewonderen op YouTube. 🙂
 

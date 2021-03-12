@@ -6,9 +6,6 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Wil je met de trein vanaf Rotterdam Blaak om 9 uur op Den Haag CS zijn, dan vraag je Google.nl gewoon “[Rotterdam Blaak – Den Haag CS aankomst 9:00](http://www.google.nl/search?hl=nl&q=Rotterdam+Blaak+-+Den+Haag+CS+aankomst+09%3A00&lr=)“.
 

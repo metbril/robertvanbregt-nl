@@ -7,9 +7,6 @@ taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
 tags: [rotterdam,rotterdam]
-author: Robert van Bregt
-metadata:
-    author: Robert van Bregt
 ---
 Post voor [Niels Post](http://www.nielspost.nl/), geadresseerd aan Erasmusbrug nummer 1… Beeldend kunstenaar Niels Post heeft als kunstwerk en grap een brievenbus op de Erasmusbrug gelijmd en zichzelf een brief gestuurd. Inmiddels komen er, met dank aan het internet, brieven uit de hele wereld op dit adres aan. bron: [AD.nl](http://www.ad.nl/rotterdam/stad/article351089.ece)
 
