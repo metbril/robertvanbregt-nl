@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [telefoon,telefoon]
+tags: [telefoon,telefoon]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

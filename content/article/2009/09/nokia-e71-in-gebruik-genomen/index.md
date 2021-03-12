@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [gadgets,mobiel,nokia,symbian,gadgets,mobiel,nokia,symbian]
+tags: [gadgets,mobiel,nokia,symbian,gadgets,mobiel,nokia,symbian]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [kanker,livestrong,kanker,livestrong]
+tags: [kanker,livestrong,kanker,livestrong]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

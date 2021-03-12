@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [apple,mac,media,video,youtube,apple,mac,media,video,youtube]
+tags: [apple,mac,media,video,youtube,apple,mac,media,video,youtube]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

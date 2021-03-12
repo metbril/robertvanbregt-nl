@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [apple,computers,gadgets,mac,macbook,notebook,apple,computers,gadgets,mac,macbook,notebook]
+tags: [apple,computers,gadgets,mac,macbook,notebook,apple,computers,gadgets,mac,macbook,notebook]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

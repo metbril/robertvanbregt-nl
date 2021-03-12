@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [apple,iphone,stevejobs,video,wwdc,youtube,apple,iphone,stevejobs,video,wwdc,youtube]
+tags: [apple,iphone,stevejobs,video,wwdc,youtube,apple,iphone,stevejobs,video,wwdc,youtube]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

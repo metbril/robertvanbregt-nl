@@ -3,7 +3,7 @@ title: Achmed de dode terrorist zingt een kerstliedje
 post_id: 46
 date: '2007-12-25T06:44:26+00:00'
 taxonomy:
-    tags: [humor,tv,video,youtube]
+tags: [humor,tv,video,youtube]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [technologie,technologie]
+tags: [technologie,technologie]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

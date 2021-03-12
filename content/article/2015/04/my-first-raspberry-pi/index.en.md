@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [computers,english,raspberrypi,computers,english,raspberrypi]
+tags: [computers,english,raspberrypi,computers,english,raspberrypi]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

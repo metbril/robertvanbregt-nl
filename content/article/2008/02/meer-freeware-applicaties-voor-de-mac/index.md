@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [apple,freeware,gratis,mac,opensource,osx,software,apple,freeware,gratis,mac,opensource,osx,software]
+tags: [apple,freeware,gratis,mac,opensource,osx,software,apple,freeware,gratis,mac,opensource,osx,software]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

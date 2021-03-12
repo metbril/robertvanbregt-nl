@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [schoonspringen,sport,springen,video,water,youtube,schoonspringen,sport,springen,video,water,youtube]
+tags: [schoonspringen,sport,springen,video,water,youtube,schoonspringen,sport,springen,video,water,youtube]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

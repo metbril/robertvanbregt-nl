@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [mac,mac]
+tags: [mac,mac]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

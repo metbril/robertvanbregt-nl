@@ -3,7 +3,7 @@ title: Bijna
 post_id: 683
 date: '2004-05-13T17:55:17+00:00'
 taxonomy:
-    tags: [film,klimmen]
+tags: [film,klimmen]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

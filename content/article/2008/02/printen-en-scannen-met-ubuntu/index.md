@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [hp,linux,printer,scanner,ubuntu,hp,linux,printer,scanner,ubuntu]
+tags: [hp,linux,printer,scanner,ubuntu,hp,linux,printer,scanner,ubuntu]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

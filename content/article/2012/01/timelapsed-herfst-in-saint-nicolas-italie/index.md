@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [video,video]
+tags: [video,video]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

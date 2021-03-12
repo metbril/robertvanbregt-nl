@@ -3,7 +3,7 @@ title: Avatars in Leopard
 post_id: 48
 date: '2007-12-28T16:22:40+00:00'
 taxonomy:
-    tags: [adresboek,apple,avatar,contact,mac,osx]
+tags: [adresboek,apple,avatar,contact,mac,osx]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

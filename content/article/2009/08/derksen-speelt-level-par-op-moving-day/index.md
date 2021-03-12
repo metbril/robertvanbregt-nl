@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [golf,sport,video,golf,sport,video]
+tags: [golf,sport,video,golf,sport,video]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

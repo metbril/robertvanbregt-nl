@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [blackberry,curve,gadgets,gprs,gsm,mobiel,smartphone,telefoon,blackberry,curve,gadgets,gprs,gsm,mobiel,smartphone,telefoon]
+tags: [blackberry,curve,gadgets,gprs,gsm,mobiel,smartphone,telefoon,blackberry,curve,gadgets,gprs,gsm,mobiel,smartphone,telefoon]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [campagne,golf,humor,zon,campagne,golf,humor,zon]
+tags: [campagne,golf,humor,zon,campagne,golf,humor,zon]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

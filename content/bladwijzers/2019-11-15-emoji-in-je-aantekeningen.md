@@ -8,7 +8,7 @@ bookmark_of:
     content: "(Thanks to @mikeormerod for reminding me to finish this post!)
 One thing I’ve found myself doing a bunch recently is highlighting interesting lines in meeting or booknotes. I suppose you could do whatever you want, but I’ve been using ⭐️ for importance/insight, ❗️for actions, and ❓for ..."
     published: 2019-10-22T02:05:00+00:00
-    tags: [drafts;ios;automation;world-of-textfiles;productivity;textfiles]
+tags: [drafts;ios;automation;world-of-textfiles;productivity;textfiles]
     author:
         name: Evan Travers
         url: http://evantravers.com

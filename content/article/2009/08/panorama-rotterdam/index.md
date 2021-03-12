@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [fotografie,panorama,rotterdam,fotografie,panorama,rotterdam]
+tags: [fotografie,panorama,rotterdam,fotografie,panorama,rotterdam]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

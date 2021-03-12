@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [boek,kinderen,boek,kinderen]
+tags: [boek,kinderen,boek,kinderen]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

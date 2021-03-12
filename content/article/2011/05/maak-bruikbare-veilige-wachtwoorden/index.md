@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [informatiebeveiliging,internet,informatiebeveiliging,internet]
+tags: [informatiebeveiliging,internet,informatiebeveiliging,internet]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

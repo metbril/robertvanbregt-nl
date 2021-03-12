@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [rotterdam,rotterdam]
+tags: [rotterdam,rotterdam]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

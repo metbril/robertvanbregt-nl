@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [download,humor,joran,mp3,muziek,download,humor,joran,mp3,muziek]
+tags: [download,humor,joran,mp3,muziek,download,humor,joran,mp3,muziek]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

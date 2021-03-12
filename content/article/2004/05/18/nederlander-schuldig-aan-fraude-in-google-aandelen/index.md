@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [aandelen,fraude,google,aandelen,fraude,google]
+tags: [aandelen,fraude,google,aandelen,fraude,google]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

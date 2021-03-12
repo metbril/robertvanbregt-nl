@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [crumpler,fietsen,gear,spullenboel,tas,crumpler,fietsen,gear,spullenboel,tas]
+tags: [crumpler,fietsen,gear,spullenboel,tas,crumpler,fietsen,gear,spullenboel,tas]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

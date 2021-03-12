@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [adresboek,contacten,plaxo,synchronisatie,adresboek,contacten,plaxo,synchronisatie]
+tags: [adresboek,contacten,plaxo,synchronisatie,adresboek,contacten,plaxo,synchronisatie]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

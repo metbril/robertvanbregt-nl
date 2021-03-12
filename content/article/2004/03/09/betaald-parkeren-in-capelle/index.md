@@ -3,7 +3,7 @@ title: Betaald parkeren in Capelle
 post_id: 486
 date: '2004-03-09T08:58:57+00:00'
 taxonomy:
-    tags: [lokaal, capelle]
+tags: [lokaal, capelle]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

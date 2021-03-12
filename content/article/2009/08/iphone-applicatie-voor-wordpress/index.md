@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [blogging,iphone,blogging,iphone]
+tags: [blogging,iphone,blogging,iphone]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

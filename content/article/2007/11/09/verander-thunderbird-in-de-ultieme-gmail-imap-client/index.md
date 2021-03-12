@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [email,gmail,google,imac,thunderbird,email,gmail,google,imac,thunderbird]
+tags: [email,gmail,google,imac,thunderbird,email,gmail,google,imac,thunderbird]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

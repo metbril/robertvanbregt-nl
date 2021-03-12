@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [apple,bsd,fonts,hacks,iphone,ipod,ipodtouch,jailbreak,openssh,ssh,terminal,touch,apple,bsd,fonts,hacks,iphone,ipod,ipodtouch,jailbreak,openssh,ssh,terminal,touch]
+tags: [apple,bsd,fonts,hacks,iphone,ipod,ipodtouch,jailbreak,openssh,ssh,terminal,touch,apple,bsd,fonts,hacks,iphone,ipod,ipodtouch,jailbreak,openssh,ssh,terminal,touch]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

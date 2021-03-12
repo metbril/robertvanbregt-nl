@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [blogging,irak,blogging,irak]
+tags: [blogging,irak,blogging,irak]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

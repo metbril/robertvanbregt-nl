@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [google,idols,muziek,google,idols,muziek]
+tags: [google,idols,muziek,google,idols,muziek]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

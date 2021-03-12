@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [apple,fietsen,fitness,garmin,training,apple,fietsen,fitness,garmin,training]
+tags: [apple,fietsen,fitness,garmin,training,apple,fietsen,fitness,garmin,training]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt

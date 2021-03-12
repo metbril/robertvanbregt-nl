@@ -6,7 +6,7 @@ published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
-    tags: [bank,economie,geld,video,bank,economie,geld,video]
+tags: [bank,economie,geld,video,bank,economie,geld,video]
 author: Robert van Bregt
 metadata:
     author: Robert van Bregt
