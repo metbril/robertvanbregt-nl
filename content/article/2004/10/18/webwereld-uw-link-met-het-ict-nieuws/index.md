@@ -2,7 +2,6 @@
 title: WebWereld. Uw link met het ICT-nieuws.
 post_id: 760
 date: '2004-10-18T15:11:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

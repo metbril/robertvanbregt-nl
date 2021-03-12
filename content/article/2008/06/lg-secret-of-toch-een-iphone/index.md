@@ -2,7 +2,6 @@
 title: LG Secret of toch een iPhone?
 post_id: 1729
 date: '2008-06-22T08:44:45+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

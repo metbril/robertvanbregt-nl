@@ -2,7 +2,6 @@
 title: Download details Microsoft Calculator Plus
 post_id: 789
 date: '2004-09-21T08:55:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

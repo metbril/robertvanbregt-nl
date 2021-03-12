@@ -2,7 +2,6 @@
 title: Fitna de Film is uitgebracht
 post_id: 75
 date: '2008-03-27T19:54:46+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

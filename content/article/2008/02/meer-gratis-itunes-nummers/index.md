@@ -2,7 +2,6 @@
 title: Meer gratis iTunes nummers
 post_id: 63
 date: '2008-02-15T06:30:47+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

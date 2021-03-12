@@ -2,7 +2,6 @@
 title: Nederlandse expeditie Patagonië gestart
 post_id: 306
 date: '2005-01-06T10:45:59+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

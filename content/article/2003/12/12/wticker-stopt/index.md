@@ -2,7 +2,6 @@
 title: wticker stopt
 post_id: 380
 date: '2003-12-12T15:52:58+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

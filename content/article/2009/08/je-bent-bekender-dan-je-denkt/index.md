@@ -1,6 +1,5 @@
 ---
 title: 'Je bent bekender dan je denkt'
-published: true
 date: '2009-08-16 08:56:00'
 tags:
     - internet

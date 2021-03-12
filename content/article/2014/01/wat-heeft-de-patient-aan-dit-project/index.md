@@ -1,7 +1,6 @@
 ---
 title: 'Wat heeft de patiënt aan dit project?'
 media_order: 4762141677_b1a857bb0e_o.jpg
-published: true
 date: '2014-01-25 22:33:00'
 tags:
     - inspiratie

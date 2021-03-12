@@ -2,7 +2,6 @@
 title: Loekie stopt ook bij de PvdA
 post_id: 411
 date: '2004-01-16T14:20:28+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

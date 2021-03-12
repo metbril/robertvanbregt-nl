@@ -2,7 +2,6 @@
 title: Mobiele dief
 post_id: 454
 date: '2004-02-09T17:18:01+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

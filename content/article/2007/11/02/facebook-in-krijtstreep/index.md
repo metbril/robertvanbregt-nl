@@ -2,7 +2,6 @@
 title: Facebook in krijtstreep
 post_id: 1590
 date: '2007-11-02T06:01:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

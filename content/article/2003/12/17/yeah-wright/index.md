@@ -2,7 +2,6 @@
 title: yeah wright
 post_id: 388
 date: '2003-12-17T15:53:08+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

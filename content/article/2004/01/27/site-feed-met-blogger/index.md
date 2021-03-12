@@ -2,7 +2,6 @@
 title: Site feed met Blogger
 post_id: 431
 date: '2004-01-27T15:53:42+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

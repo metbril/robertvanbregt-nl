@@ -2,7 +2,6 @@
 title: Pingen
 post_id: 527
 date: '2004-03-13T07:21:52+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

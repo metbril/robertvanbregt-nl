@@ -2,7 +2,6 @@
 title: De boot van Joran van der Sloot
 post_id: 62
 date: '2008-02-10T16:29:36+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

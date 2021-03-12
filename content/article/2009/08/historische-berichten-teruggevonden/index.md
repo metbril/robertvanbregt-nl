@@ -2,7 +2,6 @@
 title: Historische berichten teruggevonden
 post_id: 141
 date: '2009-08-11T13:18:43+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

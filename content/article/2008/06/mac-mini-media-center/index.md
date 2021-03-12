@@ -2,7 +2,6 @@
 title: Mac Mini Media Center
 post_id: 80
 date: '2008-06-13T05:38:54+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

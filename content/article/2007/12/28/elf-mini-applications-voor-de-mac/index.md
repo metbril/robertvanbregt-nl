@@ -2,7 +2,6 @@
 title: Elf mini-applications voor de Mac
 post_id: 49
 date: '2007-12-28T16:45:26+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

@@ -1,6 +1,5 @@
 ---
 title: 'Adding Micropub to your IRC bot | Seblog'
-published: true
 date: '2018-08-23 14:26:00'
 tags:
     - irc

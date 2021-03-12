@@ -2,7 +2,6 @@
 title: "Jons Guides: Bluetooth Help Guide: Introduction"
 post_id: 784
 date: '2004-09-22T14:32:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

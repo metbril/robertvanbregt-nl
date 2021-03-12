@@ -2,7 +2,6 @@
 title: Weblog ziet er strak uit op de iPad
 post_id: 1330
 date: '2011-03-25T14:32:29+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

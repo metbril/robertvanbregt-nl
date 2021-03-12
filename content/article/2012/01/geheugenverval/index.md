@@ -1,6 +1,5 @@
 ---
 title: Geheugenverval
-published: true
 date: '2012-01-13 14:21:00'
 tags:
     - technologie

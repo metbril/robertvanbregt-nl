@@ -2,7 +2,6 @@
 title: del.icio.us
 post_id: 787
 date: '2004-09-21T13:20:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

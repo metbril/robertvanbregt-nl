@@ -1,6 +1,5 @@
 ---
 title: 'Twitter uitgelegd'
-published: true
 date: '2008-07-08 13:10:00'
 tags:
     - video

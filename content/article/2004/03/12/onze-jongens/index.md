@@ -2,7 +2,6 @@
 title: Onze jongens
 post_id: 679
 date: '2004-03-12T20:58:42+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

@@ -2,7 +2,6 @@
 title: Webfeeds lezen met minder
 post_id: 1346
 date: '2011-07-30T09:05:51+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

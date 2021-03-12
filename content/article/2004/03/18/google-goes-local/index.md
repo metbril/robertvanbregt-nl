@@ -2,7 +2,6 @@
 title: Google goes local
 post_id: 531
 date: '2004-03-18T13:41:21+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

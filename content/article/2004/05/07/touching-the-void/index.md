@@ -2,7 +2,6 @@
 title: Touching the Void
 post_id: 671
 date: '2004-05-07T14:21:20+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

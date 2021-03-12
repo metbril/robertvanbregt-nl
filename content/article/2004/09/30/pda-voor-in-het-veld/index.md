@@ -2,7 +2,6 @@
 title: PDA voor in het veld
 post_id: 776
 date: '2004-09-30T09:09:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

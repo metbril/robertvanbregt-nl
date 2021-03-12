@@ -2,7 +2,6 @@
 title: Vuurvos
 post_id: 456
 date: '2004-02-14T05:52:35+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

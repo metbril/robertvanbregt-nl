@@ -2,7 +2,6 @@
 title: Stevenote 60 seconden
 post_id: 79
 date: '2008-06-13T04:55:24+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

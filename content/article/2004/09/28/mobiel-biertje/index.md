@@ -2,7 +2,6 @@
 title: Mobiel biertje?
 post_id: 778
 date: '2004-09-28T16:06:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

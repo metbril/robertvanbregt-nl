@@ -2,7 +2,6 @@
 title: Even Williams verlaat Blogger en Google
 post_id: 771
 date: '2004-10-05T09:10:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

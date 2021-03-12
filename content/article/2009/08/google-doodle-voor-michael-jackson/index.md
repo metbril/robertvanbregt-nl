@@ -2,7 +2,6 @@
 title: Google Doodle voor Michael Jackson
 post_id: 733
 date: '2009-08-29T06:10:47+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

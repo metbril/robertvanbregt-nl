@@ -2,7 +2,6 @@
 title: QuickBird Images of Tsunami Sites
 post_id: 277
 date: '2005-01-03T13:07:06+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

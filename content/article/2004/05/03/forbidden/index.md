@@ -2,7 +2,6 @@
 title: Forbidden
 post_id: 660
 date: '2004-05-03T17:31:02+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

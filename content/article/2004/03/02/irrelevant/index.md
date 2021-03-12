@@ -2,7 +2,6 @@
 title: Irrelevant
 post_id: 476
 date: '2004-03-02T15:54:23+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

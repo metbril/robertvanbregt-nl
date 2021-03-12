@@ -2,7 +2,6 @@
 title: iMac, therefore I exist
 post_id: 1721
 date: '2007-08-27T07:53:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

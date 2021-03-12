@@ -2,7 +2,6 @@
 title: Ubuntu op de laptop van de familie
 post_id: 1720
 date: '2007-08-12T08:11:11+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

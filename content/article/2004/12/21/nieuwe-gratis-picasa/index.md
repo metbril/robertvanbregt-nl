@@ -2,7 +2,6 @@
 title: Nieuwe gratis Picasa
 post_id: 292
 date: '2004-12-21T12:36:44+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

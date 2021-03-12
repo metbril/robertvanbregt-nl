@@ -2,7 +2,6 @@
 title: Bloglines references
 post_id: 572
 date: '2004-04-27T15:11:56+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

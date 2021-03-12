@@ -2,7 +2,6 @@
 title: Le Tour 2010 is weer voorbij
 post_id: 1128
 date: '2010-07-26T08:08:37+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

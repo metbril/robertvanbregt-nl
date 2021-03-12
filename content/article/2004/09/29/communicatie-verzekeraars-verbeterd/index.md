@@ -2,7 +2,6 @@
 title: Communicatie verzekeraars verbeterd
 post_id: 777
 date: '2004-09-29T14:09:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

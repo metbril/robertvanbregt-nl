@@ -2,7 +2,6 @@
 title: Van Ouddorp naar Capelle
 post_id: 1560
 date: '2012-08-02T20:25:25+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

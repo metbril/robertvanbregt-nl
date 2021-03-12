@@ -2,7 +2,6 @@
 title: Over de rand
 post_id: 460
 date: '2004-02-20T14:40:10+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

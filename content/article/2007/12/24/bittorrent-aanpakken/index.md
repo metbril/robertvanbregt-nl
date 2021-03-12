@@ -1,6 +1,5 @@
 ---
 title: 'BitTorrent aanpakken'
-published: true
 date: '2007-12-24 21:05:00'
 tags:
     - politiek

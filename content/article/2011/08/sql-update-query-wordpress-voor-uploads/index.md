@@ -2,7 +2,6 @@
 title: SQL update query WordPress voor uploads
 post_id: 1429
 date: '2011-08-25T11:16:25+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

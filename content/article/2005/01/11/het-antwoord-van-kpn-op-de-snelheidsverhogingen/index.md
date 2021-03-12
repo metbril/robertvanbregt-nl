@@ -2,7 +2,6 @@
 title: Het antwoord van KPN op de snelheidsverhogingen
 post_id: 212
 date: '2005-01-11T08:13:57+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

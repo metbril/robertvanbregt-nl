@@ -2,7 +2,6 @@
 title: Microdrive
 post_id: 458
 date: '2004-02-17T09:49:53+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

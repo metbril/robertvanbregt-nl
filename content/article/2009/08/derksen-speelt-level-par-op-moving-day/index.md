@@ -2,7 +2,6 @@
 title: Derksen speelt level par op moving day
 post_id: 703
 date: '2009-08-23T10:05:51+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

@@ -2,7 +2,6 @@
 title: Unhackable, alleen voor nerds
 post_id: 65
 date: '2008-02-17T06:57:49+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

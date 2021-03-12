@@ -2,7 +2,6 @@
 title: Mooi
 post_id: 534
 date: '2004-03-18T21:46:39+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

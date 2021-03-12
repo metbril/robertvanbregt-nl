@@ -2,7 +2,6 @@
 title: Facebook
 post_id: 1585
 date: '2007-09-30T12:29:05+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

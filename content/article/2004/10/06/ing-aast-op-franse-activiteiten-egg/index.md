@@ -2,7 +2,6 @@
 title: ING aast op Franse activiteiten Egg
 post_id: 767
 date: '2004-10-06T09:08:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

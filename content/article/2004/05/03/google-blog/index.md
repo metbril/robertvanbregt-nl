@@ -2,7 +2,6 @@
 title: Google Blog
 post_id: 655
 date: '2004-05-03T09:52:46+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

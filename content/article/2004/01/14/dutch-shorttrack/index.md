@@ -2,7 +2,6 @@
 title: Dutch Shorttrack
 post_id: 400
 date: '2004-01-14T21:20:52+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

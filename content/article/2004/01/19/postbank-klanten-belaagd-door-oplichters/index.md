@@ -2,7 +2,6 @@
 title: Postbank-klanten belaagd door oplichters
 post_id: 415
 date: '2004-01-19T09:30:43+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

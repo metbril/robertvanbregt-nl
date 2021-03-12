@@ -2,7 +2,6 @@
 title: Nooit meer een uitzending missen
 post_id: 1586
 date: '2007-08-17T06:18:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

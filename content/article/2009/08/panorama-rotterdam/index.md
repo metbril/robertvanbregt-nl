@@ -2,7 +2,6 @@
 title: Panorama Rotterdam
 post_id: 653
 date: '2009-08-21T15:16:11+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

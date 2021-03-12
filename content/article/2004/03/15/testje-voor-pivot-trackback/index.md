@@ -2,7 +2,6 @@
 title: Testje voor Pivot Trackback
 post_id: 529
 date: '2004-03-15T08:43:03+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

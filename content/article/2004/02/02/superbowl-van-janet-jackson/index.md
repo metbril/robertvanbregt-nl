@@ -2,7 +2,6 @@
 title: Superbowl van Janet Jackson
 post_id: 442
 date: '2004-02-02T16:55:09+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

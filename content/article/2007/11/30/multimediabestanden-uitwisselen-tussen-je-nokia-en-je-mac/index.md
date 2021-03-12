@@ -2,7 +2,6 @@
 title: Multimediabestanden uitwisselen tussen je Nokia en je Mac
 post_id: 1592
 date: '2007-11-30T08:59:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

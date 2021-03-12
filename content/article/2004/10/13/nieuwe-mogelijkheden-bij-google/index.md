@@ -2,7 +2,6 @@
 title: Nieuwe mogelijkheden bij Google
 post_id: 170
 date: '2004-10-13T17:21:35+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

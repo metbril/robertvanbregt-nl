@@ -2,7 +2,6 @@
 title: Het komt dichterbij
 post_id: 657
 date: '2004-05-03T17:12:34+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

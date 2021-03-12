@@ -2,7 +2,6 @@
 title: Climbing Camming-Device Review
 post_id: 158
 date: '2004-10-21T10:24:15+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

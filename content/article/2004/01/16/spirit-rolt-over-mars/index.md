@@ -2,7 +2,6 @@
 title: Spirit rolt over Mars
 post_id: 403
 date: '2004-01-16T14:09:33+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

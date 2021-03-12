@@ -2,7 +2,6 @@
 title: Everest expeditie gestaakt
 post_id: 774
 date: '2004-10-04T12:28:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

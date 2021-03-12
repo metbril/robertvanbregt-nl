@@ -2,7 +2,6 @@
 title: vanbregt.nl
 post_id: 363
 date: '2003-11-30T08:32:05+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

@@ -2,7 +2,6 @@
 title: Een goede vrijdag
 post_id: 552
 date: '2004-04-09T13:45:43+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

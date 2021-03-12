@@ -2,7 +2,6 @@
 title: OQO
 post_id: 165
 date: '2004-10-14T15:48:53+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

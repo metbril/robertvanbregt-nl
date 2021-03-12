@@ -2,7 +2,6 @@
 title: Herontwerp de presentatie van medische informatie voor patienten
 post_id: 1312
 date: '2011-03-18T14:57:43+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

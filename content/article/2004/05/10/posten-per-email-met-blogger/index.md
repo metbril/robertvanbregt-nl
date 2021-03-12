@@ -2,7 +2,6 @@
 title: Posten per email met Blogger
 post_id: 674
 date: '2004-05-10T12:56:01+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

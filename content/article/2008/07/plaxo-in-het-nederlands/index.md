@@ -2,7 +2,6 @@
 title: Plaxo in het Nederlands
 post_id: 1731
 date: '2008-07-26T07:35:50+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

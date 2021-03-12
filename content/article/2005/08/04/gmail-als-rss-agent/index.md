@@ -2,7 +2,6 @@
 title: Gmail als RSS agent
 post_id: 174
 date: '2005-08-04T22:24:02+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

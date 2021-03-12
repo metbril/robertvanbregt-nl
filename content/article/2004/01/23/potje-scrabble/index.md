@@ -2,7 +2,6 @@
 title: Potje scrabble
 post_id: 421
 date: '2004-01-23T16:18:02+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

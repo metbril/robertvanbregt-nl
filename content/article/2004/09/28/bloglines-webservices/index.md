@@ -2,7 +2,6 @@
 title: Bloglines Webservices
 post_id: 779
 date: '2004-09-28T09:18:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

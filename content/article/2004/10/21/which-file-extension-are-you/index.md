@@ -2,7 +2,6 @@
 title: Which File Extension Are You?
 post_id: 154
 date: '2004-10-21T13:56:31+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

@@ -2,7 +2,6 @@
 title: Feed readers toevoegen aan Firefox
 post_id: 1722
 date: '2007-09-01T05:45:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

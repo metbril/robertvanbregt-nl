@@ -2,7 +2,6 @@
 title: Eerste echte digitale boek gelezen
 post_id: 1469
 date: '2011-12-09T21:40:27+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

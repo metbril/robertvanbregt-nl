@@ -2,7 +2,6 @@
 title: Drukte bij De Nederlandse Bank op zaterdagavond
 post_id: 140
 date: '2008-09-28T11:25:44+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

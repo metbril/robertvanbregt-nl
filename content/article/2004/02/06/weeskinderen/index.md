@@ -2,7 +2,6 @@
 title: Weeskinderen
 post_id: 444
 date: '2004-02-06T12:31:21+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

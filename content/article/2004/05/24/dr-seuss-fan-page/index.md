@@ -2,7 +2,6 @@
 title: Dr. Seuss Fan Page
 post_id: 806
 date: '2004-05-24T21:11:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

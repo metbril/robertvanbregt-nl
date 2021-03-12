@@ -2,7 +2,6 @@
 title: Ruud van Rooij lives strong!
 post_id: 1113
 date: '2010-06-01T21:46:10+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

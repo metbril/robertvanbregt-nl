@@ -2,7 +2,6 @@
 title: Heerlijk weer fietsen
 post_id: 1292
 date: '2011-03-12T20:27:41+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

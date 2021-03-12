@@ -2,7 +2,6 @@
 title: Nieuw mobiel nummer voor Balkenende
 post_id: 772
 date: '2004-10-04T16:43:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

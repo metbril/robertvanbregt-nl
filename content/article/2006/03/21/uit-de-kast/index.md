@@ -2,7 +2,6 @@
 title: Uit de kast
 post_id: 543
 date: '2006-03-21T00:00:22+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

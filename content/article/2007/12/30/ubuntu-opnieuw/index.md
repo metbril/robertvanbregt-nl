@@ -2,7 +2,6 @@
 title: Ubuntu opnieuw
 post_id: 50
 date: '2007-12-30T12:04:37+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

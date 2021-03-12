@@ -2,7 +2,6 @@
 title: Post voor Post op Erasmusbrug 1
 post_id: 547
 date: '2006-03-23T08:16:58+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

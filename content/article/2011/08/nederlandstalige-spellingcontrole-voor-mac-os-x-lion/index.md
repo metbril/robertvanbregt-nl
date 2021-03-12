@@ -2,7 +2,6 @@
 title: Nederlandstalige spellingcontrole voor Mac OS X Lion
 post_id: 54
 date: '2011-08-25T21:40:23+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

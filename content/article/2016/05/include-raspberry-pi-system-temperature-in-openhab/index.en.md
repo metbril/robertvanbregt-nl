@@ -1,6 +1,5 @@
 ---
 title: 'Include Raspberry Pi System Temperature in openHAB'
-published: true
 date: '2016-05-13 14:00:00'
 category:
     - Ongecategoriseerd

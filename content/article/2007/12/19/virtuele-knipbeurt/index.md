@@ -2,7 +2,6 @@
 title: Virtuele knipbeurt
 post_id: 1593
 date: '2007-12-19T09:39:42+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

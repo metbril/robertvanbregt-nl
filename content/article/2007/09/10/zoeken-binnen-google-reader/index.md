@@ -2,7 +2,6 @@
 title: Zoeken binnen Google Reader
 post_id: 1588
 date: '2007-09-10T14:52:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

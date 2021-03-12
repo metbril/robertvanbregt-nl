@@ -2,7 +2,6 @@
 title: Haloscan biedt nu ook Trackback aan
 post_id: 466
 date: '2004-02-25T21:32:04+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

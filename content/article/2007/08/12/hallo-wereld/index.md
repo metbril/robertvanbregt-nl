@@ -2,7 +2,6 @@
 title: Hallo wereld!
 post_id: 1719
 date: '2007-08-12T07:46:51+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

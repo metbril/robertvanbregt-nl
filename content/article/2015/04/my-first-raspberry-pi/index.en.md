@@ -2,7 +2,6 @@
 title: My First Raspberry Pi
 post_id: 74
 date: '2015-04-03T06:57:08+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

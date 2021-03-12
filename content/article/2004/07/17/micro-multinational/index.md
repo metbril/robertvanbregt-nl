@@ -2,7 +2,6 @@
 title: Micro-Multinational
 post_id: 799
 date: '2004-07-17T15:40:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

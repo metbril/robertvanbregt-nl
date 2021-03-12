@@ -2,7 +2,6 @@
 title: Firefox versnellen
 post_id: 221
 date: '2005-01-03T20:46:33+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

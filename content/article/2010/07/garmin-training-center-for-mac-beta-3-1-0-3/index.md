@@ -2,7 +2,6 @@
 title: Garmin Training Center for Mac beta 3.1.0.3
 post_id: 1121
 date: '2010-07-21T10:58:27+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

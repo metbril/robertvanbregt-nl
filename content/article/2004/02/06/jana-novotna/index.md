@@ -2,7 +2,6 @@
 title: Jana Novotna
 post_id: 449
 date: '2004-02-06T12:43:12+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

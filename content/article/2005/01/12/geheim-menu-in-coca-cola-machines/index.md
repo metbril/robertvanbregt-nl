@@ -2,7 +2,6 @@
 title: geheim menu in coca cola machines
 post_id: 746
 date: '2005-01-12T08:31:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

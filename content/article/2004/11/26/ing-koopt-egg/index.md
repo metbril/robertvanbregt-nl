@@ -2,7 +2,6 @@
 title: ING koopt Egg
 post_id: 143
 date: '2004-11-26T14:59:07+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

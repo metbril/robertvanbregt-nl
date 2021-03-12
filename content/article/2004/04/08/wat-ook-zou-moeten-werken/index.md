@@ -2,7 +2,6 @@
 title: Wat ook zou moeten werken
 post_id: 549
 date: '2004-04-08T17:39:50+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

@@ -2,7 +2,6 @@
 title: SchoolBANK gaat errug commercieel
 post_id: 219
 date: '2005-01-06T15:29:33+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

@@ -2,7 +2,6 @@
 title: Review of lenses for the Canon EOS 300D and EOS 10D
 post_id: 215
 date: '2005-01-10T16:23:56+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

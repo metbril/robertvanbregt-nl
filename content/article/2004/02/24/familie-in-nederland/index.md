@@ -2,7 +2,6 @@
 title: Familie in Nederland
 post_id: 462
 date: '2004-02-24T09:23:23+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

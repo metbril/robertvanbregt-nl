@@ -2,7 +2,6 @@
 title: GMail Drive shell extension
 post_id: 765
 date: '2004-10-11T08:58:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

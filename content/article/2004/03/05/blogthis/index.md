@@ -2,7 +2,6 @@
 title: BlogThis
 post_id: 480
 date: '2004-03-05T11:53:58+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

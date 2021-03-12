@@ -2,7 +2,6 @@
 title: Maarten Visser een van de gelukkigen
 post_id: 780
 date: '2004-09-27T09:25:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

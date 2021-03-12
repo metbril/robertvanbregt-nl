@@ -2,7 +2,6 @@
 title: Help the Googlebot understand your web site [Scribbling.net]
 post_id: 788
 date: '2004-09-21T13:11:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

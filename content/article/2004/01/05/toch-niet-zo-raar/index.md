@@ -2,7 +2,6 @@
 title: Toch niet zo raar
 post_id: 393
 date: '2004-01-05T20:18:50+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

@@ -2,7 +2,6 @@
 title: Extra bloggeraccount T610
 post_id: 667
 date: '2004-05-04T17:49:22+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

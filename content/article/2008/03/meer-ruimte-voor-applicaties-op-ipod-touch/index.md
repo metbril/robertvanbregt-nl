@@ -2,7 +2,6 @@
 title: Meer ruimte voor applicaties op iPod Touch
 post_id: 73
 date: '2008-03-14T14:14:19+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

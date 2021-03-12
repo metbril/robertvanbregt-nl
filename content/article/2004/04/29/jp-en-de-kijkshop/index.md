@@ -2,7 +2,6 @@
 title: JP en de Kijkshop
 post_id: 577
 date: '2004-04-29T14:29:51+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

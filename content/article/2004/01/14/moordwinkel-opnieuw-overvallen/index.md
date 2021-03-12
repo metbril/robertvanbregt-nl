@@ -2,7 +2,6 @@
 title: Moordwinkel opnieuw overvallen
 post_id: 398
 date: '2004-01-14T10:08:23+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

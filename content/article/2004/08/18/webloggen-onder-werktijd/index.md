@@ -2,7 +2,6 @@
 title: Webloggen onder werktijd?
 post_id: 793
 date: '2004-08-18T09:01:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

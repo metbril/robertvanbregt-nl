@@ -2,7 +2,6 @@
 title: David en Goliath
 post_id: 418
 date: '2004-01-20T09:12:55+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

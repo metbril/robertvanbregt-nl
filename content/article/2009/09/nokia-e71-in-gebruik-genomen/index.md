@@ -2,7 +2,6 @@
 title: Nokia E71 in gebruik genomen
 post_id: 1087
 date: '2009-09-25T16:21:10+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

@@ -2,7 +2,6 @@
 title: Fair aan de Maas 2006
 post_id: 537
 date: '2006-04-22T00:00:36+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

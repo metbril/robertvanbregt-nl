@@ -2,7 +2,6 @@
 title: Druk
 post_id: 482
 date: '2004-03-06T11:55:14+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

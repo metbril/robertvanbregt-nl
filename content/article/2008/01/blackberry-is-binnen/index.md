@@ -2,7 +2,6 @@
 title: Blackberry is binnen
 post_id: 53
 date: '2008-01-03T20:00:23+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

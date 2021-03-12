@@ -2,7 +2,6 @@
 title: Thunderbird Address Book Palm Sync Fixed
 post_id: 775
 date: '2004-09-30T10:22:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

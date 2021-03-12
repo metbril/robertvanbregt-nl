@@ -2,7 +2,6 @@
 title: Meer freeware applicaties voor de Mac
 post_id: 1727
 date: '2008-02-27T18:41:07+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

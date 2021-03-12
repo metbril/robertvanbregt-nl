@@ -2,7 +2,6 @@
 title: Waarom projecten mislukken
 post_id: 798
 date: '2004-07-18T20:44:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

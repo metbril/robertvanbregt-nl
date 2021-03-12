@@ -2,7 +2,6 @@
 title: My Yahoo! heeft een RSS reader
 post_id: 468
 date: '2004-02-26T09:45:23+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

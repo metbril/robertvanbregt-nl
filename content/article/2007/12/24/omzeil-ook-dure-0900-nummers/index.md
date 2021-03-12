@@ -2,7 +2,6 @@
 title: Omzeil ook dure 0900-nummers
 post_id: 45
 date: '2007-12-24T20:16:34+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

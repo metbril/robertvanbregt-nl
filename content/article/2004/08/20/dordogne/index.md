@@ -2,7 +2,6 @@
 title: Dordogne
 post_id: 790
 date: '2004-08-20T09:05:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

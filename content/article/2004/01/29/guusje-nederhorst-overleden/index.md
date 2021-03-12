@@ -2,7 +2,6 @@
 title: Guusje Nederhorst overleden
 post_id: 436
 date: '2004-01-29T20:18:59+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

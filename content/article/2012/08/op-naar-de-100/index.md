@@ -2,7 +2,6 @@
 title: Op naar de 100
 post_id: 1573
 date: '2012-08-02T20:59:19+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

@@ -2,7 +2,6 @@
 title: Unbuntu revisited
 post_id: 83
 date: '2008-06-27T11:18:45+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

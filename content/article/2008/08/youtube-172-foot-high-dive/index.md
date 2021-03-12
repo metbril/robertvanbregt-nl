@@ -2,7 +2,6 @@
 title: Wereldrecord schoonspringen
 post_id: 1733
 date: '2008-08-10T06:47:48+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

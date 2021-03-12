@@ -2,7 +2,6 @@
 title: "Hebben: de MacBook Air"
 post_id: 55
 date: '2008-01-16T06:32:25+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

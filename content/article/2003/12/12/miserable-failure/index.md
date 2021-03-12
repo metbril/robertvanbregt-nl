@@ -2,7 +2,6 @@
 title: Miserable failure
 post_id: 382
 date: '2003-12-12T20:38:40+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

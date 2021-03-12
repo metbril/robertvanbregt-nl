@@ -2,7 +2,6 @@
 title: Ja of Nee
 post_id: 1095
 date: '2009-10-18T11:34:59+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

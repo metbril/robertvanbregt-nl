@@ -2,7 +2,6 @@
 title: Kan een iPhone worden geblend?
 post_id: 1734
 date: '2008-08-10T07:03:06+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

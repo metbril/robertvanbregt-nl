@@ -2,7 +2,6 @@
 title: Weblog hype
 post_id: 478
 date: '2004-03-03T10:24:26+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

@@ -2,7 +2,6 @@
 title: OpenStreetMap kaarten integreren met je WordPress weblog
 post_id: 1545
 date: '2012-07-06T10:27:39+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

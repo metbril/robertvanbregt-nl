@@ -2,7 +2,6 @@
 title: iBand, de iPhone als muziekinstrument
 post_id: 68
 date: '2008-02-19T07:43:34+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

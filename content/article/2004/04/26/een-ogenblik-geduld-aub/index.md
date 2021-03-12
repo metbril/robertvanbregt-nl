@@ -2,7 +2,6 @@
 title: Een ogenblik geduld a.u.b.
 post_id: 570
 date: '2004-04-26T11:13:12+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

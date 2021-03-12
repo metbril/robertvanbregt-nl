@@ -2,7 +2,6 @@
 title: Googlism
 post_id: 800
 date: '2004-07-02T13:14:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

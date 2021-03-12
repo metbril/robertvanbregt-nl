@@ -2,7 +2,6 @@
 title: Saldo-informatie Postbank via MSN
 post_id: 782
 date: '2004-09-23T13:25:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

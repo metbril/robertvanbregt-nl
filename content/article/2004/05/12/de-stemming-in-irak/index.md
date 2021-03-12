@@ -2,7 +2,6 @@
 title: De stemming in Irak
 post_id: 681
 date: '2004-05-12T21:26:55+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

@@ -2,7 +2,6 @@
 title: Gratis MP3
 post_id: 575
 date: '2004-04-27T15:15:28+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

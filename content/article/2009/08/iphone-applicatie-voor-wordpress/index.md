@@ -2,7 +2,6 @@
 title: iPhone applicatie voor WordPress
 post_id: 559
 date: '2009-08-16T10:34:52+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

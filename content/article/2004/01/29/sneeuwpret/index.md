@@ -2,7 +2,6 @@
 title: Sneeuwpret
 post_id: 434
 date: '2004-01-29T20:08:22+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

@@ -2,7 +2,6 @@
 title: Kansloos, -arm of -rijk
 post_id: 365
 date: '2003-12-02T09:28:39+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

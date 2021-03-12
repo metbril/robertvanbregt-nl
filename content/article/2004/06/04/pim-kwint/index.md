@@ -2,7 +2,6 @@
 title: Pim Kwint
 post_id: 802
 date: '2004-06-04T08:33:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

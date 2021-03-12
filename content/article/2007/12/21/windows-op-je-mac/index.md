@@ -2,7 +2,6 @@
 title: Windows op je Mac
 post_id: 1725
 date: '2007-12-21T11:07:16+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

@@ -2,7 +2,6 @@
 title: Zon verstandig tijdens het golfen
 post_id: 588
 date: '2009-08-20T07:52:28+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

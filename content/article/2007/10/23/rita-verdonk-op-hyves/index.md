@@ -2,7 +2,6 @@
 title: Rita Verdonk op Hyves!
 post_id: 1589
 date: '2007-10-23T08:38:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

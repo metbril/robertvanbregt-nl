@@ -2,7 +2,6 @@
 title: Jailbreak van mijn iPod Touch
 post_id: 71
 date: '2008-03-14T10:34:29+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

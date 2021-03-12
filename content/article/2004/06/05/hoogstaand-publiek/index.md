@@ -2,7 +2,6 @@
 title: Hoogstaand publiek
 post_id: 801
 date: '2004-06-05T13:24:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

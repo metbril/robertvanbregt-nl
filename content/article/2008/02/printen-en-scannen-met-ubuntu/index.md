@@ -2,7 +2,6 @@
 title: Printen en scannen met Ubuntu
 post_id: 57
 date: '2008-02-02T07:10:49+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

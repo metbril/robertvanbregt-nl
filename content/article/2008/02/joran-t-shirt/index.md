@@ -2,7 +2,6 @@
 title: Joran T-shirt
 post_id: 60
 date: '2008-02-10T16:19:24+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

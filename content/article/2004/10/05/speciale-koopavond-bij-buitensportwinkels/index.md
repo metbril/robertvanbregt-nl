@@ -2,7 +2,6 @@
 title: Speciale koopavond bij buitensportwinkels
 post_id: 770
 date: '2004-10-05T09:20:00+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

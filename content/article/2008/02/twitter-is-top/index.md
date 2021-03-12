@@ -1,6 +1,5 @@
 ---
 title: 'Twitter is top'
-published: true
 date: '2008-02-06 19:39:00'
 tags:
     - twitter

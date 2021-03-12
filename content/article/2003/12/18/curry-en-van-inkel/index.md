@@ -2,7 +2,6 @@
 title: Curry en Van Inkel
 post_id: 391
 date: '2003-12-18T20:58:55+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]

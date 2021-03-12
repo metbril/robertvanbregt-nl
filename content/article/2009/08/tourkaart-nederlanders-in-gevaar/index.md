@@ -2,7 +2,6 @@
 title: Tourkaart Nederlanders in gevaar
 post_id: 647
 date: '2009-08-20T10:03:10+00:00'
-published: true
 taxonomy:
     migration-status: review
     category: [Ongecategoriseerd]
