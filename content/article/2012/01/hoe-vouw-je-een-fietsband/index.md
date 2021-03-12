@@ -4,14 +4,11 @@ published: true
 date: '2012-01-07 11:45:00'
 metadata:
     author: 'Robert van Bregt'
-taxonomy:
-    category:
-        - Ongecategoriseerd
-    tags:
-        - Buiten
-        - fietsen
-        - video
-        - youtube
+tags:
+    - Buiten
+    - fietsen
+    - video
+    - youtube
 post_id: 64
 author: 'Robert van Bregt'
 ---

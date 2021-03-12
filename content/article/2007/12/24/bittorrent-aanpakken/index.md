@@ -4,15 +4,12 @@ published: true
 date: '2007-12-24 21:05:00'
 metadata:
     author: Robert van Bregt
-taxonomy:
-    category:
-        - Ongecategoriseerd
-    tags:
-        - politiek
-        - internet
-        - humor
-        - bittorrent
-        - torrent
+tags:
+    - politiek
+    - internet
+    - humor
+    - bittorrent
+    - torrent
 post_id: 1726
 author: Robert van Bregt
 ---

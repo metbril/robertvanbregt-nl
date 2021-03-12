@@ -3,16 +3,15 @@ title: 'GNOME Do'
 post_id: 601
 date: '2008-12-12 17:12:00'
 published: true
-taxonomy:
-    migration-status: review
-    tags:
-        - computers
-        - lifehacking
-        - linux
-        - mac
-        - osx
-        - ubuntu
-        - windows
+migration-status: review
+tags:
+    - computers
+    - lifehacking
+    - linux
+    - mac
+    - osx
+    - ubuntu
+    - windows
 author: 'Robert van Bregt'
 metadata:
     author: 'Robert van Bregt'

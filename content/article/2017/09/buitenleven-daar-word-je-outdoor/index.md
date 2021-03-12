@@ -4,12 +4,9 @@ published: true
 date: '2017-09-29 15:27:00'
 metadata:
     author: Robert van Bregt
-taxonomy:
-    category:
-        - Ongecategoriseerd
-    tags:
-        - inspiratie
-        - Buiten
+tags:
+    - inspiratie
+    - Buiten
 post_id: 44
 author: Robert van Bregt
 ---

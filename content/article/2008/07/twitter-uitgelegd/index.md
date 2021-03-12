@@ -4,14 +4,11 @@ published: true
 date: '2008-07-08 13:10:00'
 metadata:
     author: Robert van Bregt
-taxonomy:
-    category:
-        - Ongecategoriseerd
-    tags:
-        - video
-        - youtube
-        - internet
-        - twitter
+tags:
+    - video
+    - youtube
+    - internet
+    - twitter
 post_id: 1730
 author: Robert van Bregt
 ---

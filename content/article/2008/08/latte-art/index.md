@@ -3,16 +3,15 @@ title: 'Latte Art'
 post_id: 1732
 date: '2008-08-01 15:48:00'
 published: true
-taxonomy:
-    tags:
-        - geek
-        - koffie
-        - latte
-        - melk
-        - nerd
-        - technologie
-        - video
-        - youtube
+tags:
+    - geek
+    - koffie
+    - latte
+    - melk
+    - nerd
+    - technologie
+    - video
+    - youtube
 author: 'Robert van Bregt'
 metadata:
     author: 'Robert van Bregt'

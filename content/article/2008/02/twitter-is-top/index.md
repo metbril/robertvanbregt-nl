@@ -4,9 +4,8 @@ published: true
 date: '2008-02-06 19:39:00'
 metadata:
     author: Robert van Bregt
-taxonomy:
-    tags:
-        - twitter
+tags:
+    - twitter
 post_id: 59
 author: Robert van Bregt
 ---

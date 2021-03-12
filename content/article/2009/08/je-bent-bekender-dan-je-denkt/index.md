@@ -4,15 +4,12 @@ published: true
 date: '2009-08-16 08:56:00'
 metadata:
     author: Robert van Bregt
-taxonomy:
-    category:
-        - Ongecategoriseerd
-    tags:
-        - internet
-        - humor
-        - campagne
-        - hyves
-        - marketing
+tags:
+    - internet
+    - humor
+    - campagne
+    - hyves
+    - marketing
 post_id: 494
 author: Robert van Bregt
 ---

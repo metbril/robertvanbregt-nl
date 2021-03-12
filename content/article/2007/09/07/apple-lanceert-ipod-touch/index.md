@@ -3,12 +3,11 @@ title: 'Apple lanceert iPod touch'
 date: '2007-09-07 14:18:00'
 metadata:
     author: 'Robert van Bregt'
-taxonomy:
-    tags:
-        - apple
-        - muziek
-        - audio
-        - ipod
+tags:
+    - apple
+    - muziek
+    - audio
+    - ipod
 header_image: '0'
 post_id: 1723
 author: 'Robert van Bregt'

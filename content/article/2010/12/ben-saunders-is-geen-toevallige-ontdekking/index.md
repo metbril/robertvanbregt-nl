@@ -4,12 +4,11 @@ published: true
 date: '2010-12-15 09:21:00'
 metadata:
     author: Robert van Bregt
-taxonomy:
-    tags:
-        - video
-        - youtube
-        - tv
-        - tvoh
+tags:
+    - video
+    - youtube
+    - tv
+    - tvoh
 post_id: 1148
 author: Robert van Bregt
 ---

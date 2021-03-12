@@ -5,12 +5,11 @@ published: true
 date: '2014-01-25 22:33:00'
 metadata:
     author: Robert van Bregt
-taxonomy:
-    tags:
-        - inspiratie
-        - projectmanagement
-        - zorg
-        - uncategorized
+tags:
+    - inspiratie
+    - projectmanagement
+    - zorg
+    - uncategorized
 post_id: 86
 author: Robert van Bregt
 ---

@@ -4,13 +4,10 @@ published: true
 date: '2008-03-25 22:43:00'
 metadata:
     author: Robert van Bregt
-taxonomy:
-    category:
-        - Ongecategoriseerd
-    tags:
-        - bloggen
-        - internet
-        - twitter
+tags:
+    - bloggen
+    - internet
+    - twitter
 post_id: 1728
 author: Robert van Bregt
 ---

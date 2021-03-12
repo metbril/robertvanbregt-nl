@@ -3,10 +3,9 @@ title: 'Piratenpartij heeft humor'
 date: '2012-08-24 18:40:00'
 metadata:
     author: 'Robert van Bregt'
-taxonomy:
-    tags:
-        - politiek
-        - humor
+tags:
+    - politiek
+    - humor
 post_id: 1579
 author: 'Robert van Bregt'
 ---

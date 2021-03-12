@@ -4,11 +4,8 @@ published: true
 date: '2012-01-13 14:21:00'
 metadata:
     author: 'Robert van Bregt'
-taxonomy:
-    category:
-        - Ongecategoriseerd
-    tags:
-        - technologie
+tags:
+    - technologie
 post_id: 473
 author: 'Robert van Bregt'
 ---

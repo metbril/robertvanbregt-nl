@@ -5,13 +5,10 @@ published: true
 date: '2010-12-22 14:07:00'
 metadata:
     author: 'Robert van Bregt'
-taxonomy:
-    category:
-        - Ongecategoriseerd
-    tags:
-        - apple
-        - gadgets
-        - ipad
+tags:
+    - apple
+    - gadgets
+    - ipad
 header_image: '0'
 post_id: 1225
 author: 'Robert van Bregt'
