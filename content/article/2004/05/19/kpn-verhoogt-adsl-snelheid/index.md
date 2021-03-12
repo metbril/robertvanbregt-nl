@@ -4,11 +4,10 @@ published: true
 date: '2004-05-19 17:17:00'
 metadata:
     author: Robert van Bregt
-taxonomy:
-    tags:
-        - adsl
-        - internet
-        - kpn
+tags:
+    - adsl
+    - internet
+    - kpn
 post_id: 687
 author: Robert van Bregt
 ---
