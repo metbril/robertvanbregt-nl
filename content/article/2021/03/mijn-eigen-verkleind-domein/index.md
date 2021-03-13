@@ -1,7 +1,10 @@
 ---
 title: "Mijn Eigen Verkleind Domein"
 date: 2021-03-07T16:31:09+01:00
-draft: false
+tags:
+  - meta
+  - dns
+  - i18n
 ---
 Ben je de afkortingen `i18n` en `L10n` wel eens tegengekomen? Als je in de softwareontwikkeling werkt hoogstwaarschijnlijk wel. Ze staan respectievelijk voor [internationalization en localization][wikipedia]. De cijfers 18 en 10 verwijzen daarbij naar het aantal letters tussen de eerste en laatste letter.
 
