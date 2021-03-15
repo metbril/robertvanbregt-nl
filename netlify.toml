@@ -80,3 +80,9 @@
 #   to = "https://robertvanbregt.nl/:splat"
 #   status = 301
 #   force = true
+
+# redirect from WordPress default feed
+[[redirects]]
+  from = "/feed"
+  to = "/index.xml"
+  status = 301
