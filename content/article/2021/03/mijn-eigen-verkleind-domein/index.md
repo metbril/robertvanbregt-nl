@@ -1,5 +1,5 @@
 ---
-title: "Mijn Eigen Verkleind Domein"
+title: "Mijn eigen verkleind domein"
 date: 2021-03-07T16:31:09+01:00
 tags:
   - meta
