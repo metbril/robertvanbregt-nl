@@ -13,5 +13,5 @@ Mijn persoonlijke domeinnaam is [robertvanbregt.nl][lang]. Dat root-domein "`rob
 [wikipedia]: https://en.wikipedia.org/wiki/Internationalization_and_localization
 [lang]: https://robertvanbregt.nl/
 [kort]: https://r12t.nl/
-[nu1]: {{< ref "nu" >}}
+[nu1]: /nu
 [nu2]: https://r12t.nl/nu
