@@ -39,7 +39,7 @@ googleAnalytics = ""
 # content front matter format
 metaDataFormat = "yaml"
 
-summaryLength = 20  # default 70
+summaryLength = 70  # default 70
 
 # name and email are used in internal RSS template
 [author]
