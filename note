@@ -1,14 +1,10 @@
-# Create a new note
-# Slug is the NewBase60 value for the current time in full minutes
-# TODO: increase if already exists
+#!/usr/bin/env bash
 
 epoch=`date +%s`
-minutes=$((`date +%s`/60))
-seconds=$(($minutes*60))
 
-slug=`$HOME/bin/numtosxg.sh $minutes`
-folder=`date -r $seconds +"%Y/%m"`
-filepath=/note/$folder/$slug.md
+folder=`date -r $epoch +"%Y/%m"`
+filename=`date -r $epoch +"%Y-%m-%d"`-$epoch.md
+filepath=note/$folder/$filename
 
 # echo $filepath
 hugo new $filepath
