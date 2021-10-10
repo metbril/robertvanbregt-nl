@@ -9,5 +9,5 @@ Het wrange is, dat deze crisis voor mij ook heeft geleid tot mooie projecten. De
 [eerste]: https://nos.nl/artikel/2325438-mogelijk-nieuwe-coronabesmetting-maasstad-ziekenhuis-ic-tijdelijk-dicht.html
 [mz]: https://www.maasstadziekenhuis.nl/
 [jzojp]: https://www.dejuistezorgopdejuisteplek.nl/
-[slimme_pleisters]: {{< ref "/article/2019/11/gaat-u-even-op-de-sensor-liggen-vraagt-de-app" >}}
-[patient]: {{< ref "/article/2014/01/wat-heeft-de-patient-aan-dit-project" >}}
+[slimme_pleisters]: {{< ref "/posts/2019/11/gaat-u-even-op-de-sensor-liggen-vraagt-de-app" >}}
+[patient]: {{< ref "/posts/2014/01/wat-heeft-de-patient-aan-dit-project" >}}

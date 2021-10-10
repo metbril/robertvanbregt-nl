@@ -70,7 +70,7 @@ summaryLength = 70  # default 70
   favicon = "/favicon.ico"
 
   # Sections for home page content
-  mainSections = ["article", "note"]
+  mainSections = ["posts"]
 
   # ---------- grotius theme ----------
 
@@ -271,20 +271,20 @@ summaryLength = 70  # default 70
 
         [languages.en.menu]
 
-            [[languages.en.menu.main]]
-            name = "Blog"
-            weight = 10
-            url = "/posts"
+            # [[languages.en.menu.main]]
+            # name = "Blog"
+            # weight = 10
+            # url = "/posts"
 
             [[languages.en.menu.main]]
             name = "About"
             weight = 30
-            url = "/about"
+            url = "/en/about"
 
             [[languages.en.menu.main]]
             name = "Contact"
             weight = 40
-            url = "/contact"
+            url = "/en/contact"
 
 # explicitly specify taxonomies for coder theme which supports series
 [taxonomies]
