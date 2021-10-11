@@ -25,6 +25,7 @@ defaultContentLanguage = "nl"
 theme = "grotius"
 
 paginate = 10
+paginatePath = "pagina"
 canonifyUrls = true
 
 pluralizeListTitles = false
@@ -254,38 +255,6 @@ summaryLength = 70  # default 70
     weight = 190
     url = "/contact"
 
-# language overrides
-[languages]
-
-    [languages.nl] # stub
-      languageName = "nl 🇳🇱"
-      paginatePath = "pagina"
-
-    [languages.en]
-        languageName = "en 🇺🇸"
-
-        info = "Project manager. Automagician. Geek. Rotterdamned."
-        description = "Personal website of Robert van Bregt"
-        keywords = "blog, personal"
-        footerContent = "Improves the world and starts with himself."
-
-        [languages.en.menu]
-
-            # [[languages.en.menu.main]]
-            # name = "Blog"
-            # weight = 10
-            # url = "/posts"
-
-            [[languages.en.menu.main]]
-            name = "About"
-            weight = 30
-            url = "/en/about"
-
-            [[languages.en.menu.main]]
-            name = "Contact"
-            weight = 40
-            url = "/en/contact"
-
 # explicitly specify taxonomies for coder theme which supports series
 [taxonomies]
   category = "categories"
@@ -299,6 +268,7 @@ summaryLength = 70  # default 70
 
 [permalinks]
   # Specify for each section (= folder name)
+  posts = "/:year/:month/:day/:slug/"
   article = "/:year/:month/:day/:slug/"
   bladwijzers = "/:year/:month/:day/:slug/"
   likes = "/:year/:month/:day/:slug/"

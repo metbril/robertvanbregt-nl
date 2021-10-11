@@ -9,6 +9,8 @@ tags:
     - english
 syndicateto: 
     - 'https://github.com/openhab/openhab1-addons/wiki/Raspberry-Pi-System-Temperature'
+categories:
+    - English
 ---
 
 *(This post is also contributed to the openHAB wiki)*
