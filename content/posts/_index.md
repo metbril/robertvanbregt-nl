@@ -1,6 +1,6 @@
 ---
 title: Blog
-url: /blog
+url: blog
 menu: 
   main:
     weight: 1
