@@ -5,7 +5,7 @@ tags:
     - domotica
     - openhab
     - raspberrypi
-    - computers
+    - computer
     - english
 syndicateto: 
     - 'https://github.com/openhab/openhab1-addons/wiki/Raspberry-Pi-System-Temperature'

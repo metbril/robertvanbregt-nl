@@ -4,7 +4,7 @@ post_id: 54
 date: '2011-08-25T21:40:23+00:00'
 taxonomy:
     migration-status: review
-tags: [apple,computers,macos,apple,computers,macos]
+tags: [apple,computer,macos,apple,computer,macos]
 ---
 [LibreOffice](http://www.libreoffice.org), het Open  
  source alternatief voor [Microsoft  

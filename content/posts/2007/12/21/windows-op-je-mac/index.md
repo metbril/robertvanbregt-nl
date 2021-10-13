@@ -4,7 +4,7 @@ post_id: 1725
 date: '2007-12-21T11:07:16+00:00'
 taxonomy:
     migration-status: review
-tags: [apple,computers,mac,osx,vista,windows,xp,apple,computers,mac,osx,vista,windows,xp]
+tags: [apple,computer,mac,osx,vista,windows,xp,apple,computer,mac,osx,vista,windows,xp]
 ---
 [![Apple Logo](/images/2007/12/apple.thumbnail.gif)](/images/2007/12/apple.gif "Apple Logo")Op mactech is een uitgebreide [virtualisatie benchmark](http://www.mactech.com/articles/mactech/Vol.24/24.02/VirtualizationBenchmark/) uitgevoerd met [Boot Camp](http://www.apple.com/nl/macosx/features/bootcamp.html), [VMware Fusion](http://www.vmware.com/mac) and [Parallels](http://www.parallels.com/). Met deze producten kun je [Windows](http://www.microsoft.com/netherlands/windows/) op je [Mac](http://www.apple.com/nl/mac/) gebruiken. Zoals altijd is er niet één winnaar aan te wijzen, maar hangt het van je gebruiksdoel af wat voor jou de beste oplossing is:
 

@@ -4,7 +4,7 @@ post_id: 74
 date: '2015-04-03T06:57:08+00:00'
 taxonomy:
     migration-status: review
-tags: [computers,english,raspberrypi,computers,english,raspberrypi]
+tags: [computer,english,raspberrypi,computer,english,raspberrypi]
 categories:
   - English
 ---
