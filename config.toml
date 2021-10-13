@@ -22,7 +22,7 @@ defaultContentLanguage = "nl"
 
 ##################################################
 
-theme = "grotius"
+theme = "hugo-coder"
 
 paginate = 10
 paginatePath = "pagina"
@@ -96,7 +96,7 @@ summaryLength = 70  # default 70
   # Series see also post count
   maxSeeAlsoItems = 5
 
-  dateFormat = "2 January 2006"
+  dateFormat = "2-1-2006"
 
   hideFooter = false
   hideCredits = false
