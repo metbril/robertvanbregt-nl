@@ -211,25 +211,6 @@ summaryLength = 70  # default 70
   [params.indieweb]
     indiewebring = "✨🍟♥️"
 
-  [[params.indieweb.endpoint]]
-    rel = "authorization_endpoint"
-    url = "https://indieauth.com/auth"
-  [[params.indieweb.endpoint]]
-    rel = "token_endpoint"
-    url = "https://tokens.indieauth.com/token"
-  [[params.indieweb.endpoint]]
-    rel = "webmention"
-    url = "https://webmention.io/robertvanbregt.nl/webmention"
-  [[params.indieweb.endpoint]]
-    rel = "pingback"
-    url = "https://webmention.io/robertvanbregt.nl/xmlrpc"
-  [[params.indieweb.endpoint]]
-    rel = "micropub"
-    url = ""
-  [[params.indieweb.endpoint]]
-    rel = "microsub"
-    url = ""
-
   [[params.posttype]]
     name = "article"
     icon = "fa fa-file-text-o fa-fw"
