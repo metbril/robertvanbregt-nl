@@ -243,6 +243,14 @@ summaryLength = 70  # default 70
 [menu]
 
   [[menu.main]]
+    name = "Categoriën"
+    weight = 2
+    url = "/categorien"
+  [[menu.main]]
+    name = "Labels"
+    weight = 3
+    url = "/labels"
+  [[menu.main]]
     name = "Projecten"
     weight = 100
     url = "/projecten"
