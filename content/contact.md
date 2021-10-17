@@ -10,22 +10,21 @@ menu:
     name: Contact
     weight: 190
 ---
-Leuk dat je hier bent.
-
-## Tekstberichten
-
-Het liefst communiceer is via korte tekstberichten, en dan bij voorkeur via [Signal](https://signal.org/nl/), een [privacy-vriendelijk alternatief voor WhatsApp](https://www.fixjeprivacy.nl/tip/ruil-whatsapp-in-voor-een-privacyvriendelijk-alternatief/). Een alternatief is iMessage van Apple, en SMS werkt ook altijd.
-
-Heb je mijn mobiele telefoonnummer niet, dan kun je [een DM sturen via Twitter](https://robertvanbregt.nl/r/dm).
-
-Wil je me iets vertrouwelijks toesturen, doe dat dan in een bericht met [Signal](https://www.signal.org/) of stuur me een email met [ProtonMail](https://www.protonmail.com). En alleen als dat echt niet lukt, [stuur me dan een prive-bericht met Twitter](https://twitter.com/metbril).
+:wave: Hi. Leuk dat je hier bent.
 
 ## E-mail
 
-Heeft het geen haast, of heb je meer tekst nodig, dan kun je [een e-mail sturen](mailto:contact@robertvanbregt.nl).
+De eenvoudigste manier om contact op te nemen is [een e-mail sturen](mailto:contact@robertvanbregt.nl?subject=Hi). Normaal gesproken reageer ik binnen 24 uur op je bericht, maar heb een beetje geduld met me als het een keer ietsje langer duurt. :wink:
 
-Vertrouwelijke berichten kun je beter met PGP versleuteld sturen naar mijn e-mailadres **robertvanbregt** apestaartje [ProtonMail.com](https://protonmail.com/). Het eenvoudigst kan dat door daar eerst zelf een adres te maken. Gebruik je zelf al PGP, dan kun je hier mijn [publieke sleutel voor mijn Protonmail-adres](https://robertvanbregt.nl/key.asc) vinden.
+Vertrouwelijke berichten, bijvoorbeeld privé-foto's of documenten met persoonsgegevens, kun je beter versleuteld sturen naar mijn e-mailadres **robertvanbregt** apestaartje [ProtonMail.com](https://protonmail.com/).
+Het eenvoudigst kun je daarvoor eerst zelf [een mailadres maken bij ProtonMail](https://protonmail.com/signup) en het daarvandaan versturen.
+Gebruik je zelf al PGP, dan kun je de [publieke sleutel voor mijn Protonmail-adres](https://robertvanbregt.nl/key.asc) gebruiken met je normale e-mailadres.
 
-## Direct afspreken
+## Tekstberichten
 
-Als experiment kun je ook [direct afspreken](/afspreken) voor een privé-afspraak. Voor zakelijke afspraken moet je helaas op een andere manier contact zoeken.
+Het liefst communiceer ik echter via korte tekstberichten, en dan in het bijzonder via [Signal](https://signal.org/nl/), een [privacy-vriendelijk alternatief voor WhatsApp](https://www.fixjeprivacy.nl/tip/ruil-whatsapp-in-voor-een-privacyvriendelijk-alternatief/). 
+Een alternatief voor Signal is iMessage van Apple, en een ouderwetse SMS werkt ook altijd.
+
+## Twitter
+
+Wil je een kort bericht sturen, maar heb je mijn mobiele telefoonnummer niet, dan kun je [een DM sturen via Twitter](/r/dm). Maar weet dat ik mijn DM's niet heel frequent lees.
