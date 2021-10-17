@@ -9,6 +9,8 @@ theme = "hugo-coder"
 languageCode = "nl-nl"
 defaultContentLanguage = "nl"
 
+enableEmoji = true
+
 # Lazy menu
 # sectionPagesMenu = "main"
 
@@ -70,8 +72,6 @@ summaryLength = 70  # default 70
   # Sections for home page content
   mainSections = ["posts"]
 
-  enableTwemoji = true
-
   dateFormat = "2 January 2006"
 
   # ---------- SPECIFIC THEME VARIABLES hugo coder ----------
@@ -85,6 +85,7 @@ summaryLength = 70  # default 70
   # Series see also post count
   maxSeeAlsoItems = 5
 
+  enableTwemoji = true
 
   hideFooter    = false
   hideCredits   = false
