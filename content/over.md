@@ -1,7 +1,11 @@
 ---
 layout: page
 title: Over Robert van Bregt
-permalink: /over/
+url: over
+menu:
+  main:
+    name: Over
+    weight: 180
 ---
 
 Lees wat ik [nu aan het doen]({{<ref "nu" >}}) ben.

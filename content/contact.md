@@ -1,10 +1,14 @@
 ---
-title: Contact
+title: Hoe je met mij in contact kunt komen
 layout: page
 permalink: /contact
 navigation_weight: 90
 navigation_title: Contact
 sitemap: false
+menu:
+  main:
+    name: Contact
+    weight: 190
 ---
 Leuk dat je hier bent.
 
