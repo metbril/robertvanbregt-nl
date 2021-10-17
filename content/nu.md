@@ -10,6 +10,8 @@ Dit zijn de zaken (in volgorde van prioriteit/tijdsbesteding) waar ik nu mee bez
 
 ## Professioneel
 
+In het [Maasstad Ziekenhuis][maasstad] in [Rotterdam][rotterdam] werk ik momenteel vooral aan de grote veranderingen naar digitale zorg. Recent binnen het interne programma voor [de Juiste Zorg op de Juiste Plek][jzojp].
+
 - Thuiswerken. Sinds het begin van de pandemie werk ik vooral vanuit huis.
 - Digitaliseren van de zorg. Projecten voor slimme monitoring van vitale waarden en digitale informatie-uitwisseling met patiënten.
 - Automatiseren van de monsterverwerking van 3 klinisch chemisch laboratoria ‘op Zuid’.
@@ -26,4 +28,8 @@ Dit zijn de zaken (in volgorde van prioriteit/tijdsbesteding) waar ik nu mee bez
 
 Deze [Nu-pagina](http://nownownow.com/about) is gebaseerd op een [idee van Derek Sivers](http://sive.rs/nowff).
 
-*Deze pagina is voor het laatst bijgewerkt op 13 januari 2021.*
+*Deze pagina is voor het laatst bijgewerkt op 17 oktober 2021.*
+
+[maasstad]: https://www.maasstadziekenhuis.nl/
+[rotterdam]: https://www.rotterdam.nl/
+[jzojp]: https://www.dejuistezorgopdejuisteplek.nl/
