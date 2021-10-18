@@ -67,6 +67,18 @@
   status = 302
   force = true
 
+[[redirects]]
+  from = "/r/sync"
+  to = "https://www.sync.com/?_sync_refer=32fb708c0"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/r/dm"
+  to = "https://twitter.com/messages/compose?recipient_id=15417207&text=Hi!"
+  status = 302
+  force = true
+
 # Redirect domain aliases to primary domain
 [[redirects]]
   from = "https://robert.vanbregt.net/*"
