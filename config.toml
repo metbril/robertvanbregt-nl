@@ -79,8 +79,8 @@ summaryLength = 70  # default 70
   footerContent = "Verbetert de wereld en begint bij zichzelf."
 
   colorScheme   = "auto"
-  custom_css    = ["/css/custom.css"]
-  custom_js     = []
+  customCSS     = ["/css/custom.css"]
+  customJS      = []
 
   # Series see also post count
   maxSeeAlsoItems = 5
