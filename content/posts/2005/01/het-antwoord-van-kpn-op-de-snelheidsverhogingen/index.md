@@ -1,9 +1,7 @@
 ---
 title: Het antwoord van KPN op de snelheidsverhogingen
-post_id: 212
 date: '2005-01-11T08:13:57+00:00'
-taxonomy:
-    migration-status: review
+tags: [internet,adsl]
 ---
 [Op het forum van Chello Underground](http://www.chelloo.com/forum/index.php?topic=8142.0) is te lezen dat een medewerker van Planet heeft verklapt dat KPN waarschijnlijk de snelheid van zijn ADSL-verbindingen in februari zal verhogen.
 
