@@ -36,8 +36,8 @@ Alles wat ik hier schrijf en publiceer is mijn eigen materiaal en op persoonlijk
 
 Heel soms zal ik ook een link plaatsen naar producten en diensten, waarvoor ik iets terugkrijg. Bijvoorbeeld een heel klein beetje geld als jij via deze site iets koopt bij Bol.com, of extra opslagruimte of verlenging van een abonnement als ik nieuwe gebruikers aanbreng bij een dienst. Op die manier kun je mij een beetje [steunen]({{<ref "steun">}}).
 
-[{{< icon "fa fa-mastodon" >}}](https://mastodon.social/@metbril)
-[{{< icon "fa fa-flickr" >}}](https://flickr.com/photos/rtvb/)
+[{{< icon class="fa fa-mastodon" >}}](https://mastodon.social/@metbril)
+[{{< icon class="fa fa-flickr" >}}](https://flickr.com/photos/rtvb/)
 
 [tweakers]: https://tweakers.net/nieuws
 [bitsoffreedom]: https://www.bitsoffreedom.nl/doneren
