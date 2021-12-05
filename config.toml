@@ -100,40 +100,40 @@ summaryLength = 70  # default 70
 
   [[params.social]]
       name = "LinkedIn"
-      icon = "fa fa-linkedin"
+      icon = "fa fa-2x fa-linkedin"
       weight = 1
       url = "https://www.linkedin.com/in/robertvanbregt/"
       rel = "me"
       color = "#0077b5"
   [[params.social]]
       name = "Twitter"
-      icon = "fa fa-twitter"
+      icon = "fa fa-2x fa-twitter"
       weight = 2
       url = "https://twitter.com/robertvanbregt/"
       rel = "me"
       color = "#1da1f2"
   [[params.social]]
       name = "Github"
-      icon = "fa fa-github"
+      icon = "fa fa-2x fa-github"
       weight = 11
       url = "https://github.com/metbril/"
       rel = "me"
       color = "#4183c4"
   [[params.social]]
       name = "E-mail"
-      icon = "fa fa-gnupg"
+      icon = "fa fa-2x fa-gnupg"
       weight = 97
       url = "/key.asc"
       color = "#0093DD"
   [[params.social]]
       name = "E-mail"
-      icon = "fa fa-envelope"
+      icon = "fa fa-2x fa-envelope"
       weight = 98
       url = "mailto:contact@robertvanbregt.nl"
       rel = "me"
   [[params.social]]
       name = "RSS"
-      icon = "fa fa-rss"
+      icon = "fa fa-2x fa-rss"
       weight = 99
       url = "/index.xml"
       rel = "alternate"
