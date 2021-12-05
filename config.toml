@@ -113,67 +113,12 @@ summaryLength = 70  # default 70
       rel = "me"
       color = "#1da1f2"
   [[params.social]]
-      name = "Mastodon"
-      icon = "fa fa-mastodon"
-      weight = 3
-      url = "https://mastodon.social/@metbril"
-      rel = "me"
-      color = "#2b90d9"
-  [[params.social]]
       name = "Github"
       icon = "fa fa-github"
       weight = 11
       url = "https://github.com/metbril/"
       rel = "me"
       color = "#4183c4"
-  [[params.social]]
-      name = "Gitlab"
-      icon = "fa fa-gitlab"
-      weight = 12
-      url = "https://gitlab.com/metbril/"
-      rel = "me"
-      color = "#e2432a"
-  [[params.social]]
-      name = "Instagram"
-      icon = "fa fa-instagram"
-      weight = 21
-      url = "https://instagram.com/robertvanbregt/"
-      rel = "me"
-      color = "#c32aa3"
-  [[params.social]]
-      name = "Flickr"
-      icon = "fa fa-flickr"
-      weight = 22
-      url = "https://flickr.com/photos/rtvb/"
-      rel = "me"
-      color = "#f40083"
-  [[params.social]]
-      name = "Pocket"
-      icon = "fa fa-get-pocket"
-      weight = 31
-      url = "https://getpocket.com/@metbril"
-      rel = "me"
-      color = "#ee4056"
-  [[params.social]]
-      name = "Reddit"
-      icon = "fa fa-reddit"
-      weight = 32
-      url = "https://www.reddit.com/user/digineut"
-      rel = "me"
-      color = "#ff4500"
-  [[params.social]]
-      name = "Telegram"
-      icon = "fa fa-telegram"
-      weight = 33
-      url = "https://t.me/robertvanbregt"
-      rel = "me"
-      color = "#0088cc"
-  [[params.social]]
-      name = "Trello"
-      icon = "fa fa-trello"
-      weight = 33
-      url = "https://trello.com/metbril"
-      rel = "me"
   [[params.social]]
       name = "E-mail"
       icon = "fa fa-gnupg"

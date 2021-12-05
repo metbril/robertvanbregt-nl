@@ -28,3 +28,18 @@ Een alternatief voor Signal is iMessage van Apple, en een ouderwetse SMS werkt o
 ## Twitter
 
 Wil je een kort bericht sturen, maar heb je mijn mobiele telefoonnummer niet, dan kun je [een DM sturen via Twitter](/r/dm). Maar weet dat ik mijn DM's niet heel frequent lees.
+
+## Elders
+
+Je kunt me ook elders op het Internet terugvinden:
+
+[{{< icon class="fa fa-2x fa-linkedin" >}}](https://www.linkedin.com/in/robertvanbregt/) 
+[{{< icon class="fa fa-2x fa-twitter" >}}](https://twitter.com/robertvanbregt/) 
+[{{< icon class="fa fa-2x fa-mastodon" >}}](https://mastodon.social/@metbril)
+[{{< icon class="fa fa-2x fa-github" >}}](https://github.com/metbril/) 
+[{{< icon class="fa fa-2x fa-gitlab" >}}](https://gitlab.com/metbril/) 
+[{{< icon class="fa fa-2x fa-instagram" >}}](https://instagram.com/robertvanbregt/) 
+[{{< icon class="fa fa-2x fa-flickr" >}}](https://flickr.com/photos/rtvb/) 
+[{{< icon class="fa fa-2x fa-get-pocket" >}}](https://getpocket.com/@metbril) 
+[{{< icon class="fa fa-2x fa-reddit" >}}](https://www.reddit.com/user/digineut) 
+[{{< icon class="fa fa-2x fa-trello" >}}](https://trello.com/metbril) 
