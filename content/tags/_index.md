@@ -1,6 +1,6 @@
 ---
 title: Labels
-url: labels
+slug: labels
 menu:
   main:
     weight: 3
