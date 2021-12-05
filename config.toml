@@ -65,7 +65,8 @@ summaryLength = 70  # default 70
 
  	author      = "Robert van Bregt"
   description = "Persoonlijke website van Robert van Bregt"
-  keywords = "blog, persoonlijk"
+  keywords    = "blog, persoonlijk"
+  avatarURL   = "/img/avatar.jpg"
 
   favicon = "/favicon.ico"
 
