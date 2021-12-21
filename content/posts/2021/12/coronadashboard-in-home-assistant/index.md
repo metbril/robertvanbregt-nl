@@ -1,5 +1,5 @@
 --- 
-ate:  2021-12-21T21:50:00+01:00
+date:  2021-12-21T21:50:00+01:00
 title: Coronadashboard in Home Assistant
 description: ""
 slug:  coronadashboard-in-home-assistant
