@@ -1,10 +1,7 @@
 ---
 title: Nederlandstalige spellingcontrole voor Lion
-post_id: 1433
 date: '2011-08-25T21:40:32+00:00'
-taxonomy:
-    migration-status: review
-tags: [apple,mac,osx,apple,mac,osx]
+tags: [apple,mac,software]
 ---
 **Update**: toetscombinatie aangepast, automatische taalkeuze mogelijk (zie reacties).
 

@@ -1,10 +1,7 @@
 ---
 title: Mac OS X Instant Messaging
-post_id: 1735
 date: '2008-08-10T09:01:55+00:00'
-taxonomy:
-    migration-status: review
-tags: [adium,aim,amsn,apple,chat,colloquy,freeware,gtalk,icq,im,instant messaging,irc,jabber,mac,opensource,osx,skype,software,video,voip,adium,aim,amsn,apple,chat,colloquy,freeware,gtalk,icq,im,instant messaging,irc,jabber,mac,opensource,osx,skype,software,video,voip]
+tags: [apple,freeware,chat,instant messaging,mac,opensource,software,video,voip]
 ---
 *Dit artikel maakt onderdeel uit van de [serie](/mac-os-x/) Mac OS X Freeware en Open Source Software.*
 

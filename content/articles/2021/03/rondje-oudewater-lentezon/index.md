@@ -2,6 +2,8 @@
 title: "Rondje Oudewater in de lentezon"
 slug: rondje-oudewater-lentezon
 date: 2021-03-01T06:35:54+01:00
+tags: [wandelen]
+categories: [buiten]
 ---
 
 Afgelopen zaterdag werd zonnig lenteweer verwacht, en dus maakten we ons op voor een rondje wandelen.

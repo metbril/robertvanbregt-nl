@@ -6,7 +6,6 @@ tags:
     - ebook
     - ipad
     - zorg
-    - zorg20
 ---
 
 [![](cover.jpg)](http://www.eburon.nl/een_heel_klein_boekje_over_zorg_2_0_ebook)

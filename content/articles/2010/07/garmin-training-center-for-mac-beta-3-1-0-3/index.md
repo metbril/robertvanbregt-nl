@@ -1,10 +1,7 @@
 ---
 title: Garmin Training Center for Mac beta 3.1.0.3
-post_id: 1121
 date: '2010-07-21T10:58:27+00:00'
-taxonomy:
-    migration-status: review
-tags: [apple,fietsen,fitness,garmin,training,apple,fietsen,fitness,garmin,training]
+tags: [apple,fietsen,fitness,garmin,mac,software]
 ---
 Garmin heeft een nieuwe beta uitgebracht van haar [Garmin Training Center](http://www8.garmin.com/products/trainingcenter). De door iedere sporter verguisde software is ietsje beter geworden. Ik gebruik het zelf zo nu en dan, bijvoorbeeld om het profiel van mijn Edge eenvoudig aan te passen.
 
