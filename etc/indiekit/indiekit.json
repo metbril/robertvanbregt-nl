@@ -12,14 +12,14 @@
     "note": {
       "template": "etc/indiekit/template/note.njk",
       "post": {
-        "path": "content/notes/{{ published | date('yyyy-MM-dd-X') }}.md",
-        "url": "{{ published | date('yyyy/MM/') }}"
+        "path": "content/notes/{{ published | date('yyyy/MM/yyyy-MM-dd-X') }}.md",
+        "url": "{{ published | date('yyyy/MM/dd/X/') }}"
       }
     },
     "like": {
       "template": "etc/indiekit/template/like.njk",
       "post": {
-        "path": "content/likes/{{ published | date('yyyy-MM-dd') }}-{{ slug }}.md",
+        "path": "content/likes/{{ published | date('yyyy/MM/yyyy-MM-dd') }}-{{ slug }}.md",
         "url": "{{ published | date('yyyy/MM/dd/') }}/{{ slug }}/"
       }
     },
