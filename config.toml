@@ -100,6 +100,30 @@ summaryLength = 70  # default 70
 
   math   = false
 
+[[params.indieweb.endpoint]]
+   rel = "authorization_endpoint"
+   url = "https://indieauth.com/auth"
+
+ [[params.indieweb.endpoint]]
+   rel = "token_endpoint"
+   url = "https://tokens.indieauth.com/token"
+
+ [[params.indieweb.endpoint]]
+   rel = "webmention"
+   url = ""
+
+ [[params.indieweb.endpoint]]
+   rel = "pingback"
+   url = ""
+
+ [[params.indieweb.endpoint]]
+   rel = "micropub"
+   url = ""
+   
+ [[params.indieweb.endpoint]]
+   rel = "microsub"
+   url = ""
+
   [[params.social]]
       name = "LinkedIn"
       icon = "fa fa-2x fa-linkedin"
