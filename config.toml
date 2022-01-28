@@ -4,7 +4,7 @@ title     = "Robert van Bregt"
 # copyright is used in internal RSS template
 copyright = "© Copyright Robert van Bregt 2003-2021"
 
-theme = "hugo-coder"
+theme = "grotius"
 
 languageCode = "nl-nl"
 defaultContentLanguage = "nl"
@@ -99,6 +99,30 @@ summaryLength = 70  # default 70
   rtl    = false
 
   math   = false
+
+[[params.indieweb.endpoint]]
+   rel = "authorization_endpoint"
+   url = "https://indieauth.com/auth"
+
+ [[params.indieweb.endpoint]]
+   rel = "token_endpoint"
+   url = "https://tokens.indieauth.com/token"
+
+ [[params.indieweb.endpoint]]
+   rel = "webmention"
+   url = ""
+
+ [[params.indieweb.endpoint]]
+   rel = "pingback"
+   url = ""
+
+ [[params.indieweb.endpoint]]
+   rel = "micropub"
+   url = ""
+   
+ [[params.indieweb.endpoint]]
+   rel = "microsub"
+   url = ""
 
   [[params.social]]
       name = "LinkedIn"

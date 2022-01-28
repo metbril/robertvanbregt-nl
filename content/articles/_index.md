@@ -1,6 +1,7 @@
 ---
-title: Blog
-url: blog
+title: Artikelen
+url: artikelen
+# url: blog
 menu: 
   main:
     weight: 1
