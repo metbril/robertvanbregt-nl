@@ -4,7 +4,7 @@ epoch=`date +%s`
 
 folder=`date -r $epoch +"%Y/%m"`
 filename=`date -r $epoch +"%Y-%m-%d"`-$epoch.md
-filepath=note/$folder/$filename
+filepath=notes/$folder/$filename
 
 # echo $filepath
 hugo new $filepath
