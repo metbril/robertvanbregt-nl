@@ -118,11 +118,11 @@ summaryLength = 70  # default 70
 
   [[params.indieweb.endpoint]]
     rel = "micropub"
-    url = ""
+    url = "https://indiekit-r12t.heroku.com/micropub"
     
   [[params.indieweb.endpoint]]
     rel = "microsub"
-    url = ""
+    url = "https://aperture.p3k.io/microsub/727"
 
   [[params.social]]
       name = "LinkedIn"
