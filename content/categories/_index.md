@@ -5,4 +5,4 @@ menu:
   main:
     weight: 12
 ---
-Alle categoriën.
+Een overzicht van alle categorieën.
