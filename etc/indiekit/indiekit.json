@@ -12,8 +12,8 @@
     "note": {
       "template": "etc/indiekit/template/note.njk",
       "post": {
-        "path": "content/notities/{{ published | date('yyyy-MM-dd-X') }}.md",
-        "url": "{{ published | date('yyyy/MM/dd/X/') }}"
+        "path": "content/notes/{{ published | date('yyyy-MM-dd-X') }}.md",
+        "url": "{{ published | date('yyyy/MM/') }}"
       }
     },
     "like": {
@@ -25,7 +25,7 @@
     },
     "reply": {
       "post": {
-        "path": "content/reacties/{{ published | date('yyyy-MM-dd-X') }}.md",
+        "path": "content/replies/{{ published | date('yyyy-MM-dd-X') }}.md",
         "url": "{{ published | date('yyyy/MM/dd/X/') }}"
       }
     },
@@ -38,7 +38,7 @@
     },
     "bookmark": {
       "post": {
-        "path": "content/bladwijzers/{{ published | date('yyyy-MM-dd') }}-{{ slug }}.md",
+        "path": "content/bookmarks/{{ published | date('yyyy-MM-dd') }}-{{ slug }}.md",
         "url": "{{ published | date('yyyy/MM/dd') }}/{{ slug }}/"
       }
     },
