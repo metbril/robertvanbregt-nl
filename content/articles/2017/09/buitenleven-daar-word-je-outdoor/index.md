@@ -3,8 +3,8 @@ title: 'Buiten leven, daar word je outdoor'
 date: '2017-09-29 15:27:00'
 tags:
     - inspiratie
-    - Buiten
-post_id: 44
+categories:
+    - buiten
 ---
 
 Vanochtend kwam ik onderweg op een reclamebord een spreuk tegen. Voor mij nieuw, maar het leverde een glimlach op, dus leuk om te onthouden en nog eens ergens te gebruiken.
