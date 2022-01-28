@@ -72,7 +72,7 @@ summaryLength = 70  # default 70
   favicon = "/favicon.ico"
 
   # Sections for home page content
-  mainSections = ["posts"]
+  mainSections = ["articles", "notes"]
 
   dateFormat = "2 January 2006"
 
@@ -183,10 +183,10 @@ summaryLength = 70  # default 70
 [permalinks]
   # Specify for each section (= folder name)
   posts = "/:year/:month/:day/:slug/"
-  article = "/:year/:month/:day/:slug/"
+  articles = "/:year/:month/:day/:slug/"
   bladwijzers = "/:year/:month/:day/:slug/"
   likes = "/:year/:month/:day/:slug/"
-  note = "/:year/:month/:day/:slug/"
+  notes = "/:year/:month/:day/:slug/"
   reacties = "/:year/:month/:day/:slug/"
   rsvps = "/:year/:month/:day/:slug/"
   # https://gohugo.io/content-management/urls/#permalink-configuration-values
