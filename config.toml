@@ -100,29 +100,29 @@ summaryLength = 70  # default 70
 
   math   = false
 
-[[params.indieweb.endpoint]]
-   rel = "authorization_endpoint"
-   url = "https://indieauth.com/auth"
+  [[params.indieweb.endpoint]]
+    rel = "authorization_endpoint"
+    url = "https://indieauth.com/auth"
 
- [[params.indieweb.endpoint]]
-   rel = "token_endpoint"
-   url = "https://tokens.indieauth.com/token"
+  [[params.indieweb.endpoint]]
+    rel = "token_endpoint"
+    url = "https://tokens.indieauth.com/token"
 
- [[params.indieweb.endpoint]]
-   rel = "webmention"
-   url = ""
+  [[params.indieweb.endpoint]]
+    rel = "webmention"
+    url = ""
 
- [[params.indieweb.endpoint]]
-   rel = "pingback"
-   url = ""
+  [[params.indieweb.endpoint]]
+    rel = "pingback"
+    url = ""
 
- [[params.indieweb.endpoint]]
-   rel = "micropub"
-   url = ""
-   
- [[params.indieweb.endpoint]]
-   rel = "microsub"
-   url = ""
+  [[params.indieweb.endpoint]]
+    rel = "micropub"
+    url = ""
+    
+  [[params.indieweb.endpoint]]
+    rel = "microsub"
+    url = ""
 
   [[params.social]]
       name = "LinkedIn"
@@ -182,13 +182,14 @@ summaryLength = 70  # default 70
 
 [permalinks]
   # Specify for each section (= folder name)
-  posts = "/:year/:month/:day/:slug/"
   articles = "/:year/:month/:day/:slug/"
-  bladwijzers = "/:year/:month/:day/:slug/"
+  bookmarks = "/:year/:month/:day/:slug/"
   likes = "/:year/:month/:day/:slug/"
   notes = "/:year/:month/:day/:slug/"
-  reacties = "/:year/:month/:day/:slug/"
+  # posts = "/:year/:month/:day/:slug/"
+  replies = "/:year/:month/:day/:slug/"
   rsvps = "/:year/:month/:day/:slug/"
+
   # https://gohugo.io/content-management/urls/#permalink-configuration-values
   # :year        | the 4-digit year
   # :month       | the 2-digit month
