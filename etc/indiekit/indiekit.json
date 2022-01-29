@@ -9,6 +9,17 @@
   }],
   "media-endpoint" : "https://indiekit-robertvanbregt.herokuapp.com/media",
   "post-types": {
+    "photo": {
+      "template": "etc/indiekit/template/slug.njk",
+      "post": {
+        "path": "content/photos/{{ published | date('yyyy/MM/yyyy-MM-dd-X') }}.md",
+        "url": "{{ published | date('yyyy/MM/dd/X/') }}"
+      },
+      "media": {
+        "path": "static/media/photos/{yyyy}/{MM}/{dd}/{filename}",
+        "url": "/media/photos/{yyyy}/{MM}/{dd}/{filename}"
+      }
+    },
     "note": {
       "template": "etc/indiekit/template/note.njk",
       "post": {

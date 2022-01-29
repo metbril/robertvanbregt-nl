@@ -3,5 +3,5 @@ title: Bladwijzers
 url: bladwijzers
 menu:
   main:
-    weight: 30
+    weight: 13
 ---
