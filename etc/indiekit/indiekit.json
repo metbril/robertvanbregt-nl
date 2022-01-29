@@ -12,12 +12,12 @@
     "photo": {
       "template": "etc/indiekit/template/slug.njk",
       "post": {
-        "path": "content/photos/{{ published | date('yyyy/MM/yyyy-MM-dd-X') }}.md",
-        "url": "{{ published | date('yyyy/MM/dd/X/') }}"
+        "path": "content/photos/{{ published | date('yyyy/MM/yyyy-MM-dd') }}-{{ slug }}.md",
+        "url": "{{ published | date('yyyy/MM/dd') }}/{{ slug }}"
       },
       "media": {
-        "path": "static/media/photos/{yyyy}/{MM}/{dd}/{filename}",
-        "url": "/media/photos/{yyyy}/{MM}/{dd}/{filename}"
+        "path": "static/media/photos/{{ published | date('yyyy/MM/dd') }}/{{ filename }}",
+        "url": "media/photos/{{ published | date('yyyy/MM/dd') }}/{{ filename }}"
       }
     },
     "note": {
