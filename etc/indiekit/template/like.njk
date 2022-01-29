@@ -1,17 +1,18 @@
 ---
 slug: {{ slug }}
 date: '{{ published }}'
-likeof: {{ likeOf }}
 {%- if category %}
 tags:
 {%- for c in category %}
   - {{ c }}
 {%- endfor %}
 {%- endif %}
+mf2:
+  like_of: {{ likeOf }}
 {%- if syndicateTo %}
-syndicate-to:
+  syndication:
 {%- for s in syndicateTo %}
-  - {{ s }}
+    - {{ s }}
 {%- endfor %}
 {%- endif %}
 ---

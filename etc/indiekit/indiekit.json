@@ -24,8 +24,9 @@
       }
     },
     "reply": {
+      "template": "etc/indiekit/template/slug.njk",
       "post": {
-        "path": "content/replies/{{ published | date('yyyy-MM-dd-X') }}.md",
+        "path": "content/replies/{{ published | date('yyyy/MM/yyyy-MM-dd-X') }}.md",
         "url": "{{ published | date('yyyy/MM/dd/X/') }}"
       }
     },
@@ -37,14 +38,15 @@
       }
     },
     "bookmark": {
+      "template": "etc/indiekit/template/slug.njk",
       "post": {
-        "path": "content/bookmarks/{{ published | date('yyyy-MM-dd') }}-{{ slug }}.md",
+        "path": "content/bookmarks/{{ published | date('yyyy/MM/yyyy-MM-dd') }}-{{ slug }}.md",
         "url": "{{ published | date('yyyy/MM/dd') }}/{{ slug }}/"
       }
     },
     "article": {
       "post": {
-        "path": "content/artikelen/{{ published | date('yyyy/MM/dd') }}/{{ slug }}/index.md",
+        "path": "content/articles/{{ published | date('yyyy/MM') }}/{{ slug }}/index.md",
         "url": "{{ published | date('yyyy/MM/dd') }}/{{ slug }}/"
       }
     }

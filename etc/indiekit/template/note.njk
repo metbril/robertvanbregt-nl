@@ -7,10 +7,11 @@ tags:
   - {{ c }}
 {%- endfor %}
 {%- endif %}
+mf2:
 {%- if syndicateTo %}
-syndicateto:
+  syndication:
 {%- for s in syndicateTo %}
-  - {{ s }}
+    - {{ s }}
 {%- endfor %}
 {%- endif %}
 ---

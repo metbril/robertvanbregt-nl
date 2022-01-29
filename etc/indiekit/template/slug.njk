@@ -1,18 +1,20 @@
 ---
 slug: {% if slug %}{{ slug }}{% else %}'{{ published | date('X') }}'{% endif %}
 date: '{{ published }}'
-{% if inReplyTo %}in-reply-to: {{ inReplyTo }}{% endif %}
-{% if rsvp %}rsvp: {{ rsvp }}{% endif %}
 {%- if category %}
 tags:
 {%- for c in category %}
   - {{ c }}
 {%- endfor %}
 {%- endif %}
+mf2:
+{% if bookmarkOf %}  bookmark_of: {{ inReplyTo }}{% endif %}
+{% if inReplyTo %}  in_reply_to: {{ inReplyTo }}{% endif %}
+{% if rsvp %}  rsvp: {{ rsvp }}{% endif %}
 {%- if syndicateTo %}
-syndicate-to:
+  syndication:
 {%- for s in syndicateTo %}
-  - {{ s }}
+    - {{ s }}
 {%- endfor %}
 {%- endif %}
 ---
