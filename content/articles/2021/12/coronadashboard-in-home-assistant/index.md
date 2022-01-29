@@ -4,7 +4,7 @@ title: Coronadashboard in Home Assistant
 description: ""
 slug:  coronadashboard-in-home-assistant
 authors: []
-tags: [huisautomatisering]
+tags: [huisautomatisering, corona]
 categories: [English]
 series: []
 externalLink: ""
