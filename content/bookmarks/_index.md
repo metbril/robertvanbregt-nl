@@ -1,8 +1,6 @@
 ---
 title: Bladwijzers
-type: bookmark
-cascade:
-  type: bookmark
+url: bladwijzers
 menu:
   main:
     weight: 30
