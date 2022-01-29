@@ -118,7 +118,7 @@ summaryLength = 70  # default 70
 
   [[params.indieweb.endpoint]]
     rel = "micropub"
-    url = "https://indiekit-r12t.heroku.com/micropub"
+    url = "https://indiekit-r12t.herokuapp.com/micropub"
     
   [[params.indieweb.endpoint]]
     rel = "microsub"
