@@ -1,6 +1,7 @@
 ---
 title: Deze week 32-20
 date: 2020-08-10 12:00:00
+categories: [ Deze Week ]
 ---
 De week stond vooral in het teken van afronding van alle lopende zaken en open eindjes voor mijn vakantie.
 

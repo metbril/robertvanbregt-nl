@@ -1,6 +1,7 @@
 ---
 title: Dark web vanuit een Duitse bunker
 date: 2020-08-09
+categories: [Technologie]
 ---
 Een artikel in The New Yorker beschrijft [hoe een Nederlander een Duitse bunker koopt die stamt uit de Koude Oorlog en vanwaar hij het dark web bedient](https://www.newyorker.com/magazine/2020/08/03/the-cold-war-bunker-that-became-home-to-a-dark-web-empire). Het artikel leest als een jongensboek. Ga er wel even voor zitten, want het is vrij lang (en in het engels).
 
