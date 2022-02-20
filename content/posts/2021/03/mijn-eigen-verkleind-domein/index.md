@@ -5,6 +5,7 @@ tags:
   - meta
   - dns
   - i18n
+categories: [Technologie]
 ---
 Ben je de afkortingen `i18n` en `L10n` wel eens tegengekomen? Als je in de softwareontwikkeling werkt hoogstwaarschijnlijk wel. Ze staan respectievelijk voor [internationalization en localization][wikipedia]. De cijfers 18 en 10 verwijzen daarbij naar het aantal letters tussen de eerste en laatste letter.
 

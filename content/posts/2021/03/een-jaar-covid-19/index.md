@@ -4,6 +4,7 @@ date: 2021-03-02T06:31:55+01:00
 tags:
   - corona
   - covid-19
+categories: [Algemeen]
 ---
 Bizar. Het is alweer een jaar geleden dat [de eerste met het coronavirus besmette patient was opgenomen in het Maasstad Ziekenhuis][eerste]. Als ik het me goed herinner, was dat de tweede positief geteste patient in Nederland. De wereld is sindsdien volkomen veranderd. Normaal menselijk contact is niet meer mogelijk en beperkt tot huisgenoten. Thuiswerken is de norm. Vrijwel alle publieke gelegenheden zijn gesloten. De economie ligt op zijn gat. Veel mensen raken hun baan kwijt.
 

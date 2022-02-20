@@ -5,7 +5,7 @@ description: ""
 slug:  coronadashboard-in-home-assistant
 authors: []
 tags: [huisautomatisering, corona]
-categories: [English]
+categories: [English, Technologie]
 series: []
 externalLink: ""
 featured_image: Coronadashboard COVID-19 Rijksoverheid nl.png
