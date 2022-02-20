@@ -68,31 +68,16 @@ summaryLength = 70  # default 70
   keywords    = "blog, persoonlijk"
   images      = ["/img/avatar.jpg"]  # twitter cards
   avatarURL   = "/img/avatar.jpg"
+  favicon     = "/favicon.ico"
 
-  favicon = "/favicon.ico"
+  # List sections with content for home page
+  mainSections = [ "posts" ]
 
-  # Sections for home page content
-  mainSections = ["articles", "notes"]
-
-  dateFormat = "2 January 2006"
-
-  # ---------- SPECIFIC THEME VARIABLES hugo coder ----------
-  info          = "Projectmanager. Automagiseerder. Geek. Rotterdammert."
-  footerContent = "Verbetert de wereld en begint bij zichzelf."
-
-  colorScheme   = "auto"
-  customCSS     = ["/css/custom.css"]
-  customJS      = []
+  # dateFormat = "2 January 2006"
+  dateFormat = "02-01-2006"
 
   # Series see also post count
   maxSeeAlsoItems = 5
-
-  enableTwemoji = true
-
-  hideFooter    = false
-  hideCredits   = false
-  hideCopyright = false
-  since         = 2003
 
   commit = "https://github.com/metbril/robertvanbregt.nl/tree/"
 
@@ -100,29 +85,7 @@ summaryLength = 70  # default 70
 
   math   = false
 
-  [[params.indieweb.endpoint]]
-    rel = "authorization_endpoint"
-    url = "https://indieauth.com/auth"
-
-  [[params.indieweb.endpoint]]
-    rel = "token_endpoint"
-    url = "https://tokens.indieauth.com/token"
-
-  [[params.indieweb.endpoint]]
-    rel = "webmention"
-    url = ""
-
-  [[params.indieweb.endpoint]]
-    rel = "pingback"
-    url = ""
-
-  [[params.indieweb.endpoint]]
-    rel = "micropub"
-    url = "https://indiekit-r12t.herokuapp.com/micropub"
-    
-  [[params.indieweb.endpoint]]
-    rel = "microsub"
-    url = "https://aperture.p3k.io/microsub/727"
+  # --- social icons for Grotius theme ---
 
   [[params.social]]
       name = "LinkedIn"
@@ -169,7 +132,7 @@ summaryLength = 70  # default 70
 [menu]
   # Most menu items are defined in the front matter of that page.
 
-# explicitly specify taxonomies for coder theme which supports series
+# explicitly specify taxonomies for series support
 [taxonomies]
   category = "categories"
   tag = "tags"
@@ -180,15 +143,18 @@ summaryLength = 70  # default 70
   priority = 0.5
   filename = "sitemap.xml"
 
+[privacy]
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
+
+[services.rss]
+  limit = 10
+
 [permalinks]
   # Specify for each section (= folder name)
-  articles = "/:year/:month/:day/:slug/"
-  bookmarks = "/:year/:month/:day/:slug/"
-  likes = "/:year/:month/:day/:slug/"
-  notes = "/:year/:month/:day/:slug/"
-  # posts = "/:year/:month/:day/:slug/"
-  replies = "/:year/:month/:day/:slug/"
-  rsvps = "/:year/:month/:day/:slug/"
+  posts = "/:year/:month/:day/:slug/"
+  page = "/:slug/"
 
   # https://gohugo.io/content-management/urls/#permalink-configuration-values
   # :year        | the 4-digit year
@@ -203,11 +169,3 @@ summaryLength = 70  # default 70
   # :title       | the content’s title
   # :slug        | the content’s slug (or title if no slug is provided in the front matter)
   # :filename    | the content’s filename (without extension)
-
-[privacy]
-  [privacy.youtube]
-    disable = false
-    privacyEnhanced = true
-
-[services.rss]
-  limit = 10

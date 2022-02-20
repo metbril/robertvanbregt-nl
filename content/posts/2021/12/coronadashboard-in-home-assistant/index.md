@@ -8,6 +8,7 @@ tags: [huisautomatisering, corona]
 categories: [English]
 series: []
 externalLink: ""
+featured_image: Coronadashboard COVID-19 Rijksoverheid nl.png
 ---
 The Dutch government provides a [Coronadashboard][coronadashboard] to the general public with statistics about the pandemic. It contains, among others, data on the vaccination rate and the number of contaminations. I wanted to know if it was possible to integrate a dashboard in my own Home Assistant instance.
 
