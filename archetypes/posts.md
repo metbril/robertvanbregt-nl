@@ -7,6 +7,7 @@ tags: []
 categories:
   - Algemeen
   - Buiten
+  - Deze Week
   - English
   - Technologie
 draft: true
