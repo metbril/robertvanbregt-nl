@@ -18,7 +18,7 @@ There is a feed for the whole country, one for each safety region and one for ea
 
 I'm interested in the nationwide statistics, but also in those for my local community.
 
-# Find country feed
+## Find country feed
 
 The feed for the whole country is simply available at https://coronadashboard.rijksoverheid.nl/json/NL.json.
 
