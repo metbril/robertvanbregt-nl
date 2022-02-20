@@ -54,7 +54,7 @@ summaryLength = 70  # default 70
   email = "contact@robertvanbregt.nl"
 
   url   = "https://robertvanbregt.nl/"
-  photo = "/images/photo.jpg"
+  photo = "/img/photo.jpg"
 
 [social]
   twitter = "robertvanbregt"  # Used in internal Twitter meta card
