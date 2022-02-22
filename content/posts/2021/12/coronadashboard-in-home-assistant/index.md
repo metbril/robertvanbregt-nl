@@ -1,14 +1,14 @@
 --- 
 date:  2021-12-21T21:50:00+01:00
 title: Coronadashboard in Home Assistant
-description: ""
+description: "The Dutch government provides a Coronadashboard to the general public with statistics about the pandemic. It contains, among others, data on the vaccination rate and the number of contaminations. I wanted to know if it was possible to integrate a dashboard in my own Home Assistant instance."
 slug:  coronadashboard-in-home-assistant
 authors: []
 tags: [huisautomatisering, corona]
 categories: [English, Technologie]
 series: []
 externalLink: ""
-featured_image: Coronadashboard COVID-19 Rijksoverheid nl.png
+featured_image: "Coronadashboard COVID-19 Rijksoverheid nl.png"
 ---
 The Dutch government provides a [Coronadashboard][coronadashboard] to the general public with statistics about the pandemic. It contains, among others, data on the vaccination rate and the number of contaminations. I wanted to know if it was possible to integrate a dashboard in my own Home Assistant instance.
 
@@ -42,7 +42,7 @@ The feed for the municipality is available at `https://coronadashboard.rijksover
 
 The feed for Amsterdam is https://coronadashboard.rijksoverheid.nl/json/GM0363.json
 
-# Get the data
+## Get the data
 
 First, you need to get the data. The resulting json file is big, so it's wise to only get it once and then pull all information from it within Home Assistant. The limit for a sensor states is 255 characters, so the data needs to be put into attributes.
 
