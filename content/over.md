@@ -5,7 +5,7 @@ url: over
 menu:
   main:
     name: Over
-    weight: 180
+    weight: 10
 ---
 
 Lees wat ik [nu aan het doen]({{<ref "nu" >}}) ben.

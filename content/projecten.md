@@ -2,10 +2,10 @@
 layout: page
 title: Projecten waar ik aan heb gewerkt
 url: projecten
-menu:
-  main:
-    name: Projecten
-    weight: 100
+# menu:
+#   main:
+#     name: Projecten
+#     weight: 100
 ---
 
 Op deze pagina heb ik een aantal projecten verzameld waar ik nu aan werk of waar ik de afgelopen jaren aan heb meegewerkt.
