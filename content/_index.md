@@ -1,7 +1,5 @@
 ---
-# Homepage
-# menu:
-#   main:
-#     name: Home
-#     weight: -1 # left most item
+# Site homepage
+title: Hallo. 👋 Ik ben Robert. Een geek uit de omgeving van Rotterdam, Nederland.
 ---
+Een ervaren projectmanager, daarbuiten een enthousiast liefhebber van wetenschap, technologie, computers en internet.
