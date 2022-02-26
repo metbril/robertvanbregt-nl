@@ -4,7 +4,7 @@ title     = "Robert van Bregt"
 # copyright is used in internal RSS template
 copyright = "© Copyright Robert van Bregt 2003-2021"
 
-theme = "grotius"
+theme = "sosimple"
 
 languageCode = "nl-nl"
 defaultContentLanguage = "nl"
