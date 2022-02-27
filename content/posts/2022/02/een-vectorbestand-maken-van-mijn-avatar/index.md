@@ -14,15 +14,15 @@ Daarom had ik de gedachte om deze avatar ook om te zetten in een vectorbestand. 
 
 Hoe ik de originele foto in het verleden precies heb omgezet naar zwart-wit durf ik niet meer te zeggen. Ik weet nog dat ik daar een app op mijn iPad voor heb gebruikt in een verloren speelkwartiertje. Omdat ik best tevreden was over het resultaat heb ik die bewaard en gebruik ik dat nu overal.
 
-{{< figure src="avatar.jpg" >}}
-
 Het bronbestand van de avatar is een jpeg-bestand van 512x512 pixels in zwart-wit. Eerst heb ik die [met een online converter omgezet naar een SVG](https://www.svgcreator.com/).
 
 Daarna heb ik het resultaat nog geprobeerd [verder te comprimeren met een andere online-tool](https://www.svgminify.com/).
 
-{{< imgproc robert.jpg Resize "150x" >}}
+{{< imgproc foto.jpg Resize "150x" >}}
 
-{{< figure src="robert.svg" width="150" >}}
+{{< imgproc avatar.jpg Resize "150x" >}}
+
+{{< figure src="avatar.svg" width="150" >}}
 
 Het uiteindelijke resultaat is een bestand van 22KB. Niet slecht voor een amateur met een paar standaard online tools.
 
