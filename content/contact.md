@@ -7,7 +7,7 @@ navigation_title: Contact
 sitemap: false
 menu:
   main:
-    name: Contact
+    name: 📮 Contact
     weight: 190
 ---
 :wave: Hi. Leuk dat je hier bent.
