@@ -23,10 +23,23 @@ fields:
   label: Tags
 - name: categories
   type: tag_list
-  default: []
+  default:
+  - Algemeen
+  - Buiten
+  - Deze Week
+  - Technologie
   label: Categories
 - name: featured_image
   type: text
   config:
     required: false
   label: Featured image
+- name: hidden
+  type: boolean
+  label: Hidden
+- name: author
+  type: text
+  config:
+    required: false
+  label: Author
+  default: Robert van Bregt
