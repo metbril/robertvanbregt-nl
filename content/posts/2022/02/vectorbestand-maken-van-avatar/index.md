@@ -6,6 +6,8 @@ author: Robert van Bregt
 tags: []
 categories:
   - Technologie
+featured_image: avatar.jpg
+description: "Hoe ik van mijn avatar een vectorbestand heb gemaakt."
 ---
 
 Ik gebruik al tijden een zwart-witte versie van een selfie als [Gravatar][gravatar] en avatar op socials en fora. Het origineel bewaar ik zorgvuldig, zodat ik daar later altijd (kleinere) versies van kan maken. Sommige sites vragen maximale afmetingen of bestandsgroottes.
