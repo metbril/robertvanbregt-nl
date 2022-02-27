@@ -1,5 +1,5 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ replace .Name "-" " " | humanize }}"
 slug: "{{ .Name }}"
 date: {{ .Date }}
 author: {{ .Site.Params.Author }}
