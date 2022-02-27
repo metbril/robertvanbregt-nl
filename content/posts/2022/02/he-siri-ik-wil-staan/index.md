@@ -1,5 +1,5 @@
 ---
-title: "Hé Siri, ik wil staan"
+title: "Hé Siri, ik wil staan!"
 slug: "he-siri-ik-wil-staan"
 date: 2022-02-02T19:29:00+01:00
 author: Robert van Bregt
