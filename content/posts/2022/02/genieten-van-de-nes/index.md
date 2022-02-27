@@ -3,7 +3,7 @@ title: "Genieten van De Nes"
 slug: "genieten-van-de-nes"
 date: 2022-02-13T22:29:00+01:00
 author: Robert van Bregt
-tags: []
+tags: [buiten,wandelen,route,track]
 categories:
   - Buiten
 featured_image: nespolder-minibrug.jpg

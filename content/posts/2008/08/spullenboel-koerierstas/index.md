@@ -4,7 +4,7 @@ post_id: 136
 date: '2008-08-31T16:12:59+00:00'
 taxonomy:
     migration-status: review
-tags: [crumpler,fietsen,gear,spullenboel,tas,crumpler,fietsen,gear,spullenboel,tas]
+tags: [crumpler,fietsen,gear,spullenboel,tas]
 ---
 ![crumpler-cheesy-disco](/wp-content/uploads/2009/08/crumpler-cheesy-disco.jpg "crumpler-cheesy-disco")Iedere keer als we op pad gaan, moet M. alles in haar handtas meesjouwen, loop ik met een lullig plastictasje of met een vaak oversizede rugzak. Dat was ik al een tijdje zat en besloot dus een koerierstas of schoudertas te gaan kopen. Dat is ook praktisch op de fiets.
 
