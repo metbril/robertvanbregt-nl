@@ -76,7 +76,7 @@ summaryLength = 70  # default 70
   # dateFormat = "2 January 2006"
   dateFormat = "02-01-2006"
 
-  # Series see also post count
+  # See also post count
   maxSeeAlsoItems = 5
 
   commit = "https://github.com/metbril/robertvanbregt.nl/tree/"
