@@ -21,3 +21,12 @@ fields:
   type: tag_list
   default: []
   label: Tags
+- name: categories
+  type: tag_list
+  default: []
+  label: Categories
+- name: featured_image
+  type: text
+  config:
+    required: false
+  label: Featured image

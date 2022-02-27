@@ -18,5 +18,3 @@ fields:
   config:
     required: true
   default: now
-pages:
-- content/note/2021/03/1615354090.md
