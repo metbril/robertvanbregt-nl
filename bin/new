@@ -6,5 +6,6 @@ slug=$@
 slug=`slugify $@`
 path=`date +%Y/%m`
 
-
-hugo new "$section/$path/$slug/index.md"
+file="$section/$path/$slug/index.md"
+hugo new $file
+code content/$file
