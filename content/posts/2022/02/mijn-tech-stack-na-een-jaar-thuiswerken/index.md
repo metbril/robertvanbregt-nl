@@ -3,7 +3,7 @@ title: "Mijn tech stack na één jaar thuiswerken"
 slug: "mijn-tech-stack-na-een-jaar-thuiswerken"
 date: 2021-03-19T17:17:00+01:00
 author: Robert van Bregt
-tags: []
+tags: [corona]
 categories:
   - Technologie
 featured_image: pexels-stanislav-kondratiev-5500228.jpg
