@@ -1,6 +1,7 @@
 ---
 title: 'Deze Week 47-19'
 date: 2019-11-24T19:16:35.909+01:00
+categories: ["Deze Week"]
 ---
 Naar een idee van [Ton Zijlstra][1] ga ik wekelijks verslag doen van de belangrijkste gebeurtenissen die hebben plaatsgevonden. 
 
