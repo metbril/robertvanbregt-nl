@@ -28,7 +28,7 @@
 
 [context.production.environment]
   HUGO_ENV = "production"
-  HUGO_VERSION = "0.89.4"
+  HUGO_VERSION = "0.92.1"
   HUGO_ENABLEGITINFO = "true"
 
 # Deploy Preview context: all deploys generated from a pull/merge request will
@@ -82,16 +82,16 @@
 # Redirect domain aliases to primary domain
 [[redirects]]
   from = "https://robert.vanbregt.net/*"
-  to = "https://robertvanbregt.nl/:splat"
+  to = "https://www.robertvanbregt.nl/:splat"
   status = 301
   force = true
 
 # Optional: Redirect default Netlify subdomain to primary domain
-# [[redirects]]
-#   from = "https://robertvanbregt-nl.netlify.com/*"
-#   to = "https://robertvanbregt.nl/:splat"
-#   status = 301
-#   force = true
+[[redirects]]
+  from = "https://robertvanbregt-nl.netlify.app/*"
+  to = "https://www.robertvanbregt.nl/:splat"
+  status = 301
+  force = true
 
 # redirect from WordPress default feed
 [[redirects]]
