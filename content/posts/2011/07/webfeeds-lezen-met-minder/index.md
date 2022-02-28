@@ -1,11 +1,10 @@
 ---
 title: Webfeeds lezen met minder
-post_id: 1346
 date: '2011-07-30T09:05:51+00:00'
-taxonomy:
-    migration-status: review
+tags:
+  - rss
+  - minimalisme
 ---
-![](/wp-content/uploads/2011/07/rss-icon-150x150.png "rss-icon")
 
 Ik maak al jaren gebruik van [Google Reader](http://google.com/reader) voor het lezen van [webfeeds](http://nl.wikipedia.org/wiki/Webfeed). Dat zijn er in de loop van de tijd meer en minder geweest, maar uiteindelijk komen er dagelijks toch zo’n paar honderd berichten binnen. Om deze een beetje georganiseerd door te nemen (of helemaal niet) had ik voor mezelf een indeling in mappen bedacht. Mappen met een aantal hoofdonderwerpen als Apple, Google, Technologie, Zorg of Projectmanagement. Maar vooral drie hoofdmappen “direct”, “altijd” en “ooit”.
 
