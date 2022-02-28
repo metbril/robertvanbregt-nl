@@ -1,7 +1,7 @@
 ---
 title: Feed readers toevoegen aan Firefox
 date: '2007-09-01T05:45:00+00:00'
-tags: [computer,javascript,programmeren,rss]
+tags: [computer,javascript,programmeren,rss,firefox]
 categories: [Technologie]
 ---
 
