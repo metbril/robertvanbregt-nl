@@ -15,4 +15,4 @@ Wandelknooppunten: 82 - 83 - 84 - 85 - 82
 
 Afstand: ca. 7 km
 
-{{< figure title="De Kersenboom, Rijsoord" alt="De Kersenboom Rijsoord" src="kersenboom-rijsoord.jpeg" width="100%" attr="" attrlink="">}}
+{{< figure title="De Kersenboom, Rijsoord" alt="De Kersenboom Rijsoord" src="kersenboom-rijsoord.jpeg" attr="" attrlink="">}}

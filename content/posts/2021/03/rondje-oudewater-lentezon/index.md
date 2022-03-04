@@ -16,7 +16,7 @@ Wandelknooppunten: 59 - 57 - 55 - 58 - 66 - 78 - 54 - 59
 
 Lengte: ca. 6,5 km
 
-{{< figure title="De waag van Oudewater" alt="Oudewater Waag" src="oudewater-waag.jpg" width="100%" attr="Rumex12, CC BY-SA 3.0 NL, via Wikimedia Commons" attrlink="https://commons.wikimedia.org/wiki/File:Oudewater-Waag.jpg">}}
+{{< figure title="De waag van Oudewater" alt="Oudewater Waag" src="oudewater-waag.jpg" attr="Rumex12, CC BY-SA 3.0 NL, via Wikimedia Commons" attrlink="https://commons.wikimedia.org/wiki/File:Oudewater-Waag.jpg">}}
 
 [oudewater]: https://nl.wikipedia.org/wiki/Oudewater
 [planner]: https://www.wandelnet.nl/wandelrouteplanner
