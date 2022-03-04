@@ -20,11 +20,11 @@ Het bronbestand van de avatar is een jpeg-bestand van 512x512 pixels in zwart-wi
 
 Daarna heb ik het resultaat nog geprobeerd [verder te comprimeren met een andere online-tool](https://www.svgminify.com/).
 
-{{< imgproc foto.jpg Resize "150x" >}}
+{{< figure src="foto.jpg" width="150" alt="origineel" >}}
 
-{{< imgproc avatar.jpg Resize "150x" >}}
+{{< figure "avatar.jpg" width="150" alt="zwart-wit avatar">}}
 
-{{< figure src="avatar.svg" width="150" >}}
+{{< figure src="avatar.svg" width="150" alt="vectorbestand">}}
 
 Het uiteindelijke resultaat is een bestand van 22KB. Niet slecht voor een amateur met een paar standaard online tools.
 
