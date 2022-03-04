@@ -22,7 +22,7 @@ Daarna heb ik het resultaat nog geprobeerd [verder te comprimeren met een andere
 
 {{< figure src="foto.jpg" width="150" alt="origineel" >}}
 
-{{< figure "avatar.jpg" width="150" alt="zwart-wit avatar">}}
+{{< figure src="avatar.jpg" width="150" alt="zwart-wit avatar">}}
 
 {{< figure src="avatar.svg" width="150" alt="vectorbestand">}}
 
