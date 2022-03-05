@@ -1,11 +1,13 @@
 #!/usr/bin/env bash
 
+contentdir="content"
+
 section=$1
 shift
-slug=$@
-slug=`slugify $@`
+# slug=$@
+slug=`echo $@ | sed -e 's/[^[:alnum:]]/-/g' | tr A-Z a-z | tr -s '-'`
 path=`date +%Y/%m`
 
 file="$section/$path/$slug/index.md"
 hugo new $file
-code content/$file
+code $contentdir/$file
