@@ -17,7 +17,7 @@
   command = "hugo --minify"
 
   # Directory with the serverless functions, including background functions,
-  # to deploy to AWS. This is relative to the base directory if one has been set, 
+  # to deploy to AWS. This is relative to the base directory if one has been set,
   # or the root directory if a base has not been set.
   functions = "functions/"
 
@@ -97,4 +97,16 @@
 [[redirects]]
   from = "/feed"
   to = "/index.xml"
+  status = 301
+
+# redirect wordpress categories
+[[redirects]]
+  from = "/category/*"
+  to = "/categories/:splat"
+  status = 301
+
+# redirect wordpress tags
+[[redirects]]
+  from = "/tag/*"
+  to = "/tags/:splat"
   status = 301
