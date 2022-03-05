@@ -85,6 +85,9 @@ summaryLength = 70  # default 70
 
   math   = false
 
+  # some markdown allowed
+  license = "Unless otherwise noted, all written content on this site is licenced with a [CC BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/)."
+
   # --- social icons for Grotius theme ---
 
   [[params.social]]
