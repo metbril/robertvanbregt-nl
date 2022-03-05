@@ -2,6 +2,11 @@
 
 contentdir="content"
 
+if [ $# -lt 2 ]; then
+    echo "Usage: $0 <section> <title in multiple words>"
+    exit 1
+fi
+
 section=$1
 shift
 # slug=$@
