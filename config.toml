@@ -169,3 +169,8 @@ summaryLength = 70  # default 70
   # :title       | the content’s title
   # :slug        | the content’s slug (or title if no slug is provided in the front matter)
   # :filename    | the content’s filename (without extension)
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
