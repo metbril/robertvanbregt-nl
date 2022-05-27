@@ -6,7 +6,7 @@ taxonomy:
     migration-status: review
 tags: [blackberry,curve,gadgets,gprs,gsm,mobiel,smartphone,telefoon,blackberry,curve,gadgets,gprs,gsm,mobiel,smartphone,telefoon]
 ---
-![Blackberry Curve](/images/2008/01/blackberry-curve-8310-vodafone-nl.jpg)
+![Blackberry Curve](blackberry-curve-8310-vodafone.jpg)
 
 Vandaag heb ik de [Blackberry Curve 8310 Vodafone](http://www.vodafone.nl/shop/package/phonePackege.jsp?catId=cat6270013&confSkuId=sku19870059) van de zaak afgehaald. ’t Is nog steeds een smartphone, maar na een jaar zeer tevreden gebruik van mijn Nokia E61 is het toch wel even wennen aan de interface. De Blackberry interface is doordacht, vaak intuïtief en bij vlagen briljant. Zo kan ik vanuit de oproepenlijst direct zoeken in mijn contactpersonen.
 
