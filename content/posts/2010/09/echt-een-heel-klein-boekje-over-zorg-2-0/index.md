@@ -4,8 +4,8 @@ date: '2010-09-19T07:54:19+00:00'
 tags:
     - boek
     - ebook
-    - ipad
     - zorg
+    - e-health
 ---
 
 [![](cover.jpg)](http://www.eburon.nl/een_heel_klein_boekje_over_zorg_2_0_ebook)

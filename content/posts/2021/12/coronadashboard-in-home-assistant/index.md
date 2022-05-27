@@ -4,7 +4,7 @@ title: Coronadashboard in Home Assistant
 description: "The Dutch government provides a Coronadashboard to the general public with statistics about the pandemic. It contains, among others, data on the vaccination rate and the number of contaminations. I wanted to know if it was possible to integrate a dashboard in my own Home Assistant instance."
 slug:  coronadashboard-in-home-assistant
 authors: []
-tags: [huisautomatisering, corona]
+tags: [huisautomatisering, corona,automatisering]
 categories: [English, Technologie]
 series: []
 externalLink: ""

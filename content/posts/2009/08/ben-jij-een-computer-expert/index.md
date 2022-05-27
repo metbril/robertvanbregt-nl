@@ -4,6 +4,7 @@ post_id: 729
 date: '2009-08-25T11:30:44+00:00'
 taxonomy:
 tags: [cartoon,computer,humor]
+categories: [Technologie]
 ---
 [![tech support cheat sheet](tech-support-cheat-sheet.png "tech support cheat sheet")](http://xkcd.com/627/)
 

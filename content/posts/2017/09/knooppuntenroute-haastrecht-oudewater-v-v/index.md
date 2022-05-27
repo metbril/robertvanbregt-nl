@@ -2,7 +2,6 @@
 title: 'Knooppuntenroute Haastrecht - Oudewater v.v.'
 date: '2017-09-26 07:07:00'
 tags:
-    - buiten
     - wandelen
     - route
 categories:

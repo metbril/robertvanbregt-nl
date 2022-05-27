@@ -3,7 +3,7 @@ title: "Ontgrendel met FileVault versleutelde macbook met een apple watch"
 slug: "ontgrendel-filevault-versleutelde-macbook-apple-watch"
 date: 2019-01-23T21:05:00+01:00
 author: Robert van Bregt
-tags: [apple,mac,apple watch]
+tags: [apple,mac,apple watch,smartwatch]
 categories:
   - Technologie
 ---

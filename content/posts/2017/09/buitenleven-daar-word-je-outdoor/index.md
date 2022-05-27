@@ -3,6 +3,7 @@ title: 'Buiten leven, daar word je outdoor'
 date: '2017-09-29 15:27:00'
 tags:
     - inspiratie
+    - citaat
 categories:
     - Buiten
 ---

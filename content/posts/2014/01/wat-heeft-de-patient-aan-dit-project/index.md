@@ -4,8 +4,8 @@ media_order: 4762141677_b1a857bb0e_o.jpg
 date: '2014-01-25 22:33:00'
 tags:
     - inspiratie
-    - projectmanagement
     - zorg
+categories: [Projectmanagement]
 ---
 
 Meerdere keren per week organiseer ik overleggen voor een van mijn projecten. Altijd gaat het over voortgang, planning en knelpunten. En vaak ook over risico’s en kwaliteit. We proberen zo met het gehele team een geweldig resultaat neer te zetten. Voor de opdrachtgever. Voor het ziekenhuis.
