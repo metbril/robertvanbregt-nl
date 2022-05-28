@@ -1,6 +1,3 @@
 [submodule "themes/grotius"]
 	path = themes/grotius
 	url = git://github.com/metbril/hugo-grotius.git
-[submodule "themes/sosimple"]
-	path = themes/sosimple
-	url = git://github.com/metbril/hugo-sosimple.git
