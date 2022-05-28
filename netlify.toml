@@ -87,11 +87,11 @@
   force = true
 
 # Optional: Redirect default Netlify subdomain to primary domain
-[[redirects]]
-  from = "https://robertvanbregt-nl.netlify.app/*"
-  to = "https://www.robertvanbregt.nl/:splat"
-  status = 301
-  force = true
+# [[redirects]]
+#   from = "https://robertvanbregt-nl.netlify.app/*"
+#   to = "https://www.robertvanbregt.nl/:splat"
+#   status = 301
+#   force = true
 
 # redirect from WordPress default feed
 [[redirects]]
