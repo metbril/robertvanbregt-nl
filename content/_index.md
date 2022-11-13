@@ -1,10 +1,11 @@
 ---
 # Site homepage
-title: Hallo. 👋 Ik ben Robert.
+title: Robert van Bregt
 menu:
   main:
-    name: 🚀 Startpagina
+    name: Start
     weight: -1
 ---
 
-Een ervaren projectmanager, daarbuiten een enthousiast liefhebber van wetenschap, technologie, computers en internet. Een geek uit de omgeving van Rotterdam, Nederland.
+Een ervaren projectmanager, daarbuiten een enthousiast liefhebber van wetenschap, technologie, computers en internet.
+

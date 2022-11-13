@@ -1,0 +1,28 @@
+# config/_default/languages.en.toml
+
+languageCode = "en"
+languageName = "English"
+displayName = ":uk:"
+isoCode = "en-GB"
+weight = 2
+rtl = false
+dateFormat = "2 January 2006"
+
+title = "Robert van Bregt"
+copyright = "&copy; 2022 Robert van Bregt"
+description = "The personal website of Robert van Bregt"
+
+[author]
+  # 'name' and 'email' are used in internal RSS template
+  name = "Robert van Bregt"
+  email = "contact@robertvanbregt.nl"
+  ## for Congo: image in assets folder
+  image = "img/profile.jpg"
+  links = [
+    { mastodon = "https://mastodon.nl/@ro" },
+    { twitter = "https://twitter.com/robertvanbregt" },
+    { linkedin = "https://linkedin.com/in/robertvanbregt" },
+  ]
+
+  headline = "Wants to improve the world, but himself first..."
+  bio = "This is an example author bio, and although there's a stock photo of a dog here, this article was actually created by a human. :dog:"

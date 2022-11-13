@@ -1,0 +1,108 @@
+baseUrl   = "https://robertvanbregt.nl/"
+languageCode = "nl-NL"
+defaultContentLanguage = "nl"
+
+title     = "Robert van Bregt"
+
+# copyright is used in internal RSS template
+copyright = "© Copyright Robert van Bregt 2003-2021"
+
+# Commented because using theme as Hugo module
+# theme = "congo"
+
+
+enableEmoji = true
+
+# Lazy menu
+# sectionPagesMenu = "main"
+
+##################################################
+
+# archetypeDir  = "archetypes"
+# assetDir      = "assets"
+# contentDir    = "content"
+# configDir     = "config"
+# datadir       = "data"
+# layoutDir     = "layouts"
+# publishDir    = "public"
+# staticDir     = "static"
+# themesDir     = "themes"
+
+##################################################
+
+# pagination
+paginate     = 10         # default = 10
+paginatePath = "pagina"   # default = "page"
+
+canonifyUrls = true
+
+pluralizeListTitles = false
+
+pygmentsStyle = "b2"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+
+disqusShortname = ""
+googleAnalytics = ""
+
+# content front matter format
+metaDataFormat = "yaml"
+
+summaryLength = 70  # default 70
+
+enableRobotsTXT = true
+
+# name and email are used in internal RSS template
+[author]
+  name  = "Robert van Bregt"
+  email = "contact@robertvanbregt.nl"
+
+  url   = "https://robertvanbregt.nl/"
+  photo = "/img/photo.jpg"
+
+[social]
+  # Twitter meta card
+  twitter = "robertvanbregt"  
+
+# explicitly specify taxonomies for series support
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[privacy]
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
+
+[services.rss]
+  limit = 10
+
+[permalinks]
+  # Specify for each section (= folder name)
+  posts = "/:year/:month/:day/:slug/"
+  page = "/:slug/"
+
+  # https://gohugo.io/content-management/urls/#permalink-configuration-values
+  # :year        | the 4-digit year
+  # :month       | the 2-digit month
+  # :monthname   | the name of the month
+  # :day         | the 2-digit day
+  # :weekday     | the 1-digit day of the week (Sunday = 0)
+  # :weekdayname | the name of the day of the week
+  # :yearday     | the 1- to 3-digit day of the year
+  # :section     | the content’s section
+  # :sections    | the content’s sections hierarchy
+  # :title       | the content’s title
+  # :slug        | the content’s slug (or title if no slug is provided in the front matter)
+  # :filename    | the content’s filename (without extension)
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
