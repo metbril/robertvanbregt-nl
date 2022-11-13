@@ -1,13 +1,15 @@
 baseUrl   = "https://robertvanbregt.nl/"
+languageCode = "nl-NL"
+defaultContentLanguage = "nl"
+
 title     = "Robert van Bregt"
 
 # copyright is used in internal RSS template
 copyright = "© Copyright Robert van Bregt 2003-2021"
 
-theme = "grotius"
+# Commented because using theme as Hugo module
+# theme = "congo"
 
-languageCode = "nl-nl"
-defaultContentLanguage = "nl"
 
 enableEmoji = true
 
@@ -48,6 +50,8 @@ metaDataFormat = "yaml"
 
 summaryLength = 70  # default 70
 
+enableRobotsTXT = true
+
 # name and email are used in internal RSS template
 [author]
   name  = "Robert van Bregt"
@@ -57,83 +61,8 @@ summaryLength = 70  # default 70
   photo = "/img/photo.jpg"
 
 [social]
-  twitter = "robertvanbregt"  # Used in internal Twitter meta card
-
-[params]
-
-  # ---------- official and common parameters ----------
-
- 	author      = "Robert van Bregt"
-  description = "Persoonlijke website van Robert van Bregt"
-  keywords    = "blog, persoonlijk"
-  images      = ["/img/avatar.jpg"]  # twitter cards
-  avatarURL   = "/img/avatar.jpg"
-  favicon     = "/favicon.ico"
-
-  # List sections with content for home page
-  mainSections = [ "posts" ]
-
-  # dateFormat = "2 January 2006"
-  dateFormat = "02-01-2006"
-
-  # See also post count
-  maxSeeAlsoItems = 5
-
-  commit = "https://github.com/metbril/robertvanbregt.nl/tree/"
-
-  rtl    = false
-
-  math   = false
-
-  # some markdown allowed
-  license = "Unless otherwise noted, all written content on this site is licenced with a [CC BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/)."
-
-  # --- social icons for Grotius theme ---
-
-  [[params.social]]
-      name = "LinkedIn"
-      icon = "fa fa-linkedin"
-      weight = 1
-      url = "https://www.linkedin.com/in/robertvanbregt/"
-      rel = "me"
-      color = "#0077b5"
-  [[params.social]]
-      name = "Twitter"
-      icon = "fa fa-twitter"
-      weight = 2
-      url = "https://twitter.com/robertvanbregt/"
-      rel = "me"
-      color = "#1da1f2"
-  [[params.social]]
-      name = "Github"
-      icon = "fa fa-github"
-      weight = 11
-      url = "https://github.com/metbril/"
-      rel = "me"
-      color = "#4183c4"
-  [[params.social]]
-      name = "Secure E-mail"
-      icon = "fa fa-gnupg"
-      weight = 97
-      url = "/key.asc"
-      color = "#0093DD"
-  [[params.social]]
-      name = "E-mail"
-      icon = "fa fa-envelope"
-      weight = 98
-      url = "mailto:contact@robertvanbregt.nl"
-      rel = "me"
-  [[params.social]]
-      name = "RSS"
-      icon = "fa fa-rss"
-      weight = 99
-      url = "/index.xml"
-      rel = "alternate"
-      type = "application/rss+xml"
-      color = "#f26522"
-
-[menu]
-  # Most menu items are defined in the front matter of that page.
+  # Twitter meta card
+  twitter = "robertvanbregt"  
 
 # explicitly specify taxonomies for series support
 [taxonomies]

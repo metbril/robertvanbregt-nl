@@ -1,9 +1,8 @@
 ---
-title: Berichten
-url: berichten
+title: Artikelen
+url: artikelen
 menu: 
   main:
-    name: ✍️ Berichten
+    # name: "Artikelen"
     weight: 1
 ---
-Ik schrijf op mijn website over van alles en nog wat. Hieronder vindt je een chronologisch overzicht, maar je kunt ook een categorie kiezen.
