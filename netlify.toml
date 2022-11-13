@@ -28,13 +28,18 @@
 
 [context.production.environment]
   HUGO_ENV = "production"
-  HUGO_VERSION = "0.92.1"
+  HUGO_VERSION = "0.104.3"
   HUGO_ENABLEGITINFO = "true"
 
 # Deploy Preview context: all deploys generated from a pull/merge request will
 # inherit these settings.
 [context.deploy-preview]
   command = "hugo --minify --buildFuture --buildDrafts --baseURL $DEPLOY_PRIME_URL"
+
+[context.deploy-preview.environment]
+  HUGO_ENV = "development"
+  HUGO_VERSION = "0.104.3"
+  HUGO_ENABLEGITINFO = "true"
 
 # Branch Deploy context: all deploys that are not from a pull/merge request or
 # from the Production branch will inherit these settings.
@@ -43,7 +48,7 @@
 
 [context.branch-deploy.environment]
   HUGO_ENV = "development"
-  HUGO_VERSION = "0.89.4"
+  HUGO_VERSION = "0.104.3"
   HUGO_ENABLEGITINFO = "true"
 
 # 604800 for a week
