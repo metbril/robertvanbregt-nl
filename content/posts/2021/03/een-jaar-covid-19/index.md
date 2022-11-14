@@ -1,5 +1,6 @@
 ---
 title: "Eén Jaar COVID-19"
+slug: een-jaar-covid-19
 date: 2021-03-02T06:31:55+01:00
 tags:
   - corona
