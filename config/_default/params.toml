@@ -8,6 +8,9 @@ autoSwitchAppearance = true
 [article]
   showTaxonomies = true
 
+[list]
+  showSummary = true
+
 [homepage]
   layout = "profile"
   showRecent = true
