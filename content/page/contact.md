@@ -1,13 +1,13 @@
 ---
 title: Hoe je met mij in contact kunt komen
 layout: page
-permalink: /contact
+slug: contact
 navigation_weight: 90
 navigation_title: Contact
 sitemap: false
 menu:
   main:
-    name: 📮 Contact
+    name: Contact
     weight: 190
 ---
 :wave: Hi. Leuk dat je hier bent.

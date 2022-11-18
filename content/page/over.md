@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Over Robert van Bregt
-url: over
+url: /over
 menu:
   main:
-    name: ️🙋🏻‍♂️ Over
+    name: Over
     weight: 10
 ---
 
