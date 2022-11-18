@@ -7,6 +7,8 @@ autoSwitchAppearance = true
 
 [article]
   showTaxonomies = true
+  # showDate = true
+  # showReadingTime = true
 
 [list]
   showSummary = true
