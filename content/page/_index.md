@@ -1,7 +1,9 @@
 ---
 # Congo theme
 cascade:
-  - showDate: false
+  - showAuthor: false
+    showDate: false
+    showPagination: false
     showReadingTime: false
     showTaxonomies: false
 ---
