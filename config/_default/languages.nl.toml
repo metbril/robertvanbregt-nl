@@ -26,3 +26,7 @@ description = "De persoonlijke website van Robert van Bregt"
 
   headline = "Wil de wereld verbeteren, maar eerst zichzelf..."
   bio = "This is an example author bio, and although there's a stock photo of a dog here, this article was actually created by a human. :dog:"
+
+[params]
+  # List sections with content for home page
+  mainSections = [ "posts" ]

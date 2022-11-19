@@ -2,7 +2,7 @@
 
 # ---------- Congo theme ----------
 
-colorScheme = "congo"
+colorScheme = "slate"
 autoSwitchAppearance = true
 
 [article]
@@ -33,9 +33,6 @@ keywords    = "blog, persoonlijk"
 images      = ["/img/avatar.jpg"]  # twitter cards
 avatarURL   = "/img/avatar.jpg"
 favicon     = "/favicon.ico"
-
-# List sections with content for home page
-mainSections = [ "posts" ]
 
 # dateFormat = "2 January 2006"
 dateFormat = "02-01-2006"
