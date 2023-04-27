@@ -28,7 +28,7 @@
 
 [context.production.environment]
   HUGO_ENV = "production"
-  HUGO_VERSION = "0.104.3"
+  HUGO_VERSION = "0.111.3"
   HUGO_ENABLEGITINFO = "true"
 
 # Deploy Preview context: all deploys generated from a pull/merge request will
@@ -38,7 +38,7 @@
 
 [context.deploy-preview.environment]
   HUGO_ENV = "development"
-  HUGO_VERSION = "0.104.3"
+  HUGO_VERSION = "0.111.3"
   HUGO_ENABLEGITINFO = "true"
 
 # Branch Deploy context: all deploys that are not from a pull/merge request or
@@ -48,7 +48,7 @@
 
 [context.branch-deploy.environment]
   HUGO_ENV = "development"
-  HUGO_VERSION = "0.104.3"
+  HUGO_VERSION = "0.111.3"
   HUGO_ENABLEGITINFO = "true"
 
 # 604800 for a week
