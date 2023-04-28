@@ -15,7 +15,7 @@ description = "De persoonlijke website van Robert van Bregt"
 [author]
   # 'name' and 'email' are used in internal RSS template
   name = "Robert van Bregt"
-  email = "contact@robertvanbregt.nl"
+  email = "contact.rjib@vanbregt.eu"
   ## for Congo: image in assets folder
   image = "img/profile.jpg" 
   links = [

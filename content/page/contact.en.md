@@ -14,11 +14,11 @@ menu:
 
 ## E-mail
 
-De eenvoudigste manier om contact op te nemen is [een e-mail sturen](mailto:contact@robertvanbregt.nl?subject=Hi). Normaal gesproken reageer ik binnen 24 uur op je bericht, maar heb een beetje geduld met me als het een keer ietsje langer duurt. :wink:
+De eenvoudigste manier om contact op te nemen is [een e-mail sturen](mailto:contact.rjib@vanbregt.eu?subject=Hi). Normaal gesproken reageer ik binnen 24 uur op je bericht, maar heb een beetje geduld met me als het een keer ietsje langer duurt. :wink:
 
 Vertrouwelijke berichten, bijvoorbeeld privé-foto's of documenten met persoonsgegevens, kun je beter versleuteld sturen naar mijn e-mailadres **robertvanbregt** apestaartje [ProtonMail.com](https://protonmail.com/).
 Het eenvoudigst kun je daarvoor eerst zelf [een mailadres maken bij ProtonMail](https://protonmail.com/signup) en het daarvandaan versturen.
-Gebruik je zelf al PGP, dan kun je de [publieke sleutel voor mijn Protonmail-adres](https://robertvanbregt.nl/key.asc) gebruiken met je normale e-mailadres.
+Gebruik je zelf al PGP, dan kun je de [publieke sleutel voor mijn Protonmail-adres](https://vanbregt.eu/key.asc) gebruiken met je normale e-mailadres.
 
 ## Tekstberichten
 
