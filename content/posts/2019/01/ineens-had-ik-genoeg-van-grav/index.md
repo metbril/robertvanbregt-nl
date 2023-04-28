@@ -3,7 +3,7 @@ title: "Ineens had ik genoeg van Grav"
 slug: "ineens-had-ik-genoeg-van-grav"
 date: 2019-01-28T19:27:00+01:00
 author: Robert van Bregt
-tags: [bloggen,grav,wordpress]
+tags: [bloggen,meta,grav,wordpress]
 categories:
   - Technologie
 ---
