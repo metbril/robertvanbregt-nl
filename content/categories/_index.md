@@ -1,8 +1,8 @@
 ---
 title: Categorieën
 url: /categorieen
-# menu:
-#   main:
-#     weight: 12
+menu:
+  footer:
+    weight: 5
 ---
 Een overzicht van alle categorieën.
