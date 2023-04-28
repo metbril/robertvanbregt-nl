@@ -7,7 +7,7 @@ tags:
   - apple
   - siri
   - automatisering
-  - huisautomatisering]
+  - huisautomatisering
 categories:
   - Technologie
 ---

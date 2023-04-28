@@ -1,16 +1,16 @@
 --- 
 date:  2021-12-21T21:50:00+01:00
-title: Coronadashboard in Home Assistant
-description: "The Dutch government provides a Coronadashboard to the general public with statistics about the pandemic. It contains, among others, data on the vaccination rate and the number of contaminations. I wanted to know if it was possible to integrate a dashboard in my own Home Assistant instance."
+title: Corona dashboard in Home Assistant
+description: "The Dutch government provides a Corona dashboard to the general public with statistics about the pandemic. It contains, among others, data on the vaccination rate and the number of contaminations. I wanted to know if it was possible to integrate a dashboard in my own Home Assistant instance."
 slug:  coronadashboard-in-home-assistant
 authors: []
-tags: [huisautomatisering, corona,automatisering]
-categories: [English, Technologie]
+tags: [home automation,corona,covid-19,automation]
+categories: [Technology]
 series: []
 externalLink: ""
 featured_image: "Coronadashboard COVID-19 Rijksoverheid nl.png"
 ---
-The Dutch government provides a [Coronadashboard][coronadashboard] to the general public with statistics about the pandemic. It contains, among others, data on the vaccination rate and the number of contaminations. I wanted to know if it was possible to integrate a dashboard in my own Home Assistant instance.
+The Dutch government provides a [Corona dashboard][coronadashboard] to the general public with statistics about the pandemic. It contains, among others, data on the vaccination rate and the number of contaminations. I wanted to know if it was possible to integrate a dashboard in my own Home Assistant instance.
 
 After some searching I found that [the data is also available as a JSON feed][domoticz].
 
@@ -26,7 +26,7 @@ The feed for the whole country is simply available at https://coronadashboard.ri
 
 Each safety region ("*veiligheidsregio*") has it's own feed.
 
-You can find the id by opening the regular [Coronadashboard][coronadashboard], scroll down and search for its name. The link for the page end with the id. For example, the link for Amsterdam-Amstelland is https://coronadashboard.rijksoverheid.nl/actueel/veiligheidsregio/VR13, so the id is `VR13`.
+You can find the id by opening the regular [Corona dashboard][coronadashboard], scroll down and search for its name. The link for the page end with the id. For example, the link for Amsterdam-Amstelland is https://coronadashboard.rijksoverheid.nl/actueel/veiligheidsregio/VR13, so the id is `VR13`.
 
 The feed for the safety region is available at `https://coronadashboard.rijksoverheid.nl/json/<id>.json`, where you need to replace `<id>` with the one you found.
 
@@ -36,7 +36,7 @@ The feed for Amsterdam-Amstelland is https://coronadashboard.rijksoverheid.nl/js
 
 Each municipality ("gemeente") has it's own feed.
 
-You can find the id by opening the regular [Coronadashboard][coronadashboard], scroll down and search for its name. The link for the page end with the id. For example, the link for Amsterdam is https://coronadashboard.rijksoverheid.nl/actueel/gemeente/GM0363 so the id for Amsterdam is `GM0363`.
+You can find the id by opening the regular [Corona dashboard][coronadashboard], scroll down and search for its name. The link for the page end with the id. For example, the link for Amsterdam is https://coronadashboard.rijksoverheid.nl/actueel/gemeente/GM0363 so the id for Amsterdam is `GM0363`.
 
 The feed for the municipality is available at `https://coronadashboard.rijksoverheid.nl/json/<id>.json`, where you need to replace `<id>` with the one you found.
 
