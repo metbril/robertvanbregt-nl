@@ -3,19 +3,21 @@ title: "Mijn tech stack na één jaar thuiswerken"
 slug: "mijn-tech-stack-na-een-jaar-thuiswerken"
 date: 2021-03-19T17:17:00+01:00
 author: Robert van Bregt
-tags: [corona]
+tags:
+  - corona
+  - covid-19
 categories:
   - Technologie
 featured_image: pexels-stanislav-kondratiev-5500228.jpg
 ---
 
-Sinds [Covid-19 onder ons](https://robertvanbregt.nl/2021/03/02/een-jaar-covid-19/) is, werk ik vooral vanuit huis. Gelukkig laat mijn werk dit prima toe, en stimuleert [mijn werkgever](https://maasstadziekenhuis.nl/) haar medewerkers ook dit vooral te doen. Inmiddels werk ik dus alweer een jaar thuis. Om het thuiswerken voor mijzelf zo prettig mogelijk te maken, heb ik mijn werkplek met behulp van technische zaken geschikt gemaakt.
+Sinds [Covid-19 onder ons]({{< ref "een-jaar-covid-19" >}}) is, werk ik vooral vanuit huis. Gelukkig laat mijn werk dit prima toe, en stimuleert [mijn werkgever](https://maasstadziekenhuis.nl/) haar medewerkers ook dit vooral te doen. Inmiddels werk ik dus alweer een jaar thuis. Om het thuiswerken voor mijzelf zo prettig mogelijk te maken, heb ik mijn werkplek met behulp van technische zaken geschikt gemaakt.
 
 ## Mobiele telefoon
 
 Lang voor het thuiswerken gewoon werd had ik al een mobiele telefoon tot mijn beschikking gekregen, maar als je thuis werkt kun je eigenlijk niet zonder. Zeker tijdens de eerste golf, in maart en april 2020, heb ik werkelijk eindeloos met Jan en alleman aan de telefoon gezeten. Nu is iedereen gewend aan [Microsoft Teams](https://www.microsoft.com/nl-nl/microsoft-teams/group-chat-software/), maar dat was in het begin zeker niet het geval.
 
-Ik maak gebruik van de [iPhone SE 2019](https://www.apple.com/nl/iphone-se/), een prima telefoon, lekker handzaam, en gemakkelijk in het gebruik, omdat ik privé ook ben [ondergedompeld in het ecosysteem van Apple](https://robertvanbregt.nl/spullen/).
+Ik maak gebruik van de [iPhone SE 2019](https://www.apple.com/nl/iphone-se/), een prima telefoon, lekker handzaam, en gemakkelijk in het gebruik, omdat ik privé ook ben [ondergedompeld in het ecosysteem van Apple]({{< ref "spullen" >}}).
 
 ## Computer
 
