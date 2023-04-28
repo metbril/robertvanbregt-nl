@@ -6,8 +6,6 @@ taxonomy:
     migration-status: review
 tags: [draagbaar,freeware,gratis,mac,osx,software,usb,draagbaar,freeware,gratis,mac,osx,software,usb]
 ---
-***Update**: je kunt nog meer [mac freeware](http://breggologisch.wordpress.com/mac-os-x/) op mijn blog vinden*
-
 [Samuel Dean van Web Worker Daily](http://webworkerdaily.com/author/samueldean/) heeft een verzameling gemaakt van [elf kleine gratis applicaties voor de Mac die je mee kunt nemen op een USB-stick](http://webworkerdaily.com/2007/12/27/eleven-go-anywhere-mini-applications-for-the-mac/).
 
 Geen zin om het artikel door te lezen, maar direct te downloaden:
@@ -23,3 +21,5 @@ Geen zin om het artikel door te lezen, maar direct te downloaden:
 - [Paintbrush](http://paintbrush.sourceforge.net/)
 - [Maintenance](http://www.titanium.free.fr/pgs2/english/maintenance.html)
 - [DoBeDo](http://www.bluehenley.com/products/dobedo/index.php?ref=vt)
+
+Je kunt nog meer mac freeware op deze blog vinden via de [tags](/tags).
