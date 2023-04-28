@@ -1,10 +1,9 @@
 ---
-title: Now
-url: now
-# menu:
-#   main:
-#     name: Nu
-#     weight: 170
+title: What I'm doing now
+slug: now
+menu:
+  footer:
+    name: Now
 ---
 Todo. Please see the [Dutch page][dutch].
 

@@ -1,10 +1,9 @@
 ---
-title: Nu aan het doen
-url: nu
-# menu:
-#   main:
-#     name: Nu
-#     weight: 170
+title: Wat ik nu aan het doen ben
+slug: nu
+menu:
+  footer:
+    name: Nu
 ---
 Dit zijn de zaken (in volgorde van prioriteit/tijdsbesteding) waar ik nu mee bezig ben. Als mijn activiteiten of prioriteiten wijzigen, zal ik deze pagina bijwerken.
 
