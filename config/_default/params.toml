@@ -11,6 +11,7 @@ autoSwitchAppearance = true
   # showReadingTime = true
 
 [list]
+  groupByYear = false
   showSummary = true
 
 [homepage]
