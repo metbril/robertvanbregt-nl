@@ -11,6 +11,4 @@ post_id: 1730
 
 ![Twitter Bird](/images/2008/05/twitter-bird.gif?w=128)
 
-Wie wil weten [wat Twitter precies is](http://breggologisch.wordpress.com/2008/02/06/twitter-is-top/), moet de video [Twitter in Plain English](http://www.commoncraft.com/Twitter) eens bekijken. En zich daarna gewoon [inschrijven en uitproberen](http://twitter.com/signup).
-
- 
+Wie wil weten [wat Twitter precies is]({{< ref "twitter-is-top" >}}), moet de video [Twitter in Plain English](http://www.commoncraft.com/Twitter) eens bekijken. En zich daarna gewoon [inschrijven en uitproberen](http://twitter.com/signup).
