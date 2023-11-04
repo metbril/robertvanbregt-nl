@@ -31,3 +31,9 @@ Met alleen een map per datum blijft dat aantal nog steeds behoorlijk over de jar
 ### Page Bundles
 
 Uitgangspunt is, om een pagina en de bijbehorende resources (afbeeldingen, video, audio etc.) bij elkaar te houden. Dit kan door ze bij elkaar in een map op te slaan. Hugo noemt dat [Page Bundles](https://gohugo.io/content-management/organization/#page-bundles).
+
+### Thema
+
+Het huidge thema van mijn site is [Congo](https://github.com/jpanther/Congo) en is geïnstalleerd als een Hugo Module.
+
+Om het thema bij te werken naar de laatste versie, maak je gebruik van het commando `hugo mod get -u` vanuit de projectmap.

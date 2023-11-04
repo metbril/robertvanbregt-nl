@@ -2,15 +2,12 @@
 
 languageCode = "en"
 languageName = "English"
-displayName = ":uk:"
-isoCode = "en-GB"
+languageDirection = "ltr"
 weight = 2
-rtl = false
-dateFormat = "2 January 2006"
 
 title = "Robert van Bregt"
-copyright = "&copy; 2022 Robert van Bregt"
-description = "The personal website of Robert van Bregt"
+# copyright is used in internal RSS template
+copyright = "&copy; 2003-2023 Robert van Bregt"
 
 [author]
   # 'name' and 'email' are used in internal RSS template
@@ -29,5 +26,8 @@ description = "The personal website of Robert van Bregt"
   bio = "This is an example author bio, and although there's a stock photo of a dog here, this article was actually created by a human. :dog:"
 
 [params]
+  description = "The personal website of Robert van Bregt"
+  dateFormat = "2 January 2006"
+
   # List sections with content for home page
   mainSections = [ "posts" ]

@@ -11,6 +11,10 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  identifier = "locale"
+  weight = 999
+  [main.params]
+    action = "locale"
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
