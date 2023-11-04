@@ -22,6 +22,7 @@ description = "The personal website of Robert van Bregt"
     { mastodon = "https://mastodon.nl/@ro" },
     { twitter = "https://twitter.com/robertvanbregt" },
     { linkedin = "https://linkedin.com/in/robertvanbregt" },
+    { github = "https://github.com/metbrilt" },
   ]
 
   headline = "Wants to improve the world, but himself first..."
