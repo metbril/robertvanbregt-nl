@@ -8,7 +8,7 @@ tags: [home automation,corona,covid-19,automation]
 categories: [Technology]
 series: []
 externalLink: ""
-featured_image: "Coronadashboard COVID-19 Rijksoverheid nl.png"
+feature: "*dashboard*"
 ---
 **Update nov-23:** The Dutch government has changed the Corona dashboards since publishing this article. I am unsure what is and what is no longer working.
 
