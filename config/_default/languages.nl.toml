@@ -22,7 +22,7 @@ description = "De persoonlijke website van Robert van Bregt"
     { mastodon = "https://mastodon.nl/@ro" },
     { twitter = "https://twitter.com/robertvanbregt" },
     { linkedin = "https://linkedin.com/in/robertvanbregt" },
-    { github = "https://github.com/metbrilt" },
+    { github = "https://github.com/metbril" },
   ]
 
   headline = "Wil de wereld verbeteren, maar eerst zichzelf..."
