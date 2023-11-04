@@ -10,6 +10,8 @@ series: []
 externalLink: ""
 featured_image: "Coronadashboard COVID-19 Rijksoverheid nl.png"
 ---
+**Update nov-23:** The Dutch government has changed the Corona dashboards since publishing this article. I am unsure what is and what is no longer working.
+
 The Dutch government provides a [Corona dashboard][coronadashboard] to the general public with statistics about the pandemic. It contains, among others, data on the vaccination rate and the number of contaminations. I wanted to know if it was possible to integrate a dashboard in my own Home Assistant instance.
 
 After some searching I found that [the data is also available as a JSON feed][domoticz].
