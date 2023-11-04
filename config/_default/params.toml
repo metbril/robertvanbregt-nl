@@ -1,5 +1,17 @@
 # config/_default/params.toml
 
+[author]
+  # name and email are used in internal RSS template
+  name  = "Robert van Bregt"
+  email = "contact.rjib@vanbregt.eu"
+
+  url   = "https://www.vanbregt.eu/"
+  photo = "/img/photo.jpg"
+
+[social]
+  # Twitter meta card
+  twitter = "robertvanbregt"
+
 # ---------- Congo theme ----------
 
 colorScheme = "slate"

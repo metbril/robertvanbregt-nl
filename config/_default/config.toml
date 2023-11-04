@@ -1,12 +1,6 @@
 # Base url is overwritten in netlify.toml
 baseUrl   = "https://www.vanbregt.eu/"
-languageCode = "nl-NL"
 defaultContentLanguage = "nl"
-
-title     = "Robert van Bregt"
-
-# copyright is used in internal RSS template
-copyright = "© Copyright Robert van Bregt 2003-2023"
 
 # Commented because using theme as Hugo module
 # theme = "congo"
@@ -51,18 +45,6 @@ metaDataFormat = "yaml"
 summaryLength = 30  # default 70
 
 enableRobotsTXT = true
-
-# name and email are used in internal RSS template
-[author]
-  name  = "Robert van Bregt"
-  email = "contact.rjib@vanbregt.eu"
-
-  url   = "https://www.vanbregt.eu/"
-  photo = "/img/photo.jpg"
-
-[social]
-  # Twitter meta card
-  twitter = "robertvanbregt"  
 
 # explicitly specify taxonomies for series support
 [taxonomies]
