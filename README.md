@@ -1,9 +1,9 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/52fffa2f-b39c-4e55-ad26-5c42c2339792/deploy-status)](https://app.netlify.com/sites/robertvanbregt-nl/deploys)
-[![Netlify](https://img.shields.io/netlify/52fffa2f-b39c-4e55-ad26-5c42c2339792)](https://app.netlify.com/sites/robertvanbregt-nl/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7aab4e76-1d18-4833-a0ac-aeff52d2ce30/deploy-status)](https://app.netlify.com/sites/robertvanbregt-nl/deploys)
+[![Netlify](https://img.shields.io/netlify/7aab4e76-1d18-4833-a0ac-aeff52d2ce30)](https://app.netlify.com/sites/robertvanbregt-nl/deploys)
 [![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m778967457-ef70f48943056678f234ac2b)](https://stats.uptimerobot.com/9987YCk75y/778967457)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fvanbregt.eu)](https://vanbregt.eu)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Frobertvanbregt.nl)](https://robertvanbregt.nl)
 
-# vanbregt.eu
+# robertvanbregt.nl
 
 ## Permalinks
 
