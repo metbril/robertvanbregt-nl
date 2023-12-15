@@ -7,36 +7,49 @@ menu:
     weight: 10
 ---
 
-Lees wat ik [nu aan het doen](/now) ben.
+*Please read what I'm [doing now](/now)!.*
 
-Hallo. Mijn naam is Robert van Bregt. Ik ben geboren en getogen in [Rotterdam][rotterdam]. Van jongs af aan ben ik gefascineerd door de mogelijkheden die computers ons kunnen bieden om het leven leuker, mooier en beter te maken.
+Hi. My name is Robert van Bregt. I am born and raised in [Rotterdam][rotterdam]. 
+From a young age, I have been fascinated by the opportunities and possibilities that computers can offer us to make our lives easier, better, more beautiful and more fun.
 
-> Probeer deze wereld een beetje beter achter te laten dan je haar gevonden hebt
+> Try and leave this world a little better than you found it
 >
-> -- Uit: [Laatste boodschap aan scouts van Robert Baden-Powell](https://nl.wikisource.org/wiki/Laatste_boodschap_van_Robert_Baden-Powell)
+> *From: [Laatste message to Scouts by Robert Baden-Powell](https://en.wikisource.org/wiki/Last_message_to_scouts)*
 
-## Prive
+## Private life
 
-Altijd nieuwsgierig naar [de laatste technologische ontwikkelingen][tweakers]. Pleitbezorger van [online privacy en vrijheid][bitsoffreedom]. [Huisautomatiseerder](/labels/domotica). [Codeknutselaar](/labels/code). Brildrager. Stiekem een beetje nerd? Ad-hoc geocacher. Echtgenoot en vader. Liefhebber van [Brussels Manneke drop][drop] en [chocolade van Tony][chocolade].
+Alway curious about [the latest technological developments][tweakers]. 
+[Online privacy and freedom][bitsoffreedom] advocate. 
+[Home automator](/tags/domotics).
+[Code tinkerer](/tags/code).
+Spectacles wearer.
+Secretly a bit nerdy?
+Ad-hoc geocacher.
+Father and husband.
+Lover of [licorice][drop] and [chocolate][chocolade].
 
-## Professioneel
+## Professional life
 
-Na een studie Bedrijfseconomie/Informatica aan de HEAO en enkele jaren als systeembeheerder en softwareontwikkelaar ben ik het vak projectmanagement ingerold. Dat heb ik eerst gedaan in de financiële dienstverlening en daarna in de gezondheidszorg. Inmiddels draai ik mijn hand niet om voor allerhande complexe en risicovolle projecten, maar het zwaartepunt van het werk en mijn hart blijft bij mijn “oude liefde” ICT.
+After a study Business Economics & Information Technology at a university of applied sciences, a few years of working in system administration and software development I entered into project management.
+At first in the financial services industry, and after that in healthcare.
+Nowadays I manage all kinds of difficult, complex projects with ease. But the focus of the work and my heart remains with my "old love" Information Technology.
 
-Meer informatie vind je in mijn [CV](/cv).
+More information is available in my [CV](/cv) (in Dutch) or in [my LinkedIn profile][linkedin].
 
-## Goede doelen
+## Supported charities
 
-In het bijzonder draag ik het werk van [Bits of Freedom][bitsoffreedom] een warm hart toe. Zij strijden voor onze digitale vrijheid. Naast het geven van voorlichting en educatie proberen ze vooral hun visie te delen met de politiek.
+
+I am particularly fond of the work of [Bits of Freedom][bitsoffreedom]. They fight for our digital freedom. In addition to providing information and education, they mainly try to share their vision with policy makers.
 
 ## Disclaimer
 
-Alles wat ik hier schrijf en publiceer is mijn eigen materiaal en op persoonlijke titel. Je leest hier nooit de mening of beleid van mijn werkgever. Als ik toch materiaal van iemand anders gebruik, zal ik altijd netjes vooraf toestemming vragen en proberen de bron te vermelden. Kom je materiaal tegen zonder (juiste) vermelding, [laat het me dan weten](/contact). Ik zal de vermelding dan aanpassen of het materiaal direct verwijderen.
+Everything I write and publish over here is my own material and in my personal capacity. You will never read my employer's opinions or policies here. If I do use someone else's material, I will always try to get permission in advance and mention the source. If you come across material without a (correct) mention, please [let me know](/contact). I will then change the listing or remove the material immediately.
 
-Heel soms zal ik ook een link plaatsen naar producten en diensten, waarvoor ik iets terugkrijg. Bijvoorbeeld een heel klein beetje geld als jij via deze site iets koopt bij Bol.com, of extra opslagruimte of verlenging van een abonnement als ik nieuwe gebruikers aanbreng bij een dienst. Op die manier kun je mij een beetje [steunen](/support).
+Very occasionally I will also post links to products and services for which I receive something in return, without any additional cost for you. For example, a very small amount of money if you buy something from Bol.com via this site, or extra storage space or extension of a subscription if I introduce new users to a service. Sometimes you even get some extras yourself. That way you can [support](/support) me a little with keeping this site up and financing my hobbies.
 
 [tweakers]: https://tweakers.net/nieuws
 [bitsoffreedom]: https://www.bitsoffreedom.nl/doneren
 [drop]: https://www.matthijsshop.nl/Brusselsmanneke
 [chocolade]: https://tonyschocolonely.com/nl/nl
 [rotterdam]: https://www.rotterdam.nl/
+[linkedin]: https://linkedin.com/in/robertvanbregt
