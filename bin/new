@@ -15,4 +15,4 @@ path=`date +%Y/%m`
 
 file="$section/$path/$slug/index.md"
 hugo new $file
-code $contentdir/$file
+codium $contentdir/$file
