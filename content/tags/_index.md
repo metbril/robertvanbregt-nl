@@ -1,8 +1,8 @@
 ---
-title: Labels
-slug: labels
+title: Tags
+slug: tags
 menu:
   footer:
     weight: 10
 ---
-Een alfabetische lijst van alle labels die zijn gebruikt in berichten, met tussen haakjes het aantal berichten waarin het label is gebruikt.
+An alphabetical list of all tags that have been used in posts.

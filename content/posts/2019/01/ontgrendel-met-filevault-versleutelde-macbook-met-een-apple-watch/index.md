@@ -5,7 +5,7 @@ date: 2019-01-23T21:05:00+01:00
 author: Robert van Bregt
 tags: [apple,mac,apple watch,smartwatch]
 categories:
-  - Technologie
+  - Technology
 ---
 
 **TL;DR**: Gebruik je iCloud-wachtwoord om je opstartschijf met FileVault te versleutelen als je de Mac automatisch wilt kunnen ontgrendelen met je Apple Watch. 

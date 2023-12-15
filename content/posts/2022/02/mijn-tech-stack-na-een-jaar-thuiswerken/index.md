@@ -7,7 +7,7 @@ tags:
   - corona
   - covid-19
 categories:
-  - Technologie
+  - Technology
 featured_image: pexels-stanislav-kondratiev-5500228.jpg
 ---
 
@@ -17,7 +17,7 @@ Sinds [Covid-19 onder ons]({{< ref "een-jaar-covid-19" >}}) is, werk ik vooral v
 
 Lang voor het thuiswerken gewoon werd had ik al een mobiele telefoon tot mijn beschikking gekregen, maar als je thuis werkt kun je eigenlijk niet zonder. Zeker tijdens de eerste golf, in maart en april 2020, heb ik werkelijk eindeloos met Jan en alleman aan de telefoon gezeten. Nu is iedereen gewend aan [Microsoft Teams](https://www.microsoft.com/nl-nl/microsoft-teams/group-chat-software/), maar dat was in het begin zeker niet het geval.
 
-Ik maak gebruik van de [iPhone SE 2019](https://www.apple.com/nl/iphone-se/), een prima telefoon, lekker handzaam, en gemakkelijk in het gebruik, omdat ik privé ook ben [ondergedompeld in het ecosysteem van Apple]({{< ref "spullen" >}}).
+Ik maak gebruik van de [iPhone SE 2019](https://www.apple.com/nl/iphone-se/), een prima telefoon, lekker handzaam, en gemakkelijk in het gebruik, omdat ik privé ook ben [ondergedompeld in het ecosysteem van Apple](/spullen).
 
 ## Computer
 

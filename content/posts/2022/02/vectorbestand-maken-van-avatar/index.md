@@ -5,7 +5,7 @@ date: 2022-02-27T22:17:00+01:00
 author: Robert van Bregt
 tags: []
 categories:
-  - Technologie
+  - Technology
 featured_image: avatar.jpg
 description: "Hoe ik van mijn avatar een vectorbestand heb gemaakt."
 ---

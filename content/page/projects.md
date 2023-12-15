@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Projecten waar ik aan heb gewerkt
-url: projects
+title: Projects I have worked on
+slug: projects
 # menu:
 #   main:
 #     name: Projecten

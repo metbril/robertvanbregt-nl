@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Mijn spullen
+title: My stuff
 slug: spullen
 menu:
   footer:

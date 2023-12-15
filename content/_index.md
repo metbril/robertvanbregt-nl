@@ -3,9 +3,8 @@
 title: Robert van Bregt
 menu:
   main:
-    name: Start
+    name: Home
     weight: -1
 ---
 
-Een ervaren projectmanager, daarbuiten een enthousiast liefhebber van wetenschap, technologie, computers en internet.
-
+Experienced project manager, otherwise lover of anything science, technology, computers and internet.

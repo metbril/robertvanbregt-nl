@@ -1,6 +1,6 @@
 ---
-title: Technologie
+title: Technology
+slug: technology
 ---
-De verzameling berichten over technologie in de breedste zin van het woord.
-Waarschijnlijk is dit de categorie met berichten.
-In ieder geval als je dat aan mijn familie zou vragen.
+My collection of posts about technology in the broadest sense.
+Probably the largest category. At least, if you would ask my family.

@@ -1,6 +1,6 @@
 # Base url is overwritten in netlify.toml
 baseUrl   = "https://www.vanbregt.eu/"
-defaultContentLanguage = "nl"
+defaultContentLanguage = "en"
 
 # Commented because using theme as Hugo module
 # theme = "congo"
