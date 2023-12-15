@@ -1,6 +1,5 @@
 ---
-title: Hoe je met mij in contact kunt komen
-layout: page
+title: Contact
 slug: contact
 navigation_weight: 90
 navigation_title: Contact
@@ -10,7 +9,7 @@ menu:
     name: Contact
     weight: 190
 ---
-:wave: Hi. Leuk dat je hier bent.
+:wave: Hi. Nice to see you.
 
 ## E-mail
 

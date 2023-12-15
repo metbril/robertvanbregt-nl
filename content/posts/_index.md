@@ -1,8 +1,8 @@
 ---
-title: Artikelen
-url: artikelen
-menu: 
+title: Articles
+url: articles
+menu:
   main:
-    # name: "Artikelen"
+    # name: "Articles"
     weight: 1
 ---

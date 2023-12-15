@@ -8,9 +8,10 @@ tags:
     - latte
     - melk
     - nerd
-    - technologie
     - video
     - youtube
+catagories:
+    - Technology
 ---
 
 Koffieliefhebber en geek tegelijk? Bouw dan een latte art printing machine, zoals in bijgaand filmje te zien is.

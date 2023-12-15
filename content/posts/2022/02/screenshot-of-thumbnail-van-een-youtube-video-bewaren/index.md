@@ -5,7 +5,7 @@ date: 2022-02-05T15:34:00+01:00
 author: Robert van Bregt
 tags: [firefox,youtube]
 categories:
-  - Technologie
+  - Technology
 featured_image: youtube-kurzgezagt-canyoufixclimatechange-snapshot.jpg
 ---
 

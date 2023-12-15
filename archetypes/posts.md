@@ -5,9 +5,9 @@ date: {{ .Date }}
 author: {{ .Site.Params.Author }}
 tags: []
 categories:
-  - Algemeen
-  - Buiten
-  - Deze Week
-  - Technologie
+  - General
+  - Outdoor
+  - This Week
+  - Technology
 draft: true
 ---

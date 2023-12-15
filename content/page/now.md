@@ -1,9 +1,9 @@
 ---
-title: Wat ik nu aan het doen ben
-slug: nu
+title: What I'm doing now
+slug: now
 menu:
   footer:
-    name: Nu
+    name: Now
 ---
 Dit zijn de zaken (in volgorde van prioriteit/tijdsbesteding) waar ik nu mee bezig ben. Als mijn activiteiten of prioriteiten wijzigen, zal ik deze pagina bijwerken.
 

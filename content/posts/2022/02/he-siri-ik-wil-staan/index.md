@@ -9,7 +9,7 @@ tags:
   - automatisering
   - huisautomatisering
 categories:
-  - Technologie
+  - Technology
 ---
 
 Sinds het begin van de pandemie [werk ik veel thuis]({{< ref "een-jaar-covid-19" >}}). In het begin met bestaande apparatuur, en bestaand meubilair. Maar in de loop van de tijd heb ik mijn werkplek steeds een beetje verbeterd. Een van de zaken waarin ik heb geïnvesteerd, is een zit-stabureau. Via mijn werkgever kon ik met een voorschotregeling een vergoeding krijgen, maar dan had ik de keuze uit één enkel model dat me niet echt beviel. Uiteindelijk ben ik daarna terecht gekomen bij IKEA. Daar viel mijn keus op de zwarte uitvoering van het robuuste model [IDÅSEN](https://www.ikea.com/nl/nl/cat/idasen-bureaus-47426/) in 160×80 cm.

@@ -4,7 +4,7 @@ post_id: 1469
 date: '2011-12-09T21:40:27+00:00'
 taxonomy:
     migration-status: review
-tags: [technologie,technologie]
+categories: [Technology]
 ---
 [![](/wp-content/uploads/2012/01/Sony_PRS_T1_Reader_Wifi-300x248.jpg "Sony_PRS_T1_Reader_Wifi")](http://partner.bol.com/click/click?p=1&t=url&s=2680&url=http%3A//www.bol.com/nl/p/elektronica/sony-reader-wi-fi-zwart/9000000011652493/index.html&f=TXL&name=sonyprst1)
 

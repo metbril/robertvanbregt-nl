@@ -1,8 +1,8 @@
 ---
-title: Categorieën
-url: /categorieen
+title: Categories
+# url: /categories
 menu:
   footer:
     weight: 5
 ---
-Een overzicht van alle categorieën.
+An overview of all categories used in this blog.

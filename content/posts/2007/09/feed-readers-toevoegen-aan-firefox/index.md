@@ -2,7 +2,7 @@
 title: Feed readers toevoegen aan Firefox
 date: '2007-09-01T05:45:00+00:00'
 tags: [computer,javascript,programmeren,rss,firefox]
-categories: [Technologie]
+categories: [Technology]
 ---
 
 In vorige versies van [Firefox](http://www.firefox.com/) kon ik via de Live Feeds optie eenvoudig een feed toevoegen aan [Google Reader](http://www.google.nl/reader/). Sinds kort, ik weet niet wat er gebeurd is, kan ik via de Google Reader optie alleen nog maar een feed toevoegen aan [iGoogle](http://www.google.nl/ig). En dat wil ik niet. 
