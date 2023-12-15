@@ -37,3 +37,10 @@ Uitgangspunt is, om een pagina en de bijbehorende resources (afbeeldingen, video
 Het huidge thema van mijn site is [Congo](https://github.com/jpanther/Congo) en is geïnstalleerd als een Hugo Module.
 
 Om het thema bij te werken naar de laatste versie, maak je gebruik van het commando `hugo mod get -u` vanuit de projectmap.
+
+Themes from others that I've used in the past, from latest to oldest:
+
+- [Bilberry](https://themes.gohugo.io/themes/bilberry-hugo-theme/)
+- [Mainroad](https://github.com/Vimux/Mainroad)
+- [Papermod](https://github.com/adityatelange/hugo-PaperMod)
+- [Coder](https://github.com/luizdepra/hugo-coder)
