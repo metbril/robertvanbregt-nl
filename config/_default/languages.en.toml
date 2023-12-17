@@ -22,11 +22,11 @@ copyright = "&copy; 2003-2023 Robert van Bregt"
     { github = "https://github.com/metbril" },
   ]
 
-  headline = "Makes the world a little better, but himself first."
-  bio = "Robert is an experienced projectmanger in health IT. Is een privacy advocate. Automates his home and his life, because he can. Is fascinated by sciency and technology."
+  headline = "Like to makes the world a little better, starting with himself."
+  bio = "Experienced projectmanger in health IT. Privacy advocate. Home and personal automatator. Likes sciency, technology and anything computers."
 
 [params]
-  description = "The personal website of Robert van Bregt"
+  description = "Personal website of Robert van Bregt"
   dateFormat = "2 January 2006"
 
   # List sections with content for home page
