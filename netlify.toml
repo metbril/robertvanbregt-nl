@@ -106,6 +106,12 @@
 #   status = 301
 #   force = true
 
+# Translated categories
+[[redirects]]
+  from = "/categories/buiten"
+  to = "/catagories/outdoor"
+  status = 301
+
 # redirect from WordPress default feed
 [[redirects]]
   from = "/feed"
