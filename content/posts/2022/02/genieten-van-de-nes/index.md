@@ -5,7 +5,7 @@ date: 2022-02-13T22:29:00+01:00
 author: Robert van Bregt
 tags: [wandelen,route,track]
 categories:
-  - Buiten
+  - Outdoor
 featured_image: nespolder-minibrug.jpg
 ---
 Steeds als we over de N210 rijden en we komen in de buurt van Bergambacht langs het natuurgebied [De Nespolder](https://www.zuidhollandslandschap.nl/nl/page/140), zeggen we tegen elkaar dat we daar eens een wandeling moeten maken. En vandaag is het zover. De weersverwachting is koud, winderig en zonnig. Lekker wandelweertje, dus.

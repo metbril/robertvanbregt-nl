@@ -6,7 +6,8 @@ tags:
     - youtube
     - internet
     - twitter
-post_id: 1730
+categories:
+  - Technology
 ---
 
 ![Twitter Bird](/images/2008/05/twitter-bird.gif?w=128)

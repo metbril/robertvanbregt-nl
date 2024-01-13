@@ -6,7 +6,7 @@ author: Robert van Bregt
 tags:
   - apple
   - siri
-  - automatisering
+  - automation
   - huisautomatisering
 categories:
   - Technology
@@ -18,7 +18,7 @@ Sinds het begin van de pandemie [werk ik veel thuis]({{< ref "een-jaar-covid-19"
 {{< figure src="idasen-desk-sit-stand-black-dark-grey-2.jpg" >}}
 {{< figure src="idasen-desk-sit-stand-black-dark-grey-3.jpg" >}}
 
-Het mooie daarvan is, en eerlijk gezegd was dat stiekem mede ook beetje een reden voor de keuze, dat het bureau draadloos is te bedienen. Aan de motor van het bureau zit een Bluetooth BLE module die gekoppeld kan worden met je Android of iOS telefoon. Dat biedt perspectief voor [automatisering](/tags/automatisering/)!
+Het mooie daarvan is, en eerlijk gezegd was dat stiekem mede ook beetje een reden voor de keuze, dat het bureau draadloos is te bedienen. Aan de motor van het bureau zit een Bluetooth BLE module die gekoppeld kan worden met je Android of iOS telefoon. Dat biedt perspectief voor [automatisering](/tags/automation/)!
 
 ## Bedienen met een iPhone app
 

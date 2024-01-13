@@ -2,7 +2,7 @@
 title: Op naar de 100
 date: '2012-08-02T20:59:19+00:00'
 tags: [fietsen]
-categories: [Buiten]
+categories: [Outdoor]
 ---
 Nu ik eigenlijk redelijk op gemak [een fietstocht van rond de 90 kilometer](/van-ouddorp-naar-capelle-1560/ "Van Ouddorp naar Capelle") kan maken, zij het dan zonder al te veel tegenwind, komt de magische grens van dagtochten van 100 kilometer in zicht. Dat is mooi, want een respectabele afstand.
 

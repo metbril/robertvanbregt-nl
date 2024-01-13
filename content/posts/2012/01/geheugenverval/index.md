@@ -2,8 +2,9 @@
 title: Geheugenverval
 date: '2012-01-13 14:21:00'
 tags:
-    - technologie
-    - fotografie
+    - photography
+categories:
+    - Technology
 ---
 ![microdrive](microdrive.jpg "Hitachi DSCM-11000 Microdrive")
 

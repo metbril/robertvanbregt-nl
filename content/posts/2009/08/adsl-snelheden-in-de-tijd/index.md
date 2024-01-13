@@ -2,10 +2,9 @@
 title: 'ADSL-snelheden in de tijd'
 date: '2009-08-12 09:30:00'
 tags:
-    - adsl
-    - freeler
-    - hetnet
     - internet
+categories:
+  - Technology
 ---
 
 Nu ik mijn oude blogberichten aan het terugzoeken ben, en dus ook weer teruglees wat ik destijds vastlegde, viel me op dat de snelheden voor ADSL de afgelopen jaren flink zijn toegenomen, bij gelijkblijvende kosten. 
