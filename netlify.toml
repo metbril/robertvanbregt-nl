@@ -108,8 +108,8 @@
 
 # Translated categories
 [[redirects]]
-  from = "/categories/buiten"
-  to = "/catagories/outdoor"
+  from = "/categories/buiten/*"
+  to = "/categories/outdoor/:splat"
   status = 301
 
 # redirect from WordPress default feed
